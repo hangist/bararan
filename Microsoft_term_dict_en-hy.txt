@@ -1,0 +1,5163 @@
+Համակարգչային եզրույթների բառարան (Microsoft)
+==========
+
+English|Հայերեն
+--------|--------
+"cooling-off" period|«սառեցման» շրջան
+#BLOCKED!|#ԱՐԳԵԼԱՓԱԿՎԱԾ!
+#CONNECT!|#ԿԱՊԱԿՑՈՒՄ
+#NOSPILL!|#ՉՎԱՆԴԱԿԱՀԱՏՈՒՄ!
+.NET Framework|.NET Framework
+.pst|.pst
+.theme file|.theme նիշք
+100% stacked bar chart|100% շեղջված գոտեձև գծապատկեր
+100% stacked column chart|100% շեղջված սյունակաձև գծապատկեր
+2-D|2-չափ
+2D Maps|2-չափ քարտեզներ
+2D view|2-չափ տեսք
+2-in-1|երկուսը` մեկում
+360° video|360° տեսանյութ
+3D|3-չափ
+3-D|3-չափ
+3-D column chart|3- չափ սյունաձև գծապատկեր
+3-D effect|3-չափ պատկերում
+3D Maps|3-չափ քարտեզներ
+3-D reference|3-չափ հղում
+3-D walls and floor|3-չափ պատեր և հատակ
+3DES|3DES
+802.1X|802.1X
+8-bit color|8-բիթանոց գույն
+AAL|AAL
+abandon|կիսատ թողնել
+ABN|ABN
+About|Մասին
+absolute cell reference|վանդակի բացարձակ հղում
+absolute link|բացարձակ կապ
+absolute positioning|բացարձակ դիրքավորում
+absolute URL|բացարձակ URL
+abstract|սեղմագիր
+Academic Library|Academic-ի դարան
+accent color|շեշտման գույն
+Accent Process|Շեշտման ընթացք
+acceptable use policy|ընդունելի գործածման դրույթներ
+access|մատչել, մատչում
+access code|մատչման կոդ
+access control list|մատչման հսկիչ ցուցակ
+access key|մատչման բանալի
+Access number|Մատչման համար
+access permissions|մատչման թույլտվություններ
+access point|մատչման կետ
+access provider|մատչում տրամադրող
+Access Services|Access Services
+access violation|մատչման խախտում
+accessibility|մատչելիություն
+Accessibility Advocate|Մատչելիության օգնական
+accessibility aid|մատչելիությունն օժանդակող պիտույք
+Accessibility Checker|Մատչելիության ստուգիչ
+Accessibility Wizard|մատչելիության օգնական
+accessory|պիտույք
+account|հաշիվ
+account balance|հաշվեկշիռ
+account expiration|հաշվի սպառում
+account lockout|հաշվի կողպում
+account manager|հաշվի կառավարիչ
+account picture|հաշվի նկար
+accounting|հաշվառում
+Accounting & finance|Հաշվապահություն և ֆինանսներ
+ACE|ՄԿԳ
+achievement|նվաճում
+ACL|ACL
+action|գործողություն
+Action & adventure|Գործողություն և արկածներ
+action argument|գործողության փոփոխական, արգումենտ
+action button|գործողության կոճակ
+action center|գործողությունների կենտրոն
+Action Items|Գործողության միավորներ
+action node|գործողության հանգույց
+action query|գործողության հարցում
+action row|գործողության տող
+action statement|գործադրույթ
+activate|ակտիվացնել, գործունացնել
+active|գործուն
+active cell|գործուն վանդակ
+active content|գործուն բովանդակություն
+Active Directory Domain Services|Գործուն գրացուցակների տիրույթների ծառայություն
+Active Directory-based activation|Active Directory-ով գործունացում
+active document|ընթացիկ փաստաթուղթ
+active document window|գործուն փաստաթղթի պատուհան
+active field|գործուն դաշտ
+active hours|օգտագործելու ժամերը
+active object|գործուն առարկա
+Active Server Pages|Սպասարկիչի գործուն էջեր
+active sheet|ընթացիկ թերթ
+active window|ընթացիկ պատուհան
+ActiveX|ActiveX
+ActiveX control|ActiveX կառավար
+ActiveX Data Objects|ActiveX տվյալների առարկաներ
+ActiveX object|ActiveX-ի առարկա
+activity|գործունեություն
+activity feed|գործունեության սնուցիչ
+Activity Reporting|Գործունեության զեկույցներ
+actual|իրական
+actual work|փաստացի աշխատանք
+acute accent|շեշտ
+ad hoc network|հատուկ ցանց
+ad mediation|գովազդային միջնորդ
+adapter|հարմարիչ
+adaptive brightness|հարմարողական պայծառություն
+add|հավելել
+Add Cite|Հավելել մեջբերում
+Add Space|Հավելել տարածություն
+Add to my OneDrive|Ավելացնել իմ OneDrive-ում
+Add to OneNote|ավելացնել OneNote-ին
+add-in|հավելվածք
+addition operator|գումարման գործարկու
+additional display|լրացուցիչ ցուցարկիչ
+additional requirement|լրացուցիչ պահանջ
+add-on|հավելասարք
+add-on device|հավելասարք
+address|հասցե
+address bar|հասցեագոտի
+Address Bar Top Result|Հասցեագոտու լավագույն արդյունքներ
+address book|հասցեագիրք
+ad-free|առանց գովազդի
+adjustment|կարգաբերում
+admin|արիչ
+Administration|Վարչություն
+administrative setup|վարչական տեղակայում
+administrator|վարիչ
+administrator setup|վարչական տեղակայում
+ADO|ADO
+Advanced Encryption Standard|Գաղտնագրման բարելավված ստանդարտ
+advertiser|գովազդատու
+advertising ID|գովազդի ID
+aerial view|օդային տեսք
+Aero|Aero
+Aero Wizard|Aero մոգ
+AES|AES
+affiliate|գործընկեր
+affiliate marketing|գործընկերային շուկայավարություն
+Affiliate Program|Գործընկերային ծրագիր
+agent|գործակալ
+aggressive address acquisition retry|հասցեների ստացման եռանդուն վերափորձում
+AIA|AIA
+AKI|AKI
+alarm|ազադանշան
+Alarms & Clock|Ազդանշաններ & Ժամացույց
+album|հավաքածու
+album info|ալբոմի տվյալներ
+alert|զգուշացում, իրազեկում
+alert box|զգուշացման տուփ
+algorithm|ալգորիթմ
+alias|այլանուն
+align|հավասարեցնել
+alignment|հավասարեցում
+alignment guide|հավասարեցման ուղեցույց
+alignment tab|հավասարեցման ներդիր
+All rights reserved.|Բոլոր իրավունքները պաշտպանված են։ / Բոլոր իրավունքները պահպանված են:
+All services|Բոլոր ծառայությունները
+allocate|հատկացնել
+allocation|բաշխում
+allocation unit|հատկացման միավոր
+allow|թույլատրել
+allow list|Թույլատրվող ցուցակ
+alphabetical|այբբենական
+ALT key|ԱՅԼ ստեղն
+ALT text|այլընտրանքային գրվածք
+alternate calendar|այլընտրանքային օրացույց
+Alternating Flow|Այլընտրական հոսք
+alternative text|այլընտրանքային գրվածք
+Always Move gallery|Մշտական տեղափոխման սրահ
+ambient light sensor|շրջակա լույսի սենսոր
+American Standard Code for Information Interchange|Տեղեկատվության փոխանակման ամերիկյան ստանդարտ կոդ
+amount|գումար
+ampersand|ամպերսանդ
+analogous colors|համանման գույներ
+Analytics Service|Վերլուծական ծառայություն
+ancestor|նախնի
+ancestor element|նախնի տարր
+anchor|խարիսխ
+angle brackets|անկյունաձեւ փակագծեր
+animate|շարժունացնել
+animation|շարժունացում
+animation effect|անիմացիոն էֆեկտ
+Animation Painter|Շարժանկարիչ
+animation scheme|անիմացիոն ուրվակազմ
+animation style|շարժունացման ոճ
+animation trigger|անիմացիայի խթան
+anonymizer|անանունիչ
+anonymous|անանուն
+answer|պատասխանել
+anti aliasing|հարթում
+antialiasing|հարթում
+antimalware program|հակավնասարար ծրագիր
+antimalware software|հակավնասարար ծրագրաշար
+anti-phishing|հակաորսում
+anti-shake|հակացնցում
+anti-shake feature|հակացնցումային յուրահատկություն
+antispyware program|հակալրտես ծրագիր
+antispyware software|հակալրտես ծրագրաշար
+apartment|բնակարան
+API|API
+apostrophe|ապաթարց
+app|գործադիր
+App & browser control|Գործադիրի և զննիչի կառավար
+app bar|գործադիրի գոտի
+app bundle|գործադիրների կապոց
+App Catalog|Գործադրի գրացուցակ
+app command|գործադիրի հրաման
+App connector|Գործադիրների կապակցիչ
+app container|գործադիրի զետեղարան
+app custom action|գործադրի հարմարեցրած գործողություն
+app frame|գործադիրի շրջանակ
+app launcher|գործադրի թողարկիչ
+App Monitor|Գործադիրների վերահսկում
+app name|գործադիրի անուն
+app package|գործադիրների փաթեթ
+app part|գործադրի մաս
+app preview|գործադիրի նախատեսք
+app step|գործադրի քայլ
+App Summary|Գործադիրի սեղմագիր
+app switch|գործադիրների փոխարկիչ
+app switching|գործադիրների փոխարկում
+App to App sign in|Գործադիրից գործադիր մուտքագրում
+App Update|Գործադիրի արդիացում
+Appear offline|Հայտնվել անցանց
+append query|հավելյալ հարցում
+applet|ծրագրույթ
+application|գործադիր
+application data|գործադրի տվյալներ
+Application Note|Գործադրի նշում
+application programming interface|կիրառական ծրագրավորման միջերես
+application single-threaded apartment|գործադիրի միահոսք բաժին
+apply|գործադրել
+Apps and Quizzes|Գործադիրներ և թեստեր
+archive|ի պահ դնել
+archive|պահոց
+archive|սեղմել
+area|տարածք
+area chart|տարածքաձև գծապատկեր
+area code|տարածքային կոդ
+argument|արգումենտ
+arrangement|դասավորություն
+array|զանգված
+array constant|զանգվածի հաստատուն
+array formula|զանգվածի բանաձև
+Arrow Ribbon|Սլաքի երիզ
+article|հոդված
+artist|կատարող
+artistic effect|նկարչական էֆեկտ
+ASCII|ASCII
+ASCII apostrophe|ASCII ապաթարց
+Ask Cortana|Հարցնել Cortana-ին
+ASP|ASP
+ASP.NET|ASP.NET
+aspect|հարաբերությունը
+aspect ratio|կողմերի հարաբերություն
+asset|ունեցվածք
+assigned task|նշանակված խնդիր
+assignee|վերագրված անձ
+assignment|վերագրում
+Assignments|Վերագրումներ
+Assistant object|Օգնականի առարկա
+assistant shape|օժանդակ ձև
+assistive technology|աջակցող տեխնոլոգիա
+associated PivotTable report|PivotTable-ի միավորված զեկույց
+ASTA|ASTA
+asterisk|աստղանիշ
+asynchronous|ոչ սինքրոն
+asynchronous transfer mode|ոչ սինքրոն փոխանցման կերպ
+at sign|ըթ նշանը
+ATM|ATM
+ATM adaptation layer|ATM հարմարեցման մակարդակ
+attach|կցել
+attachment|կցորդ
+Attachment Previewer|Կցորդի նախադիտակ
+Attachment Previewing|Կցորդի նախադիտում
+Attachment Reminder|Կցորդի հիշեցում
+Attendee/Recipient List|Մասնակիցների/ստացողների ցուցակ
+attention|ուշադրություն
+attribute|հատկանիշ
+AUD|AUD
+audio|ձայնային
+audio call|ձայնային կանչ
+audio CD|ձայնային CD
+audio challenge|ձայնային իսկորոշում
+audio style|ձայնի ոճ
+Audio Video Interleaved|Ձայնա-տեսա միջարկված
+audio waveform|հնչյունային ալեպատկեր
+AUP|AUP
+auth method|իսկորոշման եղանակ
+Authentic, Energetic, Reflective, and Open|Իսկական, եռանդուն, արտացոլող եւ բաց
+authentication|իսկորոշում
+authentication database|իսկորոշման շտեմարան
+authentication method|իսկորոշման եղանակ
+author|հեղինակ
+Author Marks|Հեղինակային նշումներ
+authority information access|մատչում լիազորության տեղեկությանը
+Authority Key Identifier|Լիազորության բանալիի նույնացուցիչ
+authorization|լիազորում
+authorize|հավաստագրել
+Auto Collage|Ինքնակոլաժ
+auto top-up|ինքնալիցքավորում
+AutoArchive|ինքնաշխատ պահոց
+AutoArchive|ինքնաշխատորեն ի պահ դնել
+AutoComplete|Ինքնալրացում
+AutoCorrect|Ինքնաշտկում
+Auto-Extend|Ինքնա-ընդլայնում
+AutoFilter|Ինքնազտիչ
+autoformat|ինքնաձևաչափում
+AutoLayout|Ինքնադասավորում
+automatic|ինքնաշխատ
+automatic file restore|նիշքերի ինքնավերականգնում
+Automatic Maintenance|Ինքնաշխատ սպասարկում
+Automatic Replies|Ինքնաշխատ պատասխաններ
+automatic reply|ինքնաշխատ պատասխան
+automatically save|ինքնաշխատորեն պահել
+Automation|ավտոմատացում
+Automation object|Ինքնաշխատեցման առարկա
+Automotive|Ավտոմեքենաներ
+AutoMovie|Ինքնաշարժանկար
+AutoPlay|Ինքնանվագարկում
+AutoPreview|Ինքնանախատեսք
+auto-recharge|ինքնա-վերալիցքավորում
+AutoRecover|Ինքնավերականգնում
+Auto-recover|Ինքնա-վերականգնում
+auto-redial|ինքնահավաքում
+AutoSave|Ինքնապահում
+AutoShape|Պատրաստի պատկեր
+AutoShapes|Պատրաստի ձև եր
+AutoSum|ինքնագումարել
+AutoText|ինքնալրացվող գրվածք
+auxiliary display|օժանդակ ցուցադրիչ
+availability|հասանելիություն
+availability indicator|առկայության ցուցիչ
+available|մատչելի
+available|ցանցում
+available memory|առկա հիշողոթյուն
+Avatar items|Ավատարի միավորներ
+AVERAGE.WEIGHTED|AVERAGE.WEIGHTED
+AVI|AVI
+Away|Բացակա
+axis|առանցք
+Azure Data Lake Store|Azure Data Lake Store
+Azure HDInsight Spark|Azure HDInsight Spark
+BAC|ԲԱՊ
+Back|Հետ
+Back button|«Հետ» կոճակ
+back up|պահուստավորել
+background|խորք
+background|խորքային
+background|հետնաշերտ
+background color|խորքային գույն
+background graphics|խորքի գծապատկեր
+Background pictures|Հետնաշերտային նկարներ
+Background Removal|Խորքի հեռացում
+backslash|ետշեղգիծ
+BACKSPACE key|ԵՏՇԱՐԺ ստեղն
+Backstage|Backstage
+Backstage view|Backstage տեսք
+backup|պահուստ
+Backup & manage|Պահուստավորում և կառավարում
+backup copy|պահուստային պատճեն
+backup file|պահուստային նիշք
+backup withholding|լրացուցիչ պահում
+backward compatibility|հետհամատեղելիություն
+backward slash|ետշեղգիծ
+bad debt|անհուսալի պարտք
+badge|նշան
+badge|տեղեկաքարտ
+Balance|Հաշվեկշիռ
+balloon|փուչիկ
+Banco do Brasil|Banco do Brasil
+banded|միջարկվող
+bandwidth|թողունակություն
+bank|բանկ
+bank code|բանկի կոդ
+bank sorting code|բանի տեսակավորման կոդ
+bank transit number|բանկի նույնացման համար
+Banking & investments|Բանկեր և ներդրումներ
+banner|ազդերիզ
+bar chart|գոտեգծույթ
+bar code|գծակոդ
+bar graph|գոտեգծույթ
+bar of pie chart|բլիթաձև գծապատկերի գոտի
+base character|հիմնական գրանշան
+Base Smart Card Cryptographic Service Provider|Խելաքարտերի հիմնական ծածկագրման ծառայության տրամագրող
+Base Smart Card CSP|Խելաքարտերի հիմնական CSP
+base style|հիմնական ոճ
+baseboard|հիմնասալիկ
+baseline|հիմնագիծ
+Basic Bending Process|Հիմնական ծռման ընթացք
+Basic Block List|Հիմնական բաժնի ցուցակ
+Basic Chevron Process|Հիմնական ծպեղների ընթացք
+Basic Cycle|Հիմնական շրջան
+basic input/output system|ներածման/արտածման հիմնական համակարգ
+Basic Matrix|Հիմնական մատրիցա
+Basic Pie|Հիմնական բլիթ
+Basic Process|Հիմնական ընթացք
+Basic Pyramid|Հիմնական բուրգ
+Basic Radial|Հիմնական շառավիղ
+Basic Target|Հիմնական նպատակ
+Basic Timeline|Հիմնական ժամագիծ
+Basic Title|Հիմնական անվանում
+Basic Venn|Հիմնական վրածածք
+battery|մարտկոց
+battery charge|մարտկոցի լիցքը
+battery level|մարտկոցի մակարդակը
+battery life|մարտկոցի կյանք
+battery life|լիցքի մակարդակ
+battery saver|մարտկոցի պահպանիչ
+baud|բոդ
+baud rate|բոդային արագություն
+bcc|ծածկապատճեն
+BCM|ԳԿԿ
+Be Right Back|Շուտով կվերադառնամ
+beacon|փարոս
+before event|իրադարձությունից առաջ
+bending|ծռված
+bending picture|ծռված նկար
+Bending Picture Accent List|Ծռված նկարի շեշտման ցուցակ
+bending process|ծռման ընթացք
+beneficiary correspondent account|Շահառուի թղթակից հաշվեհամար
+beneficiary INN|շահառուի INN
+beneficiary KPP|շահառուի KPP
+beneficiary RUT|շահառուի RUT
+Best rated|Լավագույնները
+Best selling|Լավագույն վաճառվողները
+Best selling apps|Լավագույն վաճառվող գործադիրները
+Best selling games|Լավագույն վաճառվող խաղերը
+Best-rated apps|Լավագույն գործադիրները
+Best-rated games|Լավագույն խաղերը
+bevel|հատած եզր
+bid|գնային առաջարկ
+bidi|երկուղղված
+bidirectional|երկուղղված
+BIK|BIK
+bill|հաշիվ
+billfold|դրամապանակ
+billing|հաշիվների ներկայացում
+billing and invoicing|հաշիվների եւ ապրանքագրերի ներկայացում
+binary|երկուական
+binary digit|երկուական թվանիշ
+binary file|երկուական նիշք
+bind|կապել
+BIND|BIND
+Binder|Binder
+binding|դերաբաշխում
+Bing|Bing
+Bing Maps|Bing Քարտեզներ
+binomial distribution|երկանդամային բաշխում
+biometric sensor|կենսաչափական սենսոր
+biometrics|կենսաչափություն
+BIOS|BIOS
+birthday reminder|ծննդյան օրվա հիշեցում
+bit|բիթ
+bit rate|բիթային արագություն
+bit specification|բիթային բնութագիր
+bit toggling keypad|բիթ փոխարկող ստեղնախումբ
+bitcoin|բիթքոյն
+BitLocker|BitLocker
+BitLocker Drive Encryption|BitLocker հիշասարքի գաղտնագրում
+BitLocker encrypted installation|BitLocker-ի ծածկագրված տեղադրում
+BitLocker Enterprise|BitLocker ձեռնարկություն
+BitLocker network unlock|BitLocker ցանցի ապակողպում
+bitmap|կետապատկեր
+bits per second|բիթ վայրկյանում
+blank page|դատարկ էջ
+blind carbon copy|ծածկապատճեն
+blindness|կուրություն
+block|արգելափակել
+Block Cycle|Բաժնի շրջան
+Block Quote|Հատվածային մեջբերում
+Blocked Encodings List|Արգելափակված կոդերի ցուցակ
+Blocked Senders List|Ուղարկողների արգելացուցակ
+Blocked Top-Level Domain List|Վերին մակարդակի տիրույթների արգելացուցակ
+blog|օրագիր
+blogger|օրագրող
+Bluetooth|Bluetooth
+Bluetooth Smart|Bluetooth Smart
+blur|լղոզում
+body text|հիմնական գրվածք
+bold|թավ
+Boleto Bancário|Boleto Bancário
+book fold|գրքի ծալում
+Bookings|Bookings
+bookmark|էջանիշ
+bookmarklet|հիպերծրագրույթ / էջածրագրույթ
+Books|Գրքեր
+Books & Reference|Գրքեր և տեղեկատուներ
+Boolean expression|Բուլյան արտահայտություն
+boot drive|սկզբնաբեռնման հիշասարք
+boot partition|սկզբնաբեռնող մասնաբաժին
+bootstrap|սկզբնաբեռնում
+border|եզրագիծ
+Border Painter|Եզրագծի նկարիչ
+Border Sampler|Եզրագծի նմուշ
+Border Styles gallery|Եզրագծի ոճերի սրահ
+bot|բոտ
+bound control|կապված պարագա
+bound object frame|կապված առարկայի շրջանակ
+bounding box|սահմանափակող տուփ
+box and whisker chart|տուփային և որոշակի նշանակմամբ գծապատկեր
+bps|բ/վ
+Bradesco|Bradesco
+branch|ճյուղ
+branch code|մասնաճյուղի կոդ
+Breakdown|Տրոհում
+breakpoint|ընդհատակետ
+brightness|պայծառություն
+Bring Your Own Device|Բեր քո սեփական սարքը
+BRL|BRL
+broadband|լայնաշերտ
+broadband connection|լայնաշերտ կապակցում
+broadband network|լայնաշերտ ցանց
+Broadcast Slide Show|Հեռարձակվող պատկերահանդես
+browse|զննել
+browser|զննիչ
+browser extension|զննիչի ընդլայնում
+browser modifier|զննիչի կերպափոխիչ
+browsing history|զննման պատմություն
+BSB|BSB
+BTC|BTC
+Budgeting & taxes|Բյուջե և հարկեր
+buffer|պահնակ
+build|կառուցել
+building block|կառուցվածքային բլոկ
+Building Blocks Organizer|Կառուցվածքային բլոկների կազմակերպիչ
+built-in app|ներկառուցված գործադիր
+built-in style|ներկառուցված ոճ
+built-in toolbar|ներկառուցված գործիքագոտի
+bullet|պարբերակ
+bulleted list|պարբերանշված ցուցակ
+Bulleted list|Պարբերանշված ցուցակ
+bundle|փաթեթ
+bundle|կապոց կազմել
+burn|գրանցել
+bus|դող
+business|ձեռնարկություն
+Business|Գործ
+Business Applications|Գործարարական գործադիրներ
+Business Card|Այցեքարտ
+Business Contact Manager|Գործարար կապերի կառավարիչ
+Business Intelligence Center|Գործնական տեղեկատվական կենտրոն
+busy|զբաղված
+busy signal|զբաղվածության ազդանշան
+button|կոճակ
+button face|կոճակի երես
+Buy|Գնել
+Buy Skype Credit|Ձեռք բերել Skype-ի վարկ
+by default|սկզբնադիր
+BYOC/CAL discount|BYOC/CAL զեղչեր
+BYOD|BYOD
+byte|բայթ
+C corporation|C միավորում
+CA|վկայագրման ատյան
+cable modem|մալուխային մոդեմ
+cache|շտեմ
+cache|շտեմել
+cached page|շտեմված էջ
+caching|շտեմում
+CAD|CAD
+CAL pack|Գնված թույլտվությունների փաթեթ
+calculated column|հաշվարկվող սյունակ
+calculated field|հաշվարկվող դաշտ
+calculated measure|հաշվարկված չափում
+calculated member|հաշվարկված անդամ
+calculator|հաշվիչ
+calendar|օրացույց
+calendar group|օրացույցների խումբ
+Calendar Groups|Օրացույցների խմբեր
+calendar item peek|օրացույցի միավորի թռուցքադիտում
+calendar list|օրացույցի ցանկ
+Calendar peek|Օրացույցի թռուցքադիտում
+Calendar Preview|Օրացույցի նախադիտում
+Calendar Printing Assistant|Օրացույցի տպման օգնական
+calendar program|օրացույց-ծրագիր
+Calendar Snapshot|Օրացույցի ճեպապատկեր
+calendar view|օրացուցային տեսք
+Calendar World Readiness|Օրացույցի միջազգային կարգավորումներ
+call|կանչ
+call|կանչել
+call forwarding|կանչի փոխանցում
+call log|զանգերի մատյան
+call phones|կանչել հեռախոսներին
+call waiting|կանչի սպասում
+caller ID|կանչողի ID
+caller identification|կանչողի նույնականացում
+calling channel|կանչի կապուղի
+callout|դրսագիր
+Camera|Խցիկ
+camera roll|խցիկի շարժ
+campaign|արշավ
+canary|ապահովիչ
+canary value|ապահովիչի արժեք
+cancel|չեղարկել
+capability|հնարավորություն
+CAPI|CAPI
+CAPI2|CAPI2
+capital letter|գլխատառ
+capitalization|գլխատառացում
+Capitalization of March and May|Մարտ և Մայիս ամիսների գլխատառացում
+capitalized|մեծատառ
+CAPS LOCK|CAPS LOCK
+CAPS LOCK key|CAPS LOCK ստեղն
+caption|խորագիր
+captive portal|գրավող կայքէջ
+capture device|կորզիչ սարք
+carbon copy|պատճեն
+card|քարտ
+Card & board|Սեղանա- և թղթախաղեր
+Card gallery|Քարտերի սրահ
+card reader|քարտ ընթերցիչ
+card validation code|քարտի ստուգման կոդ
+Card Verification Value|CVV կոդ
+caret|տանիք
+cart|սայլակ
+cascading menu|սանդղացանկ
+case|հանգամանք
+Cashback|Փոխհատույց
+Casino|Խաղատուն
+cast|հեռարձակել
+cast and crew|ստեղծագործական խումբ
+Cast to Device|Հեռարձակել սարքում
+catalog|գրացուցակ
+Categories|Անվանակարգեր
+category|անվանակարգ
+category axis|անվանակարգերի առանցք
+category field|անվանակարգի դաշտ
+CBR|համակարգչի հավաքման զեկույց
+cc|պատճեն
+cc:Mail|պճ. Փոստ
+CCM|CCM
+CD|CD
+CD burner|CD գրանցիչ
+CD burner speed|CD գրանցման արագություն
+CD player|CD նվագարկիչ
+CDP|CDP
+CD-R|CD-R
+CD-ROM|CD-ROM
+CD-RW|CD-RW
+cell|վանդակ
+cell phone|բջջային հեռախոս
+cell range|վանդակի ընդգրկույթ
+cell reference|վանդակի հղում
+cell spacing|վանդակների հեռավորություն
+cellular data|բջջային տվյալներ
+cellular network|բջջային ցանց
+cellular phone|բջջային հեռախոս
+cent sign|ցենտի նշան
+center|կենտրոնաբերել
+Central Bank MFO Code|Կենտրոնական բանկի MFO կոդ
+central bank transaction code|Կենտրոնական բանկի գործարքի կոդ
+central processing unit|կենտրոնական մշակիչ սարք
+Central Publishing service|Կենտրոնական հրատարակչական ծառայություն
+certificate|վկայագիր
+certificate chaining|վկայագրերի շղթաներ
+certificate issuer|վկայագիր թողարկող
+certificate of authenticity|իսկության վկայագիր
+certificate revocation checking|վկայագրի ետկանչման ստուգում
+certificate revocation list distribution point|Վկայագրերի հետկանչի ցուցակի բաշխման կետ
+certification authority|վկայագրման ատյան
+certification status|վկայագրման վիճակ
+challenge|իսկորոշում
+change|փոխել
+Change Graphic|Փոխել գծապատկերը
+change hint|փոփոխման ակնարկ
+change history|փոփոխումների պատմություն
+change marker|փոփոխության նշիչ
+changed lines|փոփոխված տողեր
+channel|կապուղի
+channel partner|գործընկեր ըստ կապուղու
+Channels|Կապուղիներ
+chapter|գլուխ
+char|գրանշ.
+character|գրանշան
+character code|գրանշանի կոդ
+character map|գրանշանների քարտեզ
+character set|գրանշանների կազմ
+character spacing|միջգրանշանային տարածություն
+character style|գրանշանի ոճ
+chargeback|հետգանձում / հետվճար
+charm|նշան
+charm|հրաշք կոճակ
+chart|գծապատկեր
+chart|վարկացուցակ
+chart area|գծույթի տարածք
+Chart Component|Գծապատկերի բաղադրիչ
+chart effect option|գծապատկերի էֆեկտի ընտրանք
+chart element|գծապատկերի տարր
+chart sheet|գծապատկերի թերթ
+chart style|գծապատկերի ոճ
+chat|զրուցել
+chat|զրույց
+check|կտրոն
+check|ստուգել
+check box|նշատուփ
+check in|գրանցել
+check mark|ստուգանիշ
+Check Names|Ստուգել անունները
+check out|դուրս գրել
+checkout|ստուգարկ
+checkpoint|ստուգակետ
+cheque|կտրոն
+Chevron List|Ծպեղների ցուցակ
+CHF|CHF
+child|երեխա
+child account|երեխայի հաշիվ
+child element|ենթատարր
+child menu|ենթացանկ
+choose|ընտրել
+Circular Bending Process|Շրջանային ծռման ընթացք
+citation|մեջբերում
+City guides|Քաղաքի ուղեցույցներ
+CJK Strokes|ՉՃԿ գծեր
+CLABE|CLABE
+Clarity and Conciseness|Հստակություն և հակիրճություն
+class|դաս
+class materials|դասի նյութեր
+class module|դասի մոդուլ
+Class Schedule|Դասի հերթացուցակ
+Classic|Դասական
+Classic view|Դասական տեսք
+Classics|Դասական
+Clean Up|Մաքրում
+clear|մաքրել
+Clear Recordings|Մաքրել գրառումները
+ClearType|ClearType
+ClearType Text Tuner|Գրվածքի ClearType կարգավորիչ
+click|կտտացնել
+Click and Type pointer shape|Կտտացնել և տպել ցուցիչի ձև
+Click-to-Run|Click-to-Run
+client|սպասառու
+Client Access Rule|Սպասառուի մատչման կանոն
+client computer|սպասառուի համակարգիչ
+Client Hyper-V|Hyper-V սպասառու
+client object model|սպասառու առարկայի մոդել
+client-side rendering|սպասառուի կողմի նյութավորում
+clip|հոլովակ
+clip art|պատկերադարան
+clip creation|հոլովակի ստեղծում
+clipboard|սեղմատախտակ
+clock|ժամացույց
+clock speed|մշակման արագություն
+CLOOKUP|CLOOKUP
+close|փակել
+close|գործարքի ավարտ
+closed caption|փակ խորագիր
+closed captioning|փակ խորագրում
+Closed Chevron Process|Փակ ծպեղների ընթացք
+closing chevron|փակող չակերտ
+closing curly quotation mark|փակող կեռ չակերտ
+closing parenthesis|փակող փակագիծ
+closing quotation mark|փակող չակերտ
+cloud|ամպ
+Cloud App Model|Cloud գործադիրի մոդել
+CLP|CLP
+cluster|բույլ
+clustered bar chart|փնջավոր գոտեձև գծապատկեր
+clustered column chart|փնջավոր սյունակաձև գծապատկեր
+Clutter|Նվազ առաջնահերթ
+CNPJ|CNPJ
+CNY|CNY
+COA|COA
+COALESCE|COALESCE
+co-authoring|համահեղինակում
+COD|COD
+code|կոդ
+code access security|կոդի մատչման անվտանգություն
+Code of Conduct|Վարվեցողության կանոնագիրք
+code page|կոդերի էջ
+code pane|կոդի փեղկ
+code sign|կոդով ստորագրել
+codec|կոդեկ
+coefficient of determination|սահմանման գործակից
+cold boot|սառը սկզբնաբեռնում
+cold start|սառը մեկնարկ
+Collaboration|Գործակցություն
+collapse|կոծկել
+Collect On Delivery|վճարում ստանալուց
+collection|հավաքածու
+collocation|բառակապակցություն
+color boost|գույնի խթանում
+color box|գունատուփ
+color category|գունային անվանակարգ
+color depth|գույնի խորություն
+color gamut|գունաշար
+color monitor|գունավոր ցուցարկիչ
+color printer|գունավոր տպիչ
+color profile|գունային հատկագիր
+color ramp|գունանցում
+color scheme|գունավորում
+color separation|գունաբաժանում
+color space|գունային տարածություն
+color space conversion|գունատարածության դարձում
+color space model|գունային տարածության ձևարկ
+color-space conversion|գունատարածության դարձում
+column|սյունակ
+column area|սյունակի տարածք
+column break|սյան ընդհատում
+column chart|սյունաձեւ գծույթ
+column field|սյունակի դաշտ
+column graph|սյունակաձև գծապատկեր
+column heading|սյունակի վերնագիր
+column selector|սյունակի ընտրիչ
+COM add-in|COM հավելվածք
+COM port|COM միացք
+combination chart|համակցման գծապատկեր
+combine|համակցել
+combining character|համակցող գրանշան
+combo box|համակցված տուփ
+combo box control|համակցված տուփ
+Coming soon|Շուտով
+comma|ստորակետ
+Comma After Greetings|Ստորակետ ողջույնից հետո
+comma-delimited text file|ստորակետով տարանջատված գրվածքային նիշք
+command|հրաման
+command button|հրամանային կոճակ
+command line|հրամանատող
+command prompt window|հրամանատողի պատուհան
+comment|մեկնաբանություն
+comment hint|մեկնաբանության ակնարկ
+comment mark|մեկնության նշան
+Comments|Մեկնաբանություններ
+Comments pane|Մեկնաբանություններ փեղկ
+commercial printing|արդյունաբերական տպագրություն
+common language runtime|սովորական լեզվի աշխատաժամանակ
+Commonly Confused Phrases|Հաճախակի շփոթմունք առաջացնող բառակապակցություններ
+communications port|հաղորդակցումների միացք
+Community|Համայնք
+community champion|համայնքի չեմպիոն
+compact disc|սեղմասկավառակ
+compact disc player|սեղմասկավառակի նվագարկիչ
+compact disc read-only memory|սեղմասկավառակային միայն կարդալու հիշողություն
+compact disc-recordable|գրանցելի սեղմասկավառակ
+compact disc-rewritable|վերագրանցելի սեղմասկավառակ
+compact row axis|տողերի խտացում
+Companion|Թիմային
+companion app|ուղեկից գործադիր
+company|ընկերություն
+company network|ընկերության ցանց
+compare|համեմատել
+Compare times|Համեմատել ժամանակը
+comparison criteria|համեմատության չափանիշներ
+comparison operator|համեմատության գործարկու
+compatibility|համատեղելիություն
+compatibility checker|համատեղելիության ստուգիչ
+compatibility mode|համատեղելիության կերպ
+Compatibility View|Համատեղելի տեսք
+compatible|համատեղելի
+compile|կազմարկել
+complementary colors|լրացնող գույներ
+Complete PC Backup|Complete PC պահուստավորում
+Complete PC Restore|Complete PC վերականգնում
+Complete the merge|ձուլման ավարտ
+complex number|կոմպլեքս թիվ
+complex script|բաղադրյալ սկրիպտ
+Compliance Technologies International|Compliance Technologies International
+component|բաղադրիչ
+Component Platform Interface|Բաղադրիչների հենքային միջերես
+compose|կազմել
+composite character|բաղադրյալ գրանշան
+Comprehension mode|Ըմբռնման կերպ
+compress|սեղմել
+compression|սեղմում
+compression utility|սեղմման օժանդակ ծրագիր
+computer|համակարգիչ
+computer administrator|համակարգչի վարիչ
+computer build report|համակարգչի հավաքման զեկույց
+computer language|համակարգչային լեզու
+Computer performance & health|Համակարգչի արտադրողականությունը և աշխատունակությունը
+computer program|համակարգչային ծրագիր
+computer security|համակարգչի անվտանգություն
+computer-to-computer network|համակարգիչ-առ-համակարգիչ ցանց
+concatenate|շղթայակցել
+concordance file|համապատասխանության նիշք
+condition|պայման
+conditional|պայմանական
+conditional compiler constant|պայմանական կոմպիլյատորի հաստատուն
+conditional expression|պայմանական արտահայտություն
+conditional format|պայմանային ձևաչափ
+conditional formatting|պայմանական ձեւաչափում
+cone chart|կոնաձև գծապատկեր
+conference|համամիասնական կանչ
+conference resource|խորհրդաժողովի միջոց
+config set|կազմաձեւեր
+configuration|կազմաձեւ
+Configuration Manager|Կազմաձեւի կառավարիչ
+configuration set|կազմաձեւեր
+configure|կազմաձեւել
+confirm|հաստատել
+conflict|բախում
+connect|կապակցել
+Connect to Office 365|Կապակցել Office 365-ին
+Connect with a data plan|Կապակցվել տվյալների ծրագրով
+connected standby|կապակցված նիրհ
+connection|կապակցում
+connection|կապ
+Connection Manager|կապի կառավարիչ
+connection type|կապակցման տեսակ
+connectivity|կապակցելիություն
+connector|կապակցիչ
+connector card|կապակցիչ քարտ
+Connectors|Կապակցիչներ
+Consistency|Հետևողականություն
+constant|հաստատուն
+constraint|սահմանափակում
+contact|կապորդ
+contact form|կոնտակտային ձև
+contact group|կապորդների խումբ
+Contact index|Կապորդների ցուցակ
+contact info|կապորդային տվյալներ
+contact information|կապորդային տվյալներ
+contact linking|կապորդների կապ
+contact list|կապորդների ցուցակ
+contact management|կապորդների կառավարում
+contact request|կապորդի հայց
+Contact Support|Կապվել աջակցման կենտրոնի հետ
+Contacts|Կապորդներ
+container|պարունակ
+content|բովանդակություն
+content app|բովանդակության գործադիր
+content app for Office|Office-ի համար բովանդակության գործադիր
+Content by Query|Բովանդակություն հարցման հիման վրա
+content card|բովանդակության քարտ
+content class|պարունակության դաս
+content control|բովանդակության պարագա
+content library|պարունակության դարան
+content master|բովանդակության հիմնօրինակ
+Content Query|Բովանդակության հարցում
+content rating|բովանդակության գնահատական
+Content Search|Բովանդակության որոնում
+content template|պարունակության ձեւանմուշ
+content type|բովանդակության տեսակ
+Contents|բովանդակություն
+Context|Համատեքստ
+context menu|համատեքստի ցանկ
+context-sensitive Help|տեղային օգնություն
+contextual command bar|համատեքստային հրամանագոտի
+contextual menu|համատեքստային ցանկ
+Contextual Spelling|Համաշարային ուղղագրում
+Continuous Arrow Process|Շարունակական սլաքի ընթացք
+Continuous Block Process|Շարունակական բաժնի ընթացք
+continuous crawl|շարունակվող սահում
+Continuous Cycle|Շարունակական շրջան
+Continuous Picture List|Շարունակական նկարի ցուցակ
+Continuum|Continuum
+contour|ուրվագիծ
+contour chart|ուրվագծային գծապատկեր
+contract|համաձայնագիր
+contract|պայմանագիր
+contrast|ցայտունություն
+contributor|աջակցող
+control|հսկում
+control|կառավար
+control character|կառավարի գրանշան
+Control key|Control ստեղն
+control menu|հսկիչ ցանկ
+Control Panel|Հսկիչ վահանակ
+control tip|կառավարման հուշակ
+Control Tools|Հսկիչ գործիքներ
+Converging Arrows|Միակցող սլաքներ
+Converging Radial|Զուգահեռ շառավիղ
+conversation|հաղորդակցում
+conversation|զրուցաշար
+Conversational|Զրուցաշարային
+conversion|փոխարկում
+conversion item|փոխարկման միավոր
+Convert to Shape|Փոխարկում ուրվաձևի
+converter|փոխարկիչ
+cookie|թխուկ
+coordinate|կոորդինատ
+coordinate pair|դիրքացույցների զույգ
+COP|COP
+coprocessor|համամշակիչ
+copy|պատճեն
+copy area|պատճենման տարածք
+copyright|հեղինակային իրավունք
+copyright notice|պատճենաշնորհի նշում
+copyright symbol|պատճենաշնորհի նշան
+core editing|հիմնական խմբագրում
+Corrections|Ուղղումներ
+correspondent account|թղթակից հաշիվ
+corrupted|վնասված
+Cortana|Cortana
+Cosmos|Cosmos
+counter|հաշվիչ
+Counterbalance Arrows|Հակակշիռ սլաքներ
+courtesy copy|պատճեն
+cover|կազմ
+cover letter|կազմէջ
+cover photo|կազմի նկար
+coworker shape|գործընկերոջ պատկեր
+CPF|CPF
+CPI|CPI
+CPU|CPU
+Credential Locker|Հավատարմագրերի պահարան
+Credential Manager|Վկայականների կառավարիչ
+credentials|հավատարմագրեր
+credit card|վարկային քարտ
+criteria|չափանիշ
+Criteria pane|Չափանիշի փեղկ
+critical update|վճռական արդիացում
+CRM|CRM
+CRM for Outlook|CRM՝ Outlook-ի համար
+crop|եզրատել
+cross hatch|խաչաձեւ ստվերագծում
+cross-functional flowchart|միջգործառնական սխեմա
+cross-site publishing|միջկայքային հրապարակում
+cross-site request forgery|միջկայքային հայցերի կեղծում
+crosstab query|խաչադիր հարցում
+crypto agility|ծածկագրման հմտություն
+crypto escrow key|պայմանական կրիպտոբանալի
+CryptoAPI|ԳաղտնAPI
+CryptoAPI 2.0|CryptoAPI 2.0
+cryptographic agility|ծածկագրման հմտություն
+Cryptography Application Programming Interface|Գաղտնագրված կիրառական ծրագրավորման միջերես
+CSOM|CSOM
+CSR|CSR
+CSRF|CSRF
+CTI|CTI
+CTRL|CTRL
+CTRL key|CTRL ստեղն
+cube|խորանարդ
+curate|ջոկել
+curated by|կողմից ջոկված
+curfew|արգելված ժամեր
+Currency|Տարադրամ
+currency symbol|տարադրամի նշան
+current cell|ընթացիկ վանդակ
+current region|ընթացիկ տարածք
+curriculum vitae|կենսագրություն
+cursor|նշորդ
+custom action|հարմարեցրած գործողություն
+Custom Animation list|հարմարեցված անիմացիոն ցանկ
+custom calculation|հարմարեցրած հաշվարկում
+custom control|հարմարեցրած գործիք
+custom dialog box|հարմարեցրած երկխոսության տուփ
+custom dictionary|հարմարեցրած բառացանկ
+custom extraction dictionary|արտահանման հարմարեցրած բառացանկ
+custom field|հարմարեցրած դաշտ
+custom group|հարմարեցրած խումբ
+custom group field|հարմարեցրած խմբերի դաշտ
+custom install|հարմարեցրած տեղադրում
+custom installation|հարմարեցրած տեղադրում
+custom repeat|ոչ-կաղապարային կրկնություն
+custom show|հարմարեցրած ցուցադրում
+custom toolbar|հարմարեցրած գործիքագոտի
+Customer Lockbox|Սպասառուների կողպատուփ
+Customer Manager|Customer Manager
+customer service|սպասառուների սպասարկման կենտրոն
+customer support|սպասառուների աջակցման կենտրոն
+customize|հարմարեցնել
+cut|կտրել
+CV|Ինքնակենսագրություն
+CVV|CVV
+cyan|մավի
+CyberSource Corp|CyberSource Corp
+Cycle|Շրջան
+cycle chart|շրջանաձև գծապատկեր
+cycle diagram|շրջանաձև գծապատկեր
+Cycle Matrix|Շրջանային մատրիցա
+cylinder chart|գլանի գծապատկեր
+cylindrical projection|գլանային պրոեկցիա
+dagger|դաշույն
+Daily Task List|Օրվա գործերի ցանկ
+DAO|DAO
+dash|գծիկ
+dashboard|կառավահան
+data|տվյալ
+Data & analytics|Տվյալներ և վերլուծական
+Data Access Objects|Data Access Objects
+Data Analysis|Տվյալների վերլուծություն
+data bar|արժեքի գիծ
+data binding|տվյալների կապում
+Data Communications Equipment|Տվյալների հաղորդակցման սարքավորում
+data connection file|տվյալների կապակցման նիշք
+Data Encryption Standard|Տվյալների գաղտնագրման ստանդարտ
+data entry|տվյալների գրառում
+Data Execution Prevention|Տվյալների կատարման կանխում
+data field|տվյալների դաշտ
+data file|տվյալների նիշք
+data form|տվյալների ձեւ
+data format|տվյալների ձևաչափ
+data graphic|տվյալների գծապատկեր
+Data Grid|Տվյալների ցանց
+data integrity|տվյալների ամբողջականություն
+data interchange format|տվյալների փոխանակման ձևաչափ
+data label|տվյալների պիտակ
+Data Lake Store|Data Lake Store
+data layout|տվյալներիի դասավորություն
+data marker|տվյալների նշիչ
+Data Outline|տվյալների ուրվագիծ
+data packet|տվյալների փաթեթ
+data pane|տվյալների փեղկ
+data plan|տվյալների ծրագիր
+data point|տվյալների կետ
+data processing|տվյալների մշակում
+data record|տվյալների գրառում
+data region|տվյալների շարան
+data series|տվյալների շարքեր
+data source|տվյալների աղբյուր
+data table|տվյալների աղյուսակ
+data transfer|տվյալների փոխանցում
+data type|տվյալների տիպ
+Data usage|Տվյալների օգտագործում
+data validation|տվյալների վավերացում
+database|տվյալների շտեմարան
+Database|Շտեմարան
+database connection|շտեմարանի կապակցում
+datasheet|տվյալների թերթ
+Datasheet view|Տվյալների թերթի տեսք
+Date Navigator|Օրացույց
+date separator|ամսաթվի բաժանիչ
+Date/Time|ամսաթիվ/ժամ
+DC|domain controller
+DC|DC
+DCB|DCB
+DCE|DCE
+deactivate|ապագործունացնել
+deadlock-prone|փոխարգելափակման հակված
+deafness|խլություն
+deal|գործարք
+Deal amount|Գործարքի գումար
+Deals active|Ընթացիկ գործարքներ
+Deals Hub|Գործարքների կենտրոն
+Deals lost|Չհաջողված գործարքներ
+Deals won|Հաջողված գործարքներ
+debug|վրիպազերծել
+Decimal|Տասական
+DecoType Naskh|DecoType Naskh
+DecoType Ruq'ah|DecoType Ruq'ah
+decrypt|վերծանել
+decryption|վերծանում
+deep link|խոր հղում
+default|սկզբնադիր
+default button|սկզբնադիր կոճակ
+default data file|տվյալների սկզբնադիր նիշք
+default font|սկզբնադիր տառատեսակ
+default location|սկզբնադիր տեղադրություն
+default shape|սկզբնադիր պատկեր
+default value|սկզբնադիր արժեք
+default workbook template|սկզբնադիր աշխատագրքի ձևանմուշ
+default worksheet template|սկզբնադիր աշխատաթերթի ձևանմուշ
+Define|Սահմանում
+defined name|սահմանված անուն
+Definition|Սահմանում
+definitions|սահմանումներ
+definitions callout|սահմանումների դրսագիր
+defragmentation|ապամասնատում
+degree symbol|աստիճանի նշան
+delay|հետաձգում
+delegate|պատվիրակ
+delete|ջնջել
+DELETE key|ՋՆՋԵԼ ստեղն
+delete query|ջնջման հարցում
+delimited text file|սահմանանշված գրվածքային նիշք
+delimiter|սահմանանշիչ
+delist|հանել ցուցակից
+deliver|առաքել
+deliverable|առաքելի
+Delivery Optimization|Առաքման լավարկում
+Dell NetReady|Dell NetReady
+Delve Analytics Outlook add-in|Outlook-ի Delve վերլուծական հավելվածք
+demo|ազդային
+demo|ցուցադրական
+demote|հետ տանել
+demote|իջեցնել
+DEP|DEP
+dependent|կախյալ
+deploy|գործադրել
+Deployment Image Servicing and Management|Deployment Image Servicing and Management
+deployment package|օգտագործման փաթեթ
+depth axis|խորության առանցք
+depth of field|հստակության խորություն
+DES|DES
+Design|Ձևավորում
+design element|ձեւավորման տարր
+Design Ideas|Ձևավորման գաղափարներ
+design lever|ձևավորման ընտրություն
+Design Manager|Ձևավորման կառավարիչ
+Design Master|Ձեւավորման վարպետ
+design mode|ձեւավորման կերպ
+Design panel|Ձևավորման վահանակ
+design template|ձեւավորման ձեւանմուշ
+Design tools|Ձեւավորման գործիքներ
+Design view|Ձեւավորման տեսք
+designer|ձեւավորող
+desktop|սեղան
+desktop background|սեղանի հետնաշերտ
+desktop device|սեղանի սարք
+desktop gadget|սեղանի վրայի հարմարանք
+Desktop Gadget Gallery|Սեղանի վրայի հարմարանքների հավաքածու
+desktop pattern|սեղանի երեսի նախշ
+desktop program|սեղանի ծրագիր
+destination|նպատակակետ
+destination area|նպատակակետի տարածք
+destination document|նպատակակետի փաստաթուղթ
+destination file|նշանակման նիշք
+detach|հեռացնել
+detail data|մանրամասն տվյալներ
+detail field|մանրամասների դաշտ
+Detail view|Մանրամասն տեսք
+Detailed Process|Մանրամասն ընթացք
+Detected Events|Հայտնաբերված իրադարձություններ
+Developer Site|Մշակողի կայք
+Developer tools|Մշակողի գործիքներ
+Development kits|Մշակման լրակազմեր
+device|սարք
+device claim|սարքի պահանջ
+device driver|սարքավար
+Device Encryption|Սարքի գաղտնագրում
+Device Guard signing|Device Guard ստորագրում
+device metadata package|սարքերի մետատվյալների փաթեթ
+Devices|Սարքեր
+Devices charm|Սարքեր հրաշք կոճակ
+diacritic|տարբերիչ
+diacritical mark|տարբերիչ նշան
+diagram effect option|գծապատկերի էֆեկտի ընտրանք
+dial|սահանիվ
+dial|հավաքել հեռախոսահամար
+dial pad|թվակալ
+dial tone|հեռախոսային ազդանիշ
+dialable format|հավաքվող համարի ձևաչափ
+dialer|համարհավաքիչ
+dialog box|երկխոսության տուփ
+Dialog Box Launcher|Երկխոսության տուփի թողարկիչ
+dial-up|հեռախոսագծային կապակցում
+Dial-Up Networking|հեռախոսագծային կապակցում
+Dictate|Թելադրում
+Dictation|Թելադրում
+dictionary|բառացանկ
+DIF|DIF
+digital|թվային
+digital certificate|թվային վկայագիր
+digital download code|ներբեռնման թվանշային կոդ
+digital handwriting|թվային ձեռագիր
+Digital ID|Թվային ID
+digital image|թվային պատկեր
+digital ink|թվային թանաք
+digital license|թվային լիցենզիա
+Digital Locker|Թվային պահարան
+digital photo|թվային լուսանկար
+digital signature|թվային ստորագրություն
+digital video|թվային տեսանյութ
+digital video disk|թվային բազմապիտանի սկավառակ
+digitally sign|թվանշորեն ստորագրել
+digitally signed|թվանշորեն ստորագրված
+DIGRAM FOR HEAVENLY EARTH|DIGRAM FOR HEAVENLY EARTH
+dim|խամրել
+dimension|չափում
+dimension level|չափման մակարդակ
+dimmed|խամրած
+Direct Dial number|Ուղղակի հավաքման համար
+direct memory access|հիշողության ուղղակի մատչում
+DirectAccess|DirectAccess
+directory|գրացուցակ
+directory control block|գրացուցակների հսկիչ կապան
+DirectX Graphics Infrastructure|DirectX Graphic Infrastructure
+disable|անջատել
+disabled|կասեցված
+disabled control|կասեցված գործիք
+disc|սկավառակ
+disc burner|սկավառակի գրիչ
+discard|հրաժարվել
+discard changes|հրաժարվել փոփոխություններից
+disclaimer|հրաժարում
+disconnect|անջատել
+discretionary hyphen|փափուկ տողադարձիչ
+discussion comment|քննարկման մեկնաբանություն
+discussion group|քննախումբ
+disk|սկավառակ
+disk drive|սկավառակային հիշասարք
+disk partition|սկավառակի մասնաբաժին
+disk space|սկավառակի տարածություն
+display|ցուցադրել
+display|ցուցադրիչ
+display adapter|ցուցադրիչի հարմարիչ
+display name|ցուցադրվող անուն
+Display Properties|Ցուցադրիչի հատկությունները
+disregarded entity|ոչ-իրավաբանական անձ
+distribute|տարածել
+distributed password authentication|գաղտնաբառերի բաշխված իսկորոշում
+distribution group|բաշխման խումբ
+distribution list|առաքման ցուցակ
+distributor|արածող
+Diverging Arrows|Հակադիր սլաքներ
+Diverging Radial|Ցրված շառավիղ
+divider|բաժանիչ
+division sign|բաժանման նշան
+DIY|DIY
+DKK|DKK
+DLC|DLC
+DLL|DLL
+DMA|DMA
+DMRC|DMRC
+DNS name|DNS անուն
+Do more|Այլ ընտրանքներ
+Do Not Disturb|Չանհանգստացնել
+Do Not Track|Չհետագծել
+doc|փասթ
+dock|հարակցիչ
+dock|հարակցել
+docked toolbar|հարակցված գործիքագոտի
+docking station|հարակցման կայան
+document|փատաթուղթ
+Document Deletion Policy|Փաստաթղթի ջնջման դրույթներ
+document element|փաստաթղթի տարր
+Document Fingerprinting|Փաստաթղթերի «մատնահետքեր»
+Document Information Panel|Փաստաթղթի տեղեկատվական փեղկ
+Document Inspector|Փաստաթղթի տեսուչ
+Document Integrity|Փաստաթղթի ամբողջականություն
+document library|փաստաթղթերի դարան
+document management system|փաստաթղթերի կառավարման համակարգ
+Document Map|Փաստաթղթի քարտեզ
+Document Panel|Փաստաթղթերի վահանակ
+document parsing|փաստաթղթի վերլուծում
+document properties|փաստաթղթի հատկություններ
+Document Review|Փաստաթղթի վերանայում
+document type definition|փաստաթղթի տիպի սահմանում
+document window|փաստաթղթի պատուհան
+Document Workspace|Փաստաթղթի աշխատատարածք
+Document Workspace site|Փաստաթղթի աշխատատարածք
+documentation|նկարագրություն
+Documents|Փաստաթղթեր
+dollar sign|դոլարի նշան
+DOM|DOM
+domain|տիրույթ
+doodle|խզբզոց
+dots per inch|կետ դյույմի վրա
+Double data type|Կրկնակի տվյալների տեսակ
+double-click|երկկտտացնել
+double-tap|երկտոփել
+doughnut chart|օղաբլիթաձև գծապատկեր
+downgrade|տարբերակի իջեցում
+download|ներբեռնել
+download|ներբեռնում
+download|ներբեռնում
+Download Manager|ներբեռնումների կառավարիչ / ներբեռնումների վերահսկիչ
+Downloads|Ներբեռնումներ
+DPA|DPA
+DPI|dpi
+DPI scaling|տարլուծման սանդղում
+draft|սևագիր
+draft quality|սևագիր որակ
+draft view|սևագիր տեսք
+drag|քաշել
+Drag and drop|Քաշել և գցել
+drag-and-drop|քաշել-գցել
+Draw|Թանաքի ընտրություն
+draw|նկարել
+drawing|նկար
+drawing canvas|կտավ
+drawing guide|նկարելու ուղեցույց
+drawing object|նկարչական առարկա
+drive|հիշասարք
+drive letter|հիշասարքի տառ
+driver|սարքավար
+drop area|գցելու տարածք
+drop lines|իջնող գծեր
+drop shadow|ընկնող ստվեր
+drop-down arrow|իջնող սլաք
+drop-down combo box|իջնող համակցված տուփ
+drop-down list|իջնող ցուցակ
+drop-down list box|իջնող ցուցակատուփ
+drop-down menu|իջնող ցանկ
+dry ink|չորացած թանաք
+DTD|DTD
+Dubai Font|Dubai Font
+due date|վերջնաժամկետ
+DUN|DUN
+DV|DV
+DVD|DVD
+DVD Player|DVD Նվագարկիչ
+DXGI|DXGI
+dynamic access control|փոփոխական մատչման հսկում
+dynamic canary|փոփոխական ապահովիչ
+Dynamic Email Delivery|Էլ․ նամակի դինամիկ տեղ հասցնում
+dynamic landing page|փոփոխական նպատակային էջ
+dynamic-link library|շարժունակապ դարան
+Dynamics CRM for Outlook|Dynamics CRM՝ Outlook-ի համար
+EA Access|EA Access
+EAC|ԱՆԳ
+Early Launch Antimalware driver|վաղ թողարկված հակավնասարար սարքավար
+Early learning|Վաղ ուսուցում
+early-launch boot driver|վաղ թողարկված սկզբնաբեռնման սարքավար
+Ease In|Դյուրին մուտք
+Ease of Access|Դյուրին մատչում
+Ease of Access Center|Դյուրին մատչման կենտրոն
+Ease Out|Դյուրին ելք
+easily|հեշտությամբ
+edge|եզր
+eDiscovery|էլ. տվյալների բացահայտում
+edit|խմբագրել
+edit|խմբագրում
+Edit menu|«Խմբագրել» ցանկ
+Edit mode|Խմբագրման կերպ
+editable ink|փոփոխվող թանաք
+editor|խմբագրիչ
+Editor|Խմբագիր
+Editors' picks|Խմբագրի ընտրանի
+EDP|EDP
+Education|Կրթություն
+educational|կրթական
+educator|կրթիչ
+edutainment|ուսժամանց
+effective|արդյունավետ
+efficiency bonus|արդյունավետության պարգեւ
+Efficient File Storage|Նիշքի արդյունավետ պահուստավորում
+ELAM driver|ELAM սարքավար
+Elapsed|Անցած
+electrical sensor|էլեկտրական սենսոր
+Electronic Business Card|Էլեկտրոնային այցեքարտ
+electronic mail|էլեկտրոնային փոստ
+element|տարր
+elevated command prompt|բարձրացված հրամանատող
+ellipsis|բազմակետ
+em dash|M-աչափ գիծ
+em space|em տարածություն
+email|ուղարկել էլ. փոստով
+email|էլ. փոստ
+e-mail|ուղարկել էլ. փոստով
+email account|էլ. փոստի հաշիվ
+e-mail account|էլ. փոստի հաշիվ
+email address|էլ. հասցե
+e-mail address|էլ. հասցե
+e-mail alias|էլ-փոստի այլանուն
+e-mail flooder|էլ-փոստային լցոնիչ
+Email Insights|Email Insights
+E-mail Merge|Էլ. փոստի միավորում
+email message|էլ. ուղերձ
+e-mail message|էլ. ուղերձ
+email reminder|էլ. փոստի հիշեցում
+e-mail server|էլ․ փոստի սպասարկիչ
+Email Settings page|էլ. փոստի կարգավորումների էջ
+Email to OneNote|էլ. փոստ ուղարկել OneNote
+embed|ներկառուցել
+Embed|Ներկառուցում
+embedded audio clip|ներկառուցված ձայնահոլովակներ
+embedded chart|ներկառուցված գծապատկեր
+embedded object|ներկառուցված առարկա
+embedded picture|ներկառուցված նկար
+Embedded Shell Launcher|Ներկառուցված խեցու թողարկիչ
+embedded video clip|ներկառուցված տեսահոլովակներ
+emoji|էմոձի
+emoticon|զմայլիկ
+Emphasize|Ընդգծում
+empty|դատարկ
+en dash|N-աչափ գիծ
+en space|en տարածություն
+enable|միացնել
+encapsulated PostScript|ներպատված PostScript
+encoding|կոդավորում
+encrypt|գաղտնագրել
+encryption|գաղտնագրում
+encryption key|գաղտնագրման բանալի
+encryption provider|գաղտնագրում տրամադրող
+end|վերջացնել
+end of support|աջակցման ավարտ
+end tag|փակող պիտակ
+end user|վերջնական օգտվող
+English Assistance|Անգլերեն լեզվի օգնական
+enhance|կատարելագործել
+enhanced|կատարելագործված
+enhanced audio CD|կատարելագործված ձայնային CD
+Enhanced dictation|Կատարելագործված թելադրում
+enhanced DVD movie|կատարելագործված DVD շարժանկար
+Enhanced ScreenTip|կատարելագործված Վահանահուշ
+enter|մուտքագրել
+ENTER key|ՄՈՒՏՔ ստեղն
+enterprise|ձեռնարկություն
+enterprise control|ձեռնարկության հսկում
+Enterprise data protection|Ձեռնարկության տվյալների պաշտպանություն
+entertainment|ժամանց
+entity|մարմին
+entity extraction|միավորների արտահանում
+entity extractor|միավորների արտահանիչ
+entity node|օբյեկտների հանգույց
+entry|մուտքագրում
+enumerated data type|թվարկված տվյալների տեսակ
+envelope|ծրար
+environmental sensor|միջավայրային սենսոր
+EPUB|EPUB
+equal sign|հավասարության նշան
+Equation|Հավասարում
+Equation Builder|Հավասարման կառուցիչ
+E-reader|Ընթերցիչներ
+error|սխալ
+error bar|սխալների գոտի
+error code|սխալի կոդ
+error log|սխալների մատյան
+error value|սխալի արժեք
+ESC key|ESC ստեղն
+Ethernet|Ethernet
+euro symbol|եվրոյի նշան
+Evaluate Formula|Գնահատել բանաձևը
+evaluation criteria|գնահատման չափանիշներ
+event|իրադարձություն
+event address|իրադարձության հասցե
+event handler|իրադարձությունների մշակիչ
+event listener|իրադարձության ունկնդիր
+Events|Դեպքեր
+Events from Email|Իրադարձություններ էլ. փոստից
+exact word extraction dictionary|ճշգրիտ բառի արտահանման բառացանկ
+exact word part extraction dictionary|ճշգրիտ բառի մասերի արտահանման բառացանկ
+Excel add-in|Excel-ի հավելվածք
+Excel Calculation Server|Excel հաշվարկման սպասարկիչ
+Excel Calculation Services|Excel հաշվարկման ծառայություններ
+Excel Cube Functions|Excel խորանարդի գործառույթներ
+Excel Mobile Viewer|Excel Mobile Viewer
+Excel Services|Excel Services
+Excel table|Excel-ի աղյուսակ
+Excel Web Services|Excel վեբ ծառայություններ
+Excel XML Format|Excel XML ձևաչափ
+Exchange ActiveSync|Exchange ActiveSync
+Exchange Fast Access|Exchange-ի արագ մատչում
+exclamation point|բացականչական նշան
+exclude dictionary|բացառել բառացանկը
+exclusive|բացառիկ
+execute|կատարել
+exempt ID|հարկերից ազատման համար
+exempt payee|հարկից ազատված վճարառու
+exit|ելնել
+Exit HTML Source|Ելնել HTML աղբյուրից
+expand|ընդարձակել
+expand control|ընդարձակման կառավար
+expand indicator|ընդարձակման ցուցիչ
+expanded view|ընդարձակված տեսք
+experience|փորձ
+expiration date|սպառման ժամկետ
+exploded doughnut chart|պայթած օղաբլիթի գծապատկեր
+exploded pie chart|ընդարձակված բլիթային գծապատկեր
+Exploding|Պայթող
+Exploding Outline|Պայթող ուրվագիծ
+explore|դիտել
+exponential trendline|ցուցչային միտման գիծ
+export|արտահանել
+exposure bias compensation|լուսակայման շեղման հատուցում
+exposure compensation|Լուսակայման հատուցում
+expression|արտահայտություն
+extended desktop|ընդարձակված սեղան
+extensible rights markup language|ընդլայնելի իրավունքներով նշարկման լեզու
+Extensible Stylesheet Language|Ոճաթերթերի ընդարձակելի լեզու
+extension|ընդլայնում
+extension|խմբավորում
+extent|տարածում
+external access|արտաքին մատչում
+external content type|արտաքին բովանդակության տեսակ
+external data|արտաքին տվյալ
+external data range|արտաքին տվյալների շարան
+external display|արտաքին ցուցադրիչ
+external list|արտաքին ցանկ
+External System|Արտաքին համակարգ
+external table|արտաքին աղյուսակ
+external task|արտաքին խնդիր
+extra color|հավելյալ գույներ
+extract|արտահանել
+eyedropper|կաթոցիկ
+face down|երեսնիվայր
+face up|երեսնիվեր
+faceted navigation|նիստավորված նավիգացիա
+facility field|հնարների դաշտ
+factorial|ֆակտորիալ
+failure|ձախողում
+Fair Usage Policy|Բարեխիղճ օգտագործման դրույթներ
+family|ընտանիք
+Family & kids|Ընտանիք և երեխաներ
+Family options|Ընտանեկան ընտրանքներ
+Family Safety|Ընտանեկան ապահովություն
+FAQ|Հաճախ տրվող հարցեր
+fast forward|արագ առաջանցում
+fast shutdown|արագ անջատում
+fast startup|արագ մեկնարկ
+FAT|FAT
+FAT32|FAT32
+fault|սխալ
+fault injection|սխալների ներարկում
+favorite|ընտրյալ
+Favorite Folders|Ընտրյալ պանակներ
+Favorites|Ընտրյալներ
+feature|յուրահատկություն
+feature update|յուրահատկությունների արդիացում
+Featured|Հատընտիր
+Featured albums|Հատընտիր ալբոմներ
+Featured apps|Հատընտիր գործադիրներ
+Featured artists|Հատընտիր կատարողներ
+Featured collections|Հատընտիր հավաքածուներ
+Featured games|Հատընտիր խաղեր
+Featured movies|Հատընտիր շարժանկարներ
+Featured music|Հատընտիր երաժշտություն
+Featured selection|Հատընտիր հավաքածու
+Featured sets|Հատընտիր կազմեր
+Featured TV|Հատընտիր ՀՏ
+Featured TV shows|Առաջարկվող ՀՏ հաղորդումներ
+feed|սնում
+Feed Discovery|Սնման հայտնագործում
+feedback|արձագանք
+Feedback Hub|Արձագանքի կենտրոն
+fetch|քաշել
+Fiction|Fiction
+fidelity|ճշգրտություն
+field|դաշտ
+field button|դաշտի կոճակ
+field code|դաշտի կոդ
+field name|դաշտի անուն
+field results|դաշտի արդյունքներ
+field type|դաշտի տեսակ
+Fighting|Գեղարվեստական
+file|նիշք
+file allocation table|նիշքերի տեղաբաշխման աղյուսակ
+File as Printout|Պահել որպես տպածո
+File Block|Նիշքերի արգելափակում
+File Explorer|Նիշքախույզ
+file format|նիշքի ձևաչափ
+File History|Նիշքի պատմություն
+File management|Նիշքերի կառավարում
+File managers|Նիշքերի կառավարիչներ
+File menu|«Նիշք» հրամանացանկ
+file name extension|նիշքի անվան ընդարձակում
+file picker|նիշքի ընտրիչ
+file property|նիշքի հատկություն
+file sharing program|նիշքերի համօգտագործման ծրագիր
+file system|նիշքային համակարգ
+File tab|ներդիր «Նիշք»
+File Transfer Protocol|Նիշքերի փոխանցման հաղորդակարգ
+file type|նիշքի տեսակ
+filer|նիշքավորող
+filer user|նիշքավորողի օգտագործող
+fill effect|լցում
+fill handle|լցման նշիչ
+fill series|շարքերի լցնում
+Film Grain|Ժապավենի հատիկներ
+filter|զտիչ
+filter|զտել
+filter area|զտման տարածք
+Filter By Form|մաղում ըստ ձեւի
+Filter By Selection|մաղում ըստ ընտրածի
+Filter Excluding Selection|Զտում ընտրածի բացառմամբ
+filter field|զտման դաշտ
+filtered HTML|զտված HTML
+Finance|Ֆինանսներ
+find|գտնել
+Find My Phone|Գտնել իմ հեռախոսը
+fingerprint reader|մատնահետքերի ընթերցիչ
+Finish|Ավարտ
+finish date|ավարտի ամսաթիվ
+firewall|հրապատ
+Firewall & network protection|Հրապատ և ցանցի պաշտպանություն
+first-stage Recycle Bin|առաջին փուլի Աղբաման
+fixed positioning|սեւեռված դիրքավորում
+flag|դրոշ
+flagged|դրոշված
+flash|բռնկել
+Flash Fill|Ֆլեշ լցում
+Flashing|Թարթում
+flick|պլստացնել
+flip ahead|զարկել առաջ
+float|սահող կետով տվյալ
+floating column chart|լողացող սյունակաձև գծապատկեր
+floating object|լողացող առարկա
+floating toolbar|լողացող գործիքագոտի
+floppy disk|ճկուն սկավառակ
+floppy disk drive|ճկուն սկավառակի հիշասարք
+flow|հոսք
+flowchart|գործընթացի քարտեզ
+Fluency Score|Վարժ տիրապետման միավոր
+Fluent|Fluent
+Fly Out|Դուրս թռչող
+flyer|թռուցիկ
+flyout anchor|դուրս թռչող խարիսխ
+focal length|կիզակետային տարածություն
+focus|կիզակետ
+Focus Mode|Կիզակետային կերպ
+Focused|Կիզակետում գտնվող
+Focused|Կարևոր գործարքներ
+Focused Inbox|Նախապես տեսակավորված մուտքի արկղ
+folder|պանակ
+folder home page|պանակի կայքէջ
+Folder List|պանակների ցուցակ
+Folder Pane|Պանակի փեղկ
+follow|հետևել
+font|տառատեսակ
+Font choices|Տառատեսակների ընտրություն
+font previewer|տառատեսակների նախադիտակ
+font size|տառաչափ
+Font spacing|Տառատեսակների հեռավորություն
+font style|տառատեսակի ոճ
+font substitution|տառատեսակի փոխարինում
+Food & Dining|Սնունդ և ուտեստներ
+Food & Drink|Սնունդ և ըմպելիք
+footer|էջատակ
+foreground color|հետնագույն
+foreign address|արտաքին հասցե
+foreign key|արտաքին բանալի
+form|ձև
+g|ձևաթղթի լրացման պարագա
+form definition file|ձևերի սահմանման նիշք
+form field|ձևադաշա
+form region|ձևերի տարածք
+form template|ձեւի նմուշ
+Form view|Ձևաթղթային տեսք
+Formal Language|Գրական լեզու
+format|ձևաչափ
+format|ձևաչափել
+format bar|ձևաչափման գոտի
+Format Object task pane|Առարկայի ձևաչափման խնդրափեղկ
+Format Painter|Ձևաչափման նկարիչ
+format switch|ձևաչափի փոխանջատում
+Formatting toolbar|Ձևաչափման գործիքագոտի
+forms cache|ձևերի շտեմ
+formula|բանաձեւ
+formula bar|բանաձեւերի գոտի
+Formula Builder|Բանաձևի կառուցիչ
+Formula Palette|Բանաձևի պնակ
+forward|փոխանցել
+forward slash|շեղ գիծ
+four-headed arrow|քառակողմ սլաք
+FPS|FPS
+fraction|մաս
+fraction|կոտորակ
+fraction bar|կոտորակի գիծ
+frame|շրջանակ
+frame|կադր
+Frame Guide|Շրջանակի ուղեցույց
+frame rate|կադրերի հաճախություն
+frames per second|կադրեր վայրկյանում
+framework|կառուցվածք
+fraudulent|խարդախ
+free|ազատ
+free/busy time|ազատ/զբաղված ժամանակ
+freeform|ազատ ձևի նկար
+freelancer|արտահաստիքային աշխատող
+freeze|սառեցնել
+friend|ընկեր
+friends|ընկերներ
+From Time|Ժամանակից
+FTE|ԼԴՀ
+FTP|FTP
+full screen|լիաէկրան
+full version|լիակատար տարբերակ
+full-screen mode|լիաէկրան կերպ
+full-time equivalent|լրիվ դրույքին համարժեք
+function|գործառույթ
+Funnel|Ձագար
+FUP|FUP
+furigana|ֆուրիգանա
+fuzzing|մոլորեցում
+gadget|հարմարանք
+gain adjustment|ուժգնացման կարգաբերում
+GAL|GAL
+gallery|սրահ
+Gallery View|Սրահի տեսք
+game|խաղ
+Game bar|Խաղի գոտի
+game hub|խաղերի կենտրոն
+game provider|խաղ տրամադրող
+Game trailers|Խաղերի ազդհոլովակներ
+Games|Խաղեր
+gapless|առանց դադարների
+gapless burning|գրանցում առանց դադարների
+gateway|անցուղի
+GB|ԳԲ
+GBP|GBP
+Gear|Ատամնանիվ
+general location|ընդհանուր տեղադրություն
+genre|ոճ
+genuine|իսկական
+genuine validation|իսկականության վավերացում
+gesture|հպում
+Gesture Engine|Հպման շարժիչ
+Get Genuine Windows|Get Genuine Windows
+Get Windows 10|Ստանալ Windows 10
+Getting Started|Ներածություն
+gift card|նվեր քարտ
+gigabyte|գիգաբայթ
+glass|ապակի
+glassiness|ապակեձեւություն
+global|ընդհանրական
+global address list|հասցեների ընդհանրական ցանկ
+global catalog server|ընդհանրական ցուցակների սպասարկիչ
+global template|ընդհանրական ձևանմուշ
+Global Universal Identification|ընդհանրական նույնացում
+globally unique identifier|եզակի ընդհանրական նույնարկիչ
+globally-unique identifier|եզակի ընդհանրական նույնարկիչ
+glomming|համատեղում
+gloss optimizer|փայլի լավարկիչ
+glow|փայլ
+glyph|գլիֆ
+glyph run|գլիֆաշար
+GN|GN
+Go|գնալ
+go back|վերադառնալ
+goal seek|հարաչափի հարմարեցում
+Government|Կառավարություն
+Government & politics|Կառավարություն և քաղաքականություն
+GPS receiver|GPS ընդունիչ
+grace period|տարկետման ժամկետ
+grace time|տարկետման ժամանակ
+grade|աստիճանակարգություն
+grade|գնահատական
+Grade Values|Գնահատականի արժեքները
+Gradebook|Թվանշանների մատյան
+gradient|սահանցում
+Grammar|Քերականություն
+Grammar Options|Քերականության ընտրանքներ
+Grammar pane|Քերականության փեղկ
+graph index|դասիչային գծապատկեր
+graphic|գծապատկեր
+graphic filter|պատկերային մաղ
+graphical user interface|օգտվողի գրաֆիկական միջերես
+Graphics Effects|Գծապատկերների էֆեկտներ
+Graphics Fill|Գծապատկերներում լցնում
+graphics filter|պատկերային մաղ
+Graphics Outline|Գծապատկերների ուրվագիծ
+Graphics Tools|Գծապատկերների գործիքներ
+grave accent|բութ
+grayscale|գորշասանդղակ
+greater than or equal to sign|«մեծ կամ հավասար է» նշան
+greater than sign|«մեծ քան» նշան
+Gregorian calendar|Գրիգորյան օրացույց
+grid|ցանց
+grid lines|ցանցագծեր
+Grid Matrix|Ցանցավոր մատրիցա
+grid origin|ցանցի սկիզբ
+gripper|բռնակ
+Groove|Groove
+Groove Music Pass|Groove Music Pass
+group|խումբ
+Group Ad-hoc Network|Խմբերի հատուկ ցանց
+group call|խմբային կանչ
+group card|խմբային քարտ
+group chat|խմբային զրույց
+group conversation|խմբային զրուցաշար
+group filter control|խմբային զտիչի կառավար
+group IM|խմբային IM
+group instant messaging|խմբային ուղերձում
+Group Policy|Խմբի կանոններ
+group schedule|խմբի հերթացուցակ
+group screen sharing|էկրանի խմբային համօգտագործում
+group video|խմբային տեսանյութ
+group video calling|խմբային տեսականչ
+Grouped List|Խմբավորված ցուցակ
+Groups|Խմբեր
+guest link|հյուրի կապ
+GUI|GUI
+GUID|GUID
+guide|ուղեցույցներ
+guided navigation|ուղեցույցով նավարկում
+gutter|միջնալուսանցք
+gutter margin|եզրային լուսանցք
+HAB|ՍՀԳ
+handle|բռնակ
+handout|նյութ
+handwriting|ձեռագիր
+handwriting panel|ձեռագրի հարթակ
+hanging indent|կախյալ նահանջ
+hard disk|կոշտ սկավառակ
+hard disk drive|կոշտ սկավառակի հիշասարք
+hard fail|լուրջ խափանում
+hard fault|սկավառակային սխալ
+hard page fault|սկավառակային էջի սխալ
+hardware acceleration|սարքային արագացում
+Hardware and Devices troubleshooter|սարքաշարի շտկիչ
+hardware failure|սարքաշարի ձախողում
+hardware interface|սարքաշարի միջերես
+hardware overlay|սարքաշարային վերածածկ
+hash|պատահական տվյալներ
+Hashtags|հեշթեգեր
+hatch|ստվերագծում
+hate speech|վիրավորական խոսք
+HCK|HCK
+HD|HD
+HD DVD|HD DVD
+HD movie|ԲՀ շարժանկար
+HDMI|HDMI
+header|էջագլուխ
+Header|Վերնագիր
+header row|գլխատող
+header source|էջագլխի աղբյուր
+heading style|վերնագրի ոճ
+Headphone Virtualization mode|Ականջակալների վիրտուալացման կերպ
+headset|ականջակալ
+health|աշխատունակություն
+Health & Fitness|Առողջություն և ֆիթնես
+health analyzer|աշխատունակության վերլուծիչ
+heap corruption|զանգվածային վնասվածք
+heat|ջերմություն
+heat map|ջերմաքարտեզ
+Hello|Hello
+Hello World|Ողո՜ւյն աշխարհ
+help|օգնություն
+Help+Tips|Օգնություն+Հուշակներ
+hibernate|նիրհել
+Hibernation File Cleaner|Նիշքերի մաքրում նիրհից հետո
+hidden|թաքնված
+hidden network|թաքնված ցանց
+hidden text|թաքնված գրվածք
+hierarchical address book|ստորակարգ հասեագիրք
+hierarchical menu|ստորակարգ ցանկ
+hierarchy|աստիճանակարգություն
+Hierarchy|Ստորակարգություն
+Hierarchy List|Ստորակարգի ցուցակ
+High Contrast|Բարձր ցայտունություն
+High Quality Video|Բարձրորակ տեսանյութ
+high-definition DVD|բարձր հստակությամբ ԹՏՍ
+high-definition multimedia interface|բարձր հստակության մուլտիմեդիա միջերես
+high-density multichip interconnect|բարձր խտությամբ բազմաչոփ միջկապակցում
+highlight|գունանշել
+highlighter|գունանշիչ
+high-low lines|բարձր-ցածր գծեր
+high-stakes testing|վճռորոշ փորձարկում
+HIP challenge|HIP իսկորոշում
+histogram|հիստագիր
+history|պատմություն
+History list|Պատմության ցուցակ
+History worksheet|Պատմության աշխատաթերթ
+hit|արդյունք
+Hobbies & toys|Զբաղմունք և խաղալիքներ
+Hold|Պահված
+hold|պահում
+Hold and eDiscovery|էլ․ տվյալների ինքնաշխատ հայտնաբերմանն աջակցող յուրահատկություն
+hold down|սեղմապահել
+hologram|լիապատկեր
+Holograms|Լիապատկերներ
+holographic label maker|լիապատկեր պիտակ կերտիչ
+HoloLens|HoloLens
+Home|սկիզբ
+home|տուն
+Home & garden|Home & garden
+home address|տան հասցե
+home automation controller|տնային ավտոմատացման հսկիչ
+home cell|տան վանդակ
+home page|գլխավոր էջ
+home phone|տան հեռախոս
+homegroup|տնախումբ
+HomeGroup|Տնախումբ
+homegroup computer|տնախումբի համակարգիչ
+homegroup password|տնախմբի գաղտնաբառ
+HomeGroup troubleshooter|Տնախմբի անսարքությունների շտկիչ
+homepage|տնէջ
+homework app|թույլատրված գործադիր
+homework list|թույլատրված ցուցակ
+homework website|թույլատրված կայք
+horizontal axis|հորիզոնական առանցք
+Horizontal Bullet List|Հորիզոնական պարբերակի ցուցակ
+horizontal cone chart|հորիզոնական կոնաձև գծապատկեր
+horizontal cylinder chart|հորիզոնական գլանաձև գծապատկեր
+Horizontal Hierarchy|Հորիզոնական ստորակարգ
+Horizontal Labeled Hierarchy|Հորիզոնական պիտակված ստորակարգ
+Horizontal Line|Հորիզոնական գիծ
+Horizontal Picture List|Հորիզոնական նկարների ցուցակ
+horizontal pyramid chart|հորիզոնական բրգաձև գծապատկեր
+horizontal ruler|հորիզոնական քանոն
+host|խնամորդ
+host|խնամորդել
+Hotels|Հյուրանոցներ
+Hotmail|Hotmail
+Hotmail|Hotmail
+hotspot|մատչելիության տարածք
+hover|մակարկել
+How do I|Ինչպես կարող եմ
+HPFS|HPFS
+HTML|HTML
+http|http
+HTTP|HTTP
+Hub|Կենտրոն
+hub category identifier|Հանգույցային անվանակարգի նույնացուցիչ
+hybrid drive|խառնածին հիշասարք
+hydrate|բեռնել
+hyperlink base|գերկապի հիմք
+hyperlink display text|գերկապի ցուցադրվող գրվածք
+hyperlink field|գերկապի դաշտ
+Hypertext Markup Language|Հիպերտեքստի նշարկման լեզու
+Hypertext Transfer Protocol|Հիպերտեքստի փոխանցման հաղորդակարգ
+hyphen|տողադարձիչ
+hyphenation|վանկատում
+I/O (input/output)|I/O
+I/O request packet|I/O հարցման փաթեթ
+IAS|IAS
+IBAN|IBAN
+icon|պատկերակ
+ID|ID
+identification|նույնականացում
+identifier|նույնացուցիչ
+identity|ինքնություն
+IDL|IDL
+IDR|IDR
+IEEE 802.1X security standard|IEEE802.1x անվտանգության ստանդարտ
+IFSC code|IFSC կոդ
+IFSV2|IFSV2
+ignore|անտեսել
+IIS|IIS
+IKE|IKE
+Illustration & graphic design|Պատկերազարդում և պատկերային ձեւավորում
+IM|IM
+image|պատկեր
+Image Annotator|Պատկերի ծանոթագրիչ
+image stabilization|պատկերի կայունացում
+imaging|պատկերում
+imaging device|պատկերման սարք
+IMAP|IMAP
+IME|IME
+immersive|սուզիչ
+immersive view|սուզիչ տեսք
+implicit intersection|ենթադրելի հատում
+import|ներմուծել
+Import Document|Ներմուծել փաստաթուղթ
+Import Video|Տեսանյութերի ներմուծում
+impression|դիտում
+inactive|ոչ ակտիվ
+inactive window|ոչ ակտիվ պատուհան
+in-app offer|ներ-գործադիր առաջարկ
+in-app purchase|ներ-գործադիր գնում
+in-app subscription|կանխավճարային բաժանորդագրում
+Inbox|մուտքի արկղ
+Inbox folder|մտից պանակ
+Inbox Zero|Մուտքի արկղ զրո
+incident report|դեպքի մասին հայտնում
+Inclusive Language|Ոչ խտրական լեզու
+incoming message|մտից ուղերձ
+incompatible|անհամատեղելի
+Incorrect Inflection|Սխալ խոնարհում
+Incorrect Pronoun Case|Սխալ դերանվան հոլով
+Incorrect Verb Form|Սխալ բայաձև
+indent|նահանջ
+indent|նահանջ
+indent|նահանջել
+indentation|ներս շեղում
+index|դասիչ
+index|ցուցակել
+index|ցուցակել
+index entry|ցուցակի գրառում
+index partition|որոնման մասնաբաժին
+index replica|որոնման դասիչի կրկնօրինակ
+indicator|ցուցիչ
+inflection|խոնարհում
+info|տեղեկություն
+InfoBar|Տեղեկագոտի
+InfoPath Filler|InfoPath Filler
+information|տեղեկություն
+Information Access Service|Տեղեկույթի մատչման ծառայություն
+Information bar|տեղեկության գոտի
+information card|տեղեկատվական քարտ
+information service|տեղեկատվական ծառայություն
+infotip|հուշակ
+infrared|ինֆրակարմիր
+infrared|ինֆրակարմիր
+infrastructure master|ենթակառուցվածքի կարգավորող
+Inicis|Inicis
+initialize|նախապատրաստել
+initialize|սկզբնավորել
+initiator|սկզբնավորիչ
+ink|թանաք
+Ink Art|Թանաքով նկարչություն
+ink as ink|թանաքը որպես այդպիսին
+Ink Editor|Թանաքով խմբագրիչ
+ink equation|ձեռագրով հավասարում
+Ink for phone|թանաք հեռախոսի համար
+ink grab|թանաքի գրավում
+Ink Math Assistant|Մաթեմատիկական հավասարումների փոխարկման ու լուծման օգնական
+Ink Replay|Թանաքանշման կրկնում
+Ink to Math|Ձեռագիր մաթեմատիկական հավասարումները՝ թվային հավասարումների
+Ink to shape|Թանաքանշումը ձևի
+inking|ներկում
+inline discussion|ներտող քննարկում
+inline image|ներտող պատկեր
+inline movie|ներտող շարժանկար
+inline object|ներտող առարկա
+inner join|ներքին միակցում
+In-Place eDiscovery & Hold|Տեղում էլ․ տվյալների բացահայտում և պահում
+In-Place Hold|Պահում տեղում
+InPrivate|InPrivate
+InPrivate Browsing|InPrivate Զննում
+input cell|ներածման վանդակ
+input device|ներածման սարք
+input focus|ներածման կիզակետ
+input method editor|Ներածման եղանակի խմբագրիչ
+input/output|ներածում/արտածում
+INR|INR
+insert|զետեղել
+INSERT key|ԶԵՏԵՂԵԼ ստեղն
+Insert Screen Shot|Էկրանի հանույթի զետեղում
+insertion point|զետեղման կետ
+install|տեղադրել
+install|տեղադրել
+installation|տեղադրում
+installer|տեղադրիչ
+instance|հատանմուշ
+instance|հատանմուշ
+instant message|ակնթարթային ուղերձ
+instant message|ուղերձել
+instant messaging|ակնթարթային ուղերձում
+Instant Search|Ակնթարթային որոնում
+Instant Search|Ակնթարթային որոնում
+InstantGo|InstantGo
+instant-on HD|ակնթարթային HD
+instruction|հրահանգ
+Instructional tools|Ուսուցողական գործիքներ
+integer|ամբողջ թիվ
+Integrated Services Digital Network|Ամբողջացված ծառայությունների թվային ցանց
+integrity|ամբողջականություն
+intelligent feature|խելացի յուրահատկություն
+intelligent service|խելացի ծառայություն
+Intelligent Services|Խելացի ծառայություններ
+Intelligent services|Խելացի ծառայություններ
+intelligent tool|խելացի գործիք
+interactive|փոխազդու
+interactive demo|փոխազդու ցուցադրական
+interactive view gallery|փոխազդու տեսքի սրահ
+interface|միջերես
+intermediate CA|միջակ CA
+intermediate certification authority|միջակ վկայագրման լիազորող
+internal modem|մոդեմ
+Internal Revenue Service|ներքին եկամուտների ծառայություն
+international format|միջազգային ձևաչափ
+International List|Միջազգային ցուցակ
+internet|համացանց
+Internet access provider|համացանցի մատչում տրամադրող
+Internet address|համացանցի հասցե
+Internet connection|կապակցում համացանցին
+Internet Directory|Համացանցի շտեմարան
+Internet Explorer|Internet Explorer
+Internet Explorer 10|Internet Explorer 10
+Internet Explorer 10 Consumer Preview|Internet Explorer 10 Consumer Preview
+Internet Explorer for the desktop|Սեղանի Internet Explorer
+Internet Information Services|համացանցի տեղեկատվական ծառայություններ
+Internet Key Exchange|Համացանցի բանալիների փոխանակում
+Internet Message Access Protocol|համացանցում ուղերձների մատչելու հաղորդակարգ
+Internet of Things|Իրերի Համացանց
+Internet Protocol|համացանցի հաղորդակարգ
+Internet service provider|համացանցի ծառայություններ տրամադրող
+Internet Storage Name Service|համացանցի պահեստների անունների ծառայություն
+Internet-facing URL|Համացանցի առերես URL
+interoperability|փոխգործելիություն
+interrupt|խզում
+interrupt request|խզման հարցում
+intranet|ներքին ցանց
+invalid|անվավեր
+Inventory & logistics|Գույք և մատակարարում
+invert|հակադարձել
+Inverted Pyramid|Հակադարձված բուրգ
+Invisible|Անտեսանելի
+invitation|հրավեր
+invite|հրավիրել
+invite|հրավերք
+Invited|հրավիրված
+invitee|հրավիրյալ
+invoice PO|հաշիվ-ապրանքագրի ԳՊ
+IoT|IoT
+IP|IP
+IP address|IP հասցե
+IRP|IRP
+IRQ|IRQ
+IRS|IRS
+iSCSI initiator|iSCSI սկզբնավորիչ
+ISDN|ISDN
+iSNS|iSNS
+isometric|նույնաչափական
+issuing CA|թողարկվող CA
+issuing certification authority|թողարկվող վկայագրման լիազորող
+italic|շեղ
+Itanium|Itanium
+Itau|Itau
+item|միավոր
+iteration|բազմակրկնություն
+ITF|ITF
+Japanese yen|ճապոնական յեն
+Java|Java
+JavaScript API for Office|JavaScript API Office-ի համար
+JCB|JCB
+job|գործ
+job|աշխատանք
+join|միակցում
+join|միանալ
+join line|կապակցման գիծ
+joke program|կատակ ծրագիր
+journal|մատյան
+journal entry|մատյանի գրառում
+journal post|մատյանի փոստ
+joystick|ձողղեկ
+jump|ցատկել
+jump back|ցատկել հետ
+jump group|ցատկի խումբ
+Jump List|Ցատկի ցուցակ
+junk|թափոն
+junk e-mail|թափոն էլ. փոստ
+junk e-mail|թափոն էլ. փոստ
+junk e-mail folder|թափոն էլ. փոստ
+junk mail|թափոնափոստ
+justification|տողաշտկում
+justify|տողաշտկել
+kashidas|ձգաններ
+KB|KB
+KB|ԿԲ
+KB article|ԳՇ-ի հոդված
+kernel|միջուկ
+kerning|տառակցում
+key|ստեղն
+key|բանալի
+key combination|ստեղնակցություն
+key filter|հիմնական զտիչ
+Key Filters|Հիմնական զտիչներ
+Key Management Service|Բանալու կառավարման ծառայություն
+key sequence|ստեղնակցում
+keyboard|ստեղնաշար
+keyboard layout|ստեղնաշարի դասավորություն
+keyboard shortcut|ստեղնային դյուրանցում
+keypad|ստեղնախումբ
+keyword|հիմնաբառ
+Kids & family|Երեխաներ և ընտանիք
+kilobit|կիլոբիթ
+kilobyte|կիլոբայթ
+Kinect sensor|Kinect սենսոր
+knowledge base|գիտելիքների շտեմարան
+Korean won|կորեական վոն
+L2TP|L2TP
+label|պիտակ
+label|պիտակավորել
+Labeled Hierarchy|Պիտակված ստորակարգ
+LAN|LAN
+landline|ստացիոնար հեռախոս
+landscape|հորիզոնական
+LANGID|LANGID
+language|լեզու
+language folder|լեզվի պանակ
+Language for non-Unicode programs|Ոչ յունիկոդային ծրագրերի լեզու
+language group|լեզվական խումբ
+Language ID|Լեզվի ID
+language identifier|լեզվի նույնացուցիչ
+Language Interface Pack|Լեզվական միջերեսի փաթեթ
+language pack|լեզվական փաթեթ
+Language Settings tool|Լեզվի կարգավորումների գործիք
+lap|ժամանակամիջոց
+laptop|ծնկադիր
+large organization|մեծ կազմակերպություն
+Laser Pointer|Լազերային ցուցիչ
+Lasso Select|Օղապարանի ընտրում
+Last chance rentals|Վարձակալելու վերջին հնարավորությունը
+Last night|Անցած գիշեր
+Last night on TV|Անցած գիշերվա հեռուստահաղորդումները
+Last night's shows|Անցած գիշերվա հեռուստահաղորդումները
+late binding|ուշացած կապում
+latency|աներեւ
+latest version|ամենավերջին տարբերակ
+LaTeX Equations|LaTeX հավասարումներ
+launch|թողարկել
+layer|շերտ
+Layer Two Tunneling Protocol|L2TP հաղորդակարգ
+layered driver|շերտավոր սարքավար
+layout|դասավորություն
+layout cell|դասավորության վանդակ
+Layout Preview|Դասավորման նախատեսք
+layout style|դասավորության ոճ
+layout table|դասավորման աղյուսակ
+LBA|LBA
+LCD|LCD
+LCID|LCID
+LCP|LCP
+LDAP|LDAP
+leader|առաջնորդ
+leader character|առաջնորդ գրանշան
+leader line|առաջնորդող գիծ
+lead-in text|միջանկյալ գրվածք
+leading|տողամիջոց
+Learning Tools|Ուսուցման գործիքներ
+left align|հավսարեցնել ձախը
+left angle bracket|ձախ անկյունաձեւ փակագիծ
+left arrow|ձախ սլաք
+left brace|ձախ ձեւավոր փակագիծ
+left bracket|ձախ ուղղանկյուն փակագիծ
+left mouse button|մկնիկի ձախ կոճակ
+left-aligned|ձախ հավասարեցված
+left-to-right|ձախից աջ
+legacy|ժառանգություն
+legacy|ժառանգված
+Legal & HR|Իրավական և աշխատուժ
+legend|բացատրագիր
+legend keys|պայմանական նշաններ
+length|տեւողություն
+less than or equal to sign|«փոքր կամ հավասար է» նշան
+less than sign|«փոքր քան» նշան
+lesson|դասընթաց
+level|մակարդակ
+leveling|վերաբաշխում
+library|դարան
+library|գրադարան
+license|լիցենզիա
+license terms|լիցենզիայի պայմաններ
+LID|LID
+Lifestyle|Ապրելաոճ
+ligature|լիգատուրա
+light sensor|լույսի սենսոր
+Lightweight Directory Access Protocol|գրացուցակների մատչման թեթև հաղորդակարգ
+limited account|սահմանափակ հաշիվ
+limited liability company|սահմանափակ պատասխանատվությամբ ընկերություն
+line|տող
+line break|տողի ընդհատում
+line chart|գծաձև գծապատկեր
+line spacing|տողամիջոց
+line wrap|տողերի ծալում
+linear expression|գծային արտահայտություն
+linear fraction|հորիզոնական կոտորակ
+Linear Venn|Գծային վրածածք
+line-of-business|գործարարական
+line-of-business app|գործարարական գործադիր
+line-of-business publisher|գործարարական հրատարակող
+link|կապ
+link|կապել
+link|հղում
+link bar|կապերի գոտի
+Link Control Protocol|Կապերի հսկման հաղորդակարգ
+Link Preview|Հղման նախատեսք
+Linked Inboxes|Կապված մուտքի արկղեր
+linked object|կապված առարկա
+linked style sheet|կապված ոճաթերթ
+linking|կապում
+LIP|LIP
+liquid crystal display|հեղուկ բյուրեղյա ցուցադրիչ
+list|ցուցակ
+list box|ցուցակատուփ
+list control|ցուցակի կառավար
+list separator|ցուցակի բաժանիչ
+list style|ցուցակի ոճ
+listen|լսել
+list-separator character|ցուցակի բաժանիչ գրանշան
+Live|Live
+live chat customer support|սպասառուների աջակցում կենդանի զրույցի միջոցով
+Live Connect|Live Connect
+live export|կենդանի արտահանում
+live layout|շարժական դասավորություն
+Live Mesh|Live Mesh
+Live Preview|Live նախատեսք
+Live SDK|Live SDK
+live session|կենդանի աշխատաշրջան
+Live Sharing Session|Համատեղ աշխատաշրջան
+live streaming|կենդանի հոսք
+Live Tile|Կենդանի սալիկ
+load|բեռնում
+LOB|գործարարական
+LOB app|գործարարական գործադիր
+LOB publisher|գործարարական հրատարակող
+lobby page|հիմնական էջ
+local|տեղային
+local cube|տեղային խորանարդ
+local group|տեղային խումբ
+local object|տեղային առարկա
+Local Pack|Տեղային փաթեթ
+local printer|տեղային տպիչ
+local user|տեղային օգտագործող
+locale|տեղույթ
+locale ID|նախընտրանքերի ID
+locale identifier|տեղույթի նույնացուցիչ
+localhost|localhost
+locate|տեղորոշել
+location|տեղադրություն
+Location and Other Sensors|Տեղադրության եւ այլ սենսորներ
+location sensor|տեղադրության սենսոր
+location services|տեղադրության ծառայություններ
+lock screen|կողպէկրան
+Lock Tracking|Արգելափակել հետևումը
+locked|կողպված
+locked resource|կողպված պաշար
+log|մատյան
+log file|մատյան-նիշք
+Log Level Manager|Մատյանի մակարդակների կառավարիչ
+log off|դուրս գրվել
+log on|մուտքագրվել
+logarithmic trendline|լոգարիթմական միտման գիծ
+logging|արձանագրում
+logical block addressing|բլոկների տրամաբանական հասցեագրում
+logo|պատկերանշան
+Long data type|Երկար տվյալների տեսակ
+long file name|նիշքի երկար անուն
+Lookup field|Որոնման դաշտ
+loop|օղակում
+Loose XAML|Արձակ XAML
+LORG|ՄեծԿ
+lost data|կորած տվյալներ
+low vision|թույլ տեսողություն
+lowercase|փոքրատառ
+Lunar calendar|լուսնային օրացույց
+machine learning|մեքենայական ուսուցում
+macro|մակրո
+macro-enabled|մակրոները թույլատրված
+macro-free|մակրոյից ազատ
+Magnifier|Խոշորացույց
+MAHJONG TILE ONE OF CHARACTERS|MAHJONG TILE ONE OF CHARACTERS
+mail|փոստ
+Mail and Calendar Accounts|Փոստի և օրացույցի հաշիվներ
+mail app|փոստի գործադիր
+mail app for Outlook|փոստի գործադիր Outlook-ի համար
+mail delivery service|փոստի առաքման ծառայություն
+mail merge|ձուլում
+Mail Migration add-on|Mail Migration հավելվածք
+mail recipient|փոստի ստացող
+mail server|փոստի սերվեր
+mailbox|փոստարկղ
+Mailbox clean-up assistant|Փոստարկղի մաքրման օգնական
+mailing address|փոստային հասցե
+mailing label|փոստառաքման պիտակ
+mailing list|փոստառաքման ցուցակ
+MailTip|Փոստահուշակ
+MailTips|Փոստահուշակ
+mailto|mailto
+main app|հիմնական գործադիր
+main document|հիմնական փաստաթուղթ
+Maintenance troubleshooter|սպասարկման շտկիչ
+Make Table query|աղյուսակի կազմում
+makerspace|արտադրավայր
+make-table query|աղյուսակի կազմում
+malicious advertising|վնասարար գովազդ
+malicious software|վնասարար ծրագրաշար
+Malicious Software Removal Tool|Վնասարար ծրագրաշարի հեռացման գործիք
+malvertising|վնասագովազդ
+malware|վնասագիր
+manage|կառավարել
+managed code|կառավարվող կոդ
+Managed E-mail Folder|Էլ. փոստի կառավարվող պանակ
+managed navigation|կառավարվող նավիգացիա
+management console|կառավարման վահանակ
+management system|կառավարման համակարգ
+manager|կառավարիչ
+mandate|լիազորագիր
+manual|ձեռքի
+manual line break|ձեռքի տողընդհատ
+Manual Punctuation|Manual Punctuation
+map|քարտեզանշել
+map chart|քարտեզ-գծապատկեր
+map note|քարտեզի նշում
+MAPI|MAPI
+mapped range|արտապատկերված ընդգրկույթ
+Maps|Քարտեզներ
+margin|լուսանցք
+Mark as Final|Նշել որպես վերջնական
+mark read|նշել որպես ընթերցված
+Markdown|Markdown
+marketing campaign|շուկայավարական արշավ
+markup|նշարկում
+markup balloon|նշարկման փուչիկ
+marquee|վազող տող
+mask|դիմակ
+master|հիմնօրինակ
+master boot code|հիմնօրինակ սկզբնաբեռնման կոդ
+Master Category List|Կաղապար անվանակարգի ցուցակ
+master document|վարպետ փաստաթուղթ
+master key|գլխավոր բանալի
+master page|հիմնօրինակ էջ
+master shape|հիմնօրինակ պատկեր
+master text|հիմնօրինակ գրվածք
+master user domain|օգտվողի գլխավոր տիրույթ
+MasterCard SecureCode|MasterCard-ի հուսալի կոդ
+master-level guide|հիմնօրինակ մակարդակի ուղեցույց
+materials|նյութեր
+Math Assistant|Մաթեմատիկական օգնական
+Math Autocorrect|Մաթ ինքնաշտկում
+Matrix|Մատրիցա
+max points|առավելագույն միավորներ
+maximize|առավելացնել
+MB|ՄԲ
+MCDI|MCDI
+MD5|MD5
+MDX|MDX
+me|ես
+measure|չափում
+Measured Boot|Չափված սկզբնաբեռնում
+Measurement Converter|Չափման միավորների փոխարկիչ
+mechanical sensor|մեխանիկական սենսոր
+media clip|հոլովակ
+media file|մեդիա նիշք
+Media Foundation|Media Foundation
+media server|մեդիա սպասարկիչ
+media streaming|մեդիա հոսք
+Media Trim|Մեդիա սարում
+Medical|Բժշկական
+meeting|հանդիպում
+Meeting|Հանդիպում
+meeting log|հանդիպման մատյան
+meeting minutes|հանդիպման արձանագրություն
+meeting organizer|հանդիպման կազմակերպիչ
+meeting request|հանդիպման հայց
+meeting response|հանդիպման պատասխան
+megabyte|մեգաբայթ
+member|անդամ
+member|անդամ
+Memo|Հիշեցում
+memory|հիշողություն
+memory leak|հիշողության բացվածք
+memory map|հիշողության քարտեզ
+memory slot|հիշողության փորակ
+Memory Usage|Հիշողության օգտագործում
+Mentions|Նշվածներ
+menu|ցանկ
+Menu|Ցանկ
+menu bar|ցանկի գոտի
+menu button|ցանկի կոճակ
+MercadoPago|MercadoPago
+merchant|վաճառող
+merge|միավորել
+merge field|ձուլման դաշտ
+Merge Shapes|Պատկերների միավորում
+merged cell|ձուլված վանդակ
+mesh|ցանց
+message|ուղերձ
+message bar|ուղերձների գոտի
+Message Bar|Ուղերձների գոտի
+message body|ուղերձի գրվածք
+message class|ուղերձների դաս
+message header|ուղերձի գլխամաս
+message list|ուղերձների ցուցակ
+Messaging|Ուղերձում
+Messaging Application Programming Interface|ուղերձների առաքման կիրառական ծրագրի միջերես
+Messenger|Messenger
+metadata|մետատվյալ
+metadata package|մետատվյալների փաթեթ
+metafile|անդրնիշք
+metered data plan|չափված տվյալային փաթեթ
+metered Internet connection|չափված Համացանցային կապակցում
+metered network|չափված ցանց
+method|եղանակ
+metric|չափք
+microblogging|միկրոբլոգավորում
+microprocessor|մանրամշակիչ
+microsite|միկրոկայք
+Microsoft|Microsoft
+Microsoft account|Microsoft-ի հաշիվ
+Microsoft account logins|Microsoft-ի հաշվի մուտքանուններ
+Microsoft Active Protection Service|Microsoft գործուն պաշտպանության ծառայություն
+Microsoft Advertising|Microsoft Գովազդ
+Microsoft Alarms & Clock|Microsoft Ազդանշաններ & Ժամացույց
+Microsoft Calculator|Microsoft Հաշվիչ
+Microsoft Camera|Microsoft Խցիկ
+Microsoft community|Microsoft համայնք
+Microsoft Community|Microsoft Community
+Microsoft Corporation|Microsoft Corporation
+Microsoft design language|Microsoft-ի ձեւավորման լեզու
+Microsoft developer|Microsoft Մշակող
+Microsoft Disk Operating System|Microsoft-ի սկավառակի գործավար համակարգ
+Microsoft Edge|Microsoft Edge
+Microsoft Events|Microsoft իրադարձություններ
+Microsoft Excel 2010|Microsoft Excel 2010
+Microsoft Excel Home and Student 2010|Microsoft Excel Home and Student 2010
+Microsoft Excel Mobile 2010|Microsoft Excel Mobile 2010
+Microsoft Excel Starter 2010|Microsoft Excel Starter 2010
+Microsoft family|Microsoft ընտանիք
+Microsoft Family Safety|Microsoft Ընտանեկան ապահովություն
+Microsoft Family Safety|Microsoft Ընտանեկան ապահովություն
+Microsoft Get Started|Microsoft Ներածական
+Microsoft Graph|Microsoft գծապատկեր
+Microsoft Groove|Microsoft Groove
+Microsoft Health|Microsoft Health
+Microsoft Holograms|Microsoft Լիապատկերներ
+Microsoft HoloLens|Microsoft HoloLens
+Microsoft HoloLens Commercial Suite|Microsoft HoloLens Commercial Suite
+Microsoft HoloLens Development Edition|Microsoft HoloLens Development Edition
+Microsoft Hotmail|Microsoft Hotmail
+Microsoft Hotmail|Microsoft Hotmail
+Microsoft Knowledge Base|Microsoft-ի Գիտելիքների շտեմարան
+Microsoft License Terms for Consumers|Microsoft-ի թույլտվության պայմաններ սպառողների համար
+Microsoft Maps|Microsoft Քարտեզներ
+Microsoft Media Foundation|Microsoft Media Foundation
+Microsoft Movies & TV|Microsoft Շարժանկարներ և ՀՏ / Microsoft Ֆիլմեր և ՀՏ
+Microsoft Office Backstage view|Microsoft Office Backstage տեսք
+Microsoft Office Button|Microsoft Office կոճակ
+Microsoft Office Document Imaging|Microsoft Office Document Imaging
+Microsoft Office Document Imaging Format|Microsoft Office փաստաթղթի պատկերման ձևաչափ
+Microsoft Office Forms Server|Microsoft Office-ի Ձևերի սպասարկիչ
+Microsoft Office InterConnect|Microsoft Office InterConnect
+Microsoft Office Language Interface Pack|Microsoft Office-ի Լեզվական միջերեսի փաթեթ
+Microsoft Office Proofing Tools|Microsoft Office ստուգիչ գործիքներ
+Microsoft OneDrive|Microsoft OneDrive
+Microsoft OneDrive|Microsoft OneDrive
+Microsoft OneDrive for Business|Microsoft OneDrive for Business
+Microsoft Outlook 2010|Microsoft Outlook 2010
+Microsoft Outlook Personal Folders Backup|Microsoft Outlook անձնական պանակների պահուստ
+Microsoft Outlook Web App|validation rule
+Microsoft Paint|Microsoft Paint
+Microsoft Photos|Microsoft Լուսանկարներ
+Microsoft Photos Plug-in|Microsoft Լուսանկարների ներդիր
+Microsoft Points|Microsoft Կետեր / Microsoft Points
+Microsoft PowerPoint Web App|Microsoft PowerPoint Web App
+Microsoft Rewards|Microsoft Rewards
+Microsoft Safety & Security Center|Microsoft-ի ապահովության և անվտանգության կենտրոն
+Microsoft Schweiz GMBH|Microsoft Schweiz GMBH
+Microsoft services|Microsoft ծառայություններ
+Microsoft Services Agreement|Microsoft ծառայությունների համաձայնագիր
+Microsoft Software Download|Microsoft ծրագրաշարի ներբեռնում
+Microsoft Software License Terms|Microsoft-ի ծրագրաշարի լիցենզիայի պայմաններ
+Microsoft StaffHub|Microsoft StaffHub
+Microsoft Store|Microsoft խանութ
+Microsoft Store|Microsoft խանութ
+Microsoft Support|Microsoft Աջակցում
+Microsoft Surface Hub|Microsoft Surface Hub
+Microsoft Teams|Microsoft Teams
+Microsoft text telephone|Microsoft-ի գրվածքային հեռախոս
+Microsoft To-Do|Microsoft To-Do
+Microsoft Translator Hub|Microsoft Translator Hub
+Microsoft Update|Microsoft Update
+Microsoft Update Catalog|Microsoft Update Գրացուցակ
+Microsoft Update Solution Center|Microsoft Update Լուծումների կենտրոն
+Microsoft Visual Studio Tools for Applications|Microsoft® Visual Studio® գործիքներ գործադիրների համար
+Microsoft Voice Recorder|Microsoft Խոսագրիչ
+Microsoft Wi-Fi|Microsoft Wi-Fi
+Microsoft Windows Software Explorer|Microsoft Windows Software Explorer
+midtone|միջին եղանակ
+migrate|տեղափոխել
+Minecraft: Education Edition|Minecraft: Education Edition
+mini calendar|փոքր օրացույց
+Mini toolbar|փոքր գործիքագոտի
+Mini Translator|Մանրաթարգմանիչ
+MinIE|MinIE
+MinIE Frame|MinIE կադր / MinIE շրջանակ
+minimize|նվազեցնել
+minus sign|հանման նշան
+mirror|հայելի
+mirror margins|հայելատիպ լուսանցքներ
+Mixed DPI mode|Խառնած DPI կերպ
+mixed reality|խառը իրականություն
+Mixed Reality Portal|Խառը իրականություն կայք
+mixed world|խառը աշխարհ
+mixtape|խառներիզ
+MMS|MMS
+mobile|շարժական
+Mobile|Բջջային
+mobile device|շարժական սարք
+mobile hotspot|շարժական թեժ կետ
+mobile operator|բջջային գործարկու
+mobile phone|բջջային հեռախոս
+mobile printing|շարժական տպագրություն
+Mobile site|Շարժական կայք
+Mobile view|Բջջային տեսք
+modal dialog|պարտադիր երկխոսություն
+mode|կերպ
+modem|մոդեմ
+Modern Attachments|Ժամանակակից կցորդներ
+modern authentication|ժամանակակից իսկորոշում
+MODI|MODI
+modifier key|կերպափոխիչ ստեղն
+modulator/demodulator|մոդեմ
+MOICE|MOICE
+Moji|Հույզիկ
+Money|Ֆինանսական
+monitor|մոնիտոր
+monitoring software|վերահսկիչ ծրագրաշար
+mood message|տրամադրության ուղերձ
+mood panel|տրամադրության վահանակ
+More|Ավելին
+More Syllables|Ավելի շատ վանկեր
+Morph|սահուն անցումով պատկեր / սահուն անցումով պատկեր
+Most played apps|Առավել հաճախ օգտագործվողները
+Most played games|Առավել հաճախ խաղացվողները
+Most popular|Ամենահայտնիները
+Most popular apps|Ամենահայտնի գործադիրները
+Most popular games|Ամենահայտնի խաղերը
+Most rented|Առավել հաճախ վարձակալվողները
+Most rented apps|Առավել հաճախ վարձակալվող գործադիրները
+Most rented games|Առավել հաճախ վարձակալվող խաղերը
+motion focus|շարժման կիզակետ
+motion path|շարժման ուղի
+motion sensor|շարժման սենսոր
+mouse|մկնիկ
+mouse button|մկնիկի կոճակ
+mouse click|մկնիկի կտտոց
+mouse pointer|մկնիկի նշորդ
+mouse shortcut|մկնիկի դյուրանցում
+mouse wheel|մկնիկի անվակ
+move|տեղափոխել
+move handle|շարժող բռնակ
+move mode|շարժման կերպ
+Move to Non-Focused Inbox|Տեղափոխել նախապես չտեսակավորված մուտքի արկղ
+Movie genres|Շարժանկարների ոճեր
+Movie Maker|Կինոարտադրող
+Movie Moments|Շարժանկար պահեր
+Movie studios|Շարժանկարների տաղավարներ
+Movies & TV|Շարժանկարներ և ՀՏ / Ֆիլմեր և ՀՏ
+moving average|սահող միջին
+moving average trendline|սահող միջինի միտման գիծ
+moving border|սահող եզրագիծ
+MPEG-7|MPEG-7
+MS-DOS|MS-DOS
+MS-DOS operating system|MS-DOS գործավար համակարգ
+msinfo32.exe|msinfo32.exe
+MSN Apps|MSN գործադիրներ
+MSN Food & Drink|MSN Սնունդ և ըմպելիք
+MSN Health & Fitness|MSN Առողջություն և ֆիթնես
+MSN Money|MSN Ֆինանսական
+MSN News|MSN Լուրեր
+MSN Sports|MSN Սպորտ
+MSN Travel|MSN Ճանապարհորդություն
+MSN Weather|MSN Եղանակ
+MTA|MTA
+multi session-capable disc|բազմանգամյա գրանցման սկավառակ
+Multidirectional Cycle|Բազմուղի շրջան
+multifunction device|բազմագործառույթ սարք
+Multilingual User Interface|Օգտվողի բազմալեզու միջերես
+multimedia|մուլտիմեդիա
+Multimedia Content Description Interface|Մուլտիմեդիա բովանդակության նկարագրության միջերես
+Multimedia design|Մուլտիմեդիայի ձեւավորում
+Multi-player online battle arena|Բազմախաղացող առցանց մարտերի մարզադաշտ
+multiple choice question|բազմակի ընտրության հարցեր
+multiple masters|բազմակի հիմնօրինակներ
+multiple selection|բազմակի ընտրում
+multiple-level category labels|բազմամակարդակ անվանակարգի պիտակներ
+multiplication sign|բազմապատկման նշան
+multi-stop slider|բազմականգ սահիչ
+multithreaded apartment|բազմաշղթա բնակարան
+multi-touch|բազմահպում
+multi-touch input|բազմահպային ներածում
+Music|Երաժշտություն
+Music deals|Երաժշության զեղչեր
+Music Pass|Music Pass
+Music production|Երաժշտության ստեղծում
+mute|համրեցնել
+MXN|MXN
+My Account|Իմ հաշիվը
+My apps|Իմ գործադիրները
+My Computer|Իմ համակարգիչը
+My Day|Իմ օրը
+My Documents|Իմ փաստաթղթերը
+My movies & TV|Իմ շարժանկարները և ՀՏ
+My Music|Իմ երաժշտությունը
+My Notes|Իմ նշումները
+My Office|Իմ Office-ը
+My People|Իմ մարդիկ
+my stuff|իմ բովանդակությունը
+My Sways|Իմ Sway
+My Tasks|Իմ խնդիրները
+My videos|Իմ տեսանյութերը
+My Watchlist|Հսկողության ցանկ
+N.T. dollar|Նոր տայվանական դոլար
+n/a|չ/կ
+N/A|Չ/Կ
+name|անուն
+named item view|անվանված միավորի տեսք
+named set|անվանակիր կազմ
+NaN|Թիվ չէ
+narration|ընթերցում
+Narrator|Պատմող
+nary|n-ական
+n-ary|New n-ական
+National Register of Legal Entities|իրավաբանական անձանց ազգային ռեգիստր
+native boot|հարազատ սկզբնաբեռնում
+native database query|տվյալների շտեմարան ուղղված սեփական հարցում
+native query|սեփական հարցում
+natural language searching|որոնում բնական լեզվով
+natural pencil|բնական մատիտ
+Natural Persons Register|ֆիզիկական անձանց ռեգիստր
+natural query syntax|հարցում բնական շարահյուսությամբ
+navigate|նավարկել
+navigation|նավարկում
+Navigation & maps|Նավիգացիա և քարտեզներ
+navigation bar|նավիգացիոն գոտի
+navigation drawer|նավարկման հարթակ
+navigation layout|նավարկման դասավորություն
+navigation pane|նավիգացիոն փեղկ
+NDA|NDA
+negative indent|բացասական նահանջ
+nested table|ներդրված աղյուսակ
+Nested Target|Ներդրված թիրախ
+netbook|ցանցակարգիչ
+network|ցանց
+Network & Internet|Ցանց և համացանց
+network adapter|ցանցի հարմարիչ
+network administrator|ցանցի վարիչ
+Network and Sharing Center|Ցանցի և համօգտագործման կենտրոն
+Network Center|Ցանցային կենտրոն
+network configuration|ցանցի կազմաձեւ
+network connection|ցանցային կապակցում
+Network Diagram|Ցանցային գծապատկեր
+network drive|ցանցային հիշասարք
+Network Explorer|Ցանցախույզ
+Network Printer Installation Wizard|Ցանցային տպիչի տեղադրման մոգ
+network reset|ցանցի վերակայում
+Networking|ցանց
+neutral character|չեզոք գրանշան
+New albums|Նոր ալբոմներ
+New and rising|Նոր և գալիք
+New and rising apps|Նոր գործադիրներ
+New and rising games|Նոր խաղեր
+New apps|Նոր գործադիրներ
+New episode this week|Այս շաբաթվա նոր դրվագները
+New games|Նոր խաղեր
+New movies|Նոր շարժանկարներ
+New music|Նոր երաժշտություն
+New releases|Նոր թողարկումներ
+New TV shows|Նոր ՀՏ հանդեսներ
+Newest|Ամենանորերը
+News|Լուրեր
+News|Նորություններ
+News & Weather|Նորություններ և եղանակ
+News Banner|Լուրերի ազդերիզ
+newsfeed|լուրերի մատուցում
+newsgroup|լուրախումբ
+newsletter|լրագիր
+Newspaper|Լրագիր
+next-of-kin process|ազգականների գործընթաց
+nickname|մականուն
+night light|գիշերային լույս
+Night mode|Գիշերային կերպ
+no-bar fraction|ոչ-գոտային կոտորակ
+node|հանգույց
+NOK|NOK
+nonadjacent selection|ոչ հարակից ընտրվածք
+nonbreaking hyphen|չընդհատող տողադարձիչ
+nonbreaking space|չընդհատվող բացատ
+nonce|միանվագ համար
+Nondirectional Cycle|Ոչ ուղղորդված շրջան
+Nonfiction|Ոչ գեղարվեստական
+nonprinting character|չտպվող գրանշան
+nonprinting region|չտպվող տարածք
+non-scheme color|ոչ ուրվակազմային գույն
+non-spacing character|անլայնք գրանշան
+Normal style|Սովորական ոճ
+Normal template|սովորական ձևանմուշ
+normalization|կարգավորում
+normalize|կարգավորել
+not a number|ոչ թիվ
+not applicable|ոչ կիրառելի
+not valid|ոչ վավեր
+note|նշում
+note container|նշումների զետեղարան
+note tag|նշման պիտակ
+notebook|նոթատետր
+Notebook List|նոթատետրի ցանկ
+Notes E-mailed To Me|Ինձ ուղարկված նշումներ
+notes page|նշումների էջ
+notes pane|նշումների փեղկ
+notification|ծանուցում
+notification area|ծանուցման տարածք
+notification banner|ծանուցման ազդերիզ
+Notification bar|Ծանուցման գոտի
+Now Playing|Այժմ նվագարկվում է
+ntext|nգրվածք
+NTFS|NTFS
+NTFS file system|NTFS նիշքերի համակարգ
+NTLM|NTLM
+nudge|հրում
+null|զրո
+number sign|վանդականիշ
+numbered list|համարակալված ցուցակ
+numeric expression|թվային արտահայտություն
+numeric keypad|թվային ստեղնախումբ
+numeric picture switch|թվային նկարի փոխանջատիչ
+NZD|NZD
+object|առարկա
+object class|առարկաների դաս
+object handle|առարկայի բռնակ
+object layout|առարկայի դասավորություն
+object library|առարկաների դարան
+object linking and embedding|առարկաների կապում և ներկառուցում
+object zoom|առարկայի խոշորացում
+OCM|Outlook-ի ՍԿ
+OCR|գրաճանաչում
+OCSP|OCSP
+OCT|OCT
+OData Connector|OData կապակցիչ
+ODBC|ODBC
+ODBC data source|ODBC տվյալների աղբյուր
+ODBC driver|ODBC սարքավար
+off-axis|առանցքից դուրս
+Office 2016 Language Accessory Pack|Office 2016 Language Accessory Pack
+Office 365|Office 365
+Office 365 Advanced eDiscovery|Office 365-ի Էլ. տվյալների բարելավված բացահայտում
+Office 365 connector|Office 365-ի կապակցիչ
+Office 365 Connectors|Office 365-ի կապակցիչներ
+Office 365 Education Plus|Office 365 Education Գումարած
+Office 365 group|Office 365 խումբ
+Office 365 Groups|Office 365-ի խմբեր
+Office 365 Message Encryption Viewer|Office 365-ի ուղերձի գաղտնագրման դիտակ
+Office 365 Project Time Reporter|Office 365 Project Time Reporter
+Office 365 Support and Recovery Assistant|Office 365-ի Աջակցման և վերականգնման օգնական
+Office 365 Users|Office 365-ի օգտվողներ
+Office 365 Video|Office 365 Video
+Office account|Office-ի հաշիվ
+Office add-in|Office-ի հավելվածք
+Office Add-ins|Office-ի հավելվածքներ
+Office Auto-Revisions|Office-ի ինքնավերանայումներ
+Office Button|Office-ի կոճակ
+Office compatibility definition file|Office համատեղելիության սահմանման նիշք
+Office data connection file|Office-ի տվյալների կապակցման նիշք
+Office Diagnostics|Office-ի ախտորոշման կենտրոն
+Office Dictate|Office Dictate
+Office Document Cache|Office-ի Փաստաթղթերի դարակ
+Office enabled device|Office-ի թույլատրված սարք
+Office File Validation|Office-ի նիշքի վավերացում
+Office Forms Server|Office-ի Ձևերի սպասարկիչ
+Office Graph|Office Graph
+Office Graph API|Office Graph-ի API
+Office Graph edge|Office Graph-ի կապ
+Office Graph node|Office Graph-ի հանգույց
+Office Lens|Office Lens
+Office Lens to Doc|Office Lens-ից Փաստ
+Office Notification Hub|Office-ի ծանուցման կենտրոն
+Office on Demand|Office ըստ պահանջի
+Office Online Server|Office Online Server
+Office Online Sharing Service|Office-ի առցանց համօգտագործման ծառայություն
+Office Presentation Service|Office Presentation Service
+Office Professional Academic 2016|Office պրոֆեսիոնալ ակադեմիական 2016
+Office Side-by-Side|Office կողք կողքի
+Office Store|Office խանութ
+Office Telemetry Agent|Office հեռուստաչափության գործակալ
+Office Telemetry Dashboard|Office հեռուստաչափության վահանակ
+Office Telemetry Log|Office հեռուստաչափության մատյան
+Office telemetry logging|Office հեռուստաչափության արձանագրում
+Office Telemetry Processor|Office հեռուստաչափության պրոցեսոր
+offline|անցանց
+offline address book|անցանց հասցեագիրք
+offline cube file|անցանց խորանարդի նիշք
+offline data source|անցանց տվյալների աղբյուր
+offline folder file|անցանց պանակի նիշք
+offline Help|անցանց օգնություն
+offline instant message|անցանց ակնթարթային ուղերձ
+offline map|անցանց քարտեզ
+offline mode|անցանց կերպ
+OLAP|OLAP
+OLAP cube|OLAP խորանարդ
+OLAP provider|OLAP տրամադրող
+OLAP server formatting|OLAP սպասարկչի ձևաչափում
+OLE|OLE
+OLE DB|OLE DB
+OLE object|OLE առարկա
+OLE/DDE link|OLE/DDE կապ
+OLEDB|OLE DB
+OME Viewer|ՕՈՒԳ դիտակ
+onboard|առկող
+OneDrive|OneDrive
+OneDrive (cloud only)|OneDrive (միայն ամպում)
+OneDrive camera roll|OneDrive ժապավեն
+OneDrive for Business|OneDrive for Business
+OneDrive for Mac|OneDrive Mac-ի համար
+OneDrive.com|OneDrive.com
+OneNote API|OneNote API
+OneNote badge|OneNote-ի նշան
+OneNote Class Notebook|OneNote դասի նոթատետր
+OneNote Clipper|OneNote Clipper
+OneNote Importer|OneNote ներմուծիչ
+OneNote Preview|OneNote Preview
+OneNote Staff Notebook|OneNote ուսուցչական անձնակազմի նոթատետր
+OneNote Staff Notebook|OneNote անձնակազմի նոթատետր
+one-sided test|մեկկողմանի փորձարկում
+one-tailed test|միակողմանի փորձարկում
+one-to-many relationship|մեկից-շատեր փոխհարաբերություն
+OneX|OneX
+online|առցանց
+online account|առցանց հաշիվ
+online analytical processing|առցանց վերլուծական մշակում
+Online Archive|Առցանց արխիվ
+Online Certificate Status Protocol|Վկայագրերի կարգավիճակի առգիծ հաղորդակարգ
+online identity|առցանց ինքնություն
+online manual|առ-գիծ ձեռնարկ
+online status|առցանց վիճակ
+Online Video|Առցանց տեսանյութ
+ookmark TOC|էջանիշային բովանդակություն
+open|բացել
+Open Sync Center|Բացել համաժամեցման կենտրոնը
+Open with|բացել ծրագրով
+Open, suggested|Բաց, առաջարկվող
+OpenDocument Presentation|OpenDocument ներկայացում
+opening chevron|բացող չակերտ
+opening curly quotation mark|բացող կեռ չակերտ
+opening parenthesis|բացող փակագիծ
+opening quotation mark|բացող չակերտ
+operating system|գործավար համակարգ
+operating system deployment|գործավար համակարգի օգտագործում
+operation|գործողություն
+operations master|գործողությունների կարգավորող
+operator|գործարկու
+Opposing Arrows|Հակադրող սլաքներ
+opt in|համաձայնվել
+opt out|հրաժարվել
+optical character recognition|գրանշանների օպտիկական ճանաչում
+optimize|լավարկել
+opt-in|համաձայնություն
+option button|ընտրանքի կոճակ
+option group|ընտրանքի խումբ
+optional attendee|կամավոր մասնակից
+optional hyphen|փափուկ տողադարձիչ
+Options|Ընտրանքներ
+opt-out|հրաժարում
+ordinal number|դասական թվական
+org chart|կազմ գծույթ
+organization|կազմակերպություն
+organization chart|կազմակերպության գծապատկեր
+Organize|Կազմակերպում
+organizer|կազմակերպիչ
+orientation|դիրք
+orphan|անպետք տող
+orphan line|անպետք տող
+OSC|OSC
+OSD|OSD
+OSP|Առցանց ծառայություններ մատուցող
+Out of Office|Գրասենյակից դուրս
+Out of Office Assistant|Գրասենյակից դուրս օգնական
+outbox|ելից
+outdent|դուրս շեղում
+outline|ուրվագիծ
+outline data|ուրվագծային տվյալներ
+outline effect|ուրվագծման էֆեկտ
+outline layout view|ուրվագծային դասավորության տեսք
+outline level|ուրվագծային մակարդակ
+outline level|ուրվագծի մակարդակ
+outline numbered list|ուրվագծային համարակալված ցուցակ
+outline symbol|ուրվագծային նշան
+Outlook Address Book|Outlook-ի հացեագիրք
+Outlook Anywhere|Outlook-ն ամենուր
+Outlook Connector Pack|Outlook-ի Կապափաթեթ
+Outlook Customer Manager|Outlook Customer Manager
+Outlook Groups|Outlook Groups
+Outlook item|Outlook-ի միավոր
+Outlook Mail and Calendar Accounts|Outlook-ի փոստի և օրացույցի հաշիվներ
+Outlook on the web|Outlook-ը վեբում
+Outlook Social Connector|Outlook Social Connector
+Outlook Today|Outlook-ն այսօր
+Outlook Web App|Microsoft Outlook Web App
+Outlook Web App|Outlook Web App
+Outlook.com|Outlook.com
+output file|արտածման նիշք
+overallocation|գերբեռնում
+overflow|չափերի գերազանցում
+overhead|վերադիր
+overlap|վրածածկ
+overlay|վերածածկ
+overtype|վերատպել
+overtype mode|վրատպման կերպ
+Overview|Համատեսք
+owner|տնօրինող
+P2 header|P2 էջագլուխ
+PAC|PAC
+pack|փաթեթավորել
+package|փաթեթ
+PAE|PAE
+page|էջ
+page break|էջի ընդհատում
+page break preview|էջի ընդհատման նախատեսք
+PAGE DOWN key|ԷՋ ՎԱՐ ստեղն
+Page Editor|Էջի խմբագրիչ
+page fault|էջի սխալ
+page field|էջի դաշտ
+page file|էջանիշք
+page footer|էջատակ
+page group|Էջերի խումբ
+page header|էջագլուխ
+page layout|էջի դասավորություն
+page layout view|էջի դասավորության տեսք
+page margin|էջի լուսանցք
+Page Movement|Էջային տեղաշարժ
+page setup|էջի կարգավորում
+page size|էջի չափ
+page time|էջի ժամանակը
+page title|էջի անվանում
+PAGE UP key|ԷՋ ՎԵՐ ստեղն
+pagefile|էջանիշք
+pager|հեռատող
+Page-Stack navigation|Հորիզոնական նավարկում էջերի միջև
+pagination|էջակալում
+paid cellular data|վճարովի բջջային տվյալներ
+paid data network|վճարովի տվյալների ցանց
+Paid Search Syndication|որոնման վճարովի միավորում
+paid Wi-Fi data|վճարովի Wi-Fi տվյալներ
+paid Wi-Fi services|վճարովի Wi-Fi ծառայություններ
+Paint|Paint
+Paint Drip|Ներկի կաթիլ
+pair|զույգ
+pairing|զուգավորում
+palette|պնակ
+Palette Launcher|Պնակի թողարկիչ
+palette window|պնակի պատուհան
+PAN|PAN
+pan|համայնապատկերում
+PAN|ՄՀՀ
+pane|փեղկ
+panning|համայնապատկերում
+Panning Hand|Շարժաձեռք
+panning mode|Շարժաձեռքի կերպ
+panorama|համայնապատկեր
+paper jam|թղթի խցանում
+paper size|թղթի չափ
+paragraph|պարբերություն
+paragraph formatting|պարբերության ձևաչափում
+paragraph mark|պարբերության նշան
+paragraph style|պարբերության ոճ
+parameter query|հարաչափի հարցում
+parent container|ծնող զետեղարան
+parent folder|ծնող պանակ
+parent node|ծնող հանգույց
+parental controls|ծնողական վերահսկում
+PARENTHESIZED LATIN CAPITAL LETTER A|PARENTHESIZED LATIN CAPITAL LETTER A
+pareto chart|պարետոյի գծապատկեր
+parity|զույգություն
+parity|զույգային
+park|կայանել
+parse|վերլուծել
+partial replica|մասնակի վերօրինակ
+partition|մասնաբաժին
+Partner ID|Գործընկերային ID
+partnership|համագործակցում
+Parts of speech|Խոսքի մասեր
+passcode|գաղտնի կոդ
+passphrase|գաղտնաբառ
+password|գաղտնաբառ
+password protection|գաղտնաբառի պաշտպանություն
+password stealer|գաղտնաբառերի գող
+paste|կպցնել
+Paste and go|Կպցնել եւ գնալ
+patch|կարկատել
+path|ուղի
+pattern|նախշ
+pattern-matching character|դերանշան
+patterns|նախշեր
+pause|դադար
+pay as you go|վճարել ծառայությունից օգտվելու պահին
+pay monthly|վճարել ամսական
+pay rate|վճարման սակագին
+payload|օգտակար բեռնվածք
+payment instrument|վճարման միջոց
+payment instrument challenge|վճարային միջոցի իսկորոշում
+payment method|վճարման եղանակ
+payout|վճարում
+PayPal|PayPal
+PC|ԱՀ
+PC protection|ԱՀ պաշտպանություն
+PC settings|ԱՀ կարգավորումներ
+PC site|ԱՀ կայք
+PCT|PCT
+PDF reflow|PDF վերաձևաչափում
+PDF Render|PDF-ի նյութավորում
+peek|թռուցքադիտել
+peer|հավասարազոր սարք
+peer-to-peer network|նման-առ-նման ցանց
+pen|գրիչ
+pen comment|ձեռագիր մեկնաբանություն
+pen plotter|գրչային գծագրիչ
+pencil|մատիտ
+pencil ink|մատիտի տեսքով թանաք
+people|մարդիկ
+People Near Me|Մերձավորներ
+People Pane|Մարդկանց փեղկ
+People peek|Մարդկանց թռուցքադիտում
+people tag|մարդկանց պիտակ
+People tags|Մարդկանց պիտակներ
+percent complete|ավարտված տոկոս
+percent sign|տոկոսի նշան
+performance|արտադրողականություն
+peripheral|արտաքին
+Permanent Account Number|Մշտական հաշվեհամար
+Permanent Time Zone Move Mode|Մշտական ժամային գոտու տեղափոխման կերպ
+permission|թույլտվություն
+permission policy|թույլտվության դրույթ
+permissions|թույլտվություններ
+Personal Address Book|Անձնական հասցեագիրք
+Personal Area Network|Անձնական տարածքի ցանց
+personal computer|անհատական համակարգիչ
+personal finance|անձնական ֆինանսներ
+Personal Folders Backup|Անձնական պանակների պահուստ
+personal identification number|անձնական նույնականացման համար
+Personal security|Անձնական անվտանգություն
+personal settings|անձնական կարգավորումներ
+personal vault|անհատական վկայակազմ
+personal view|անձնական տեսք
+personalization|անհատականացում
+personalize|անհատականացնել
+personalized activity|անհատականացված գործունեություն
+personalized menu|անհատականացված ցանկ
+personally identifiable information|անձնական տվյալներ
+phase|փուլ
+phishing|որսում
+Phishing Filter|Հակաորսիչ
+phishing website|խաբուսիկ վեբ կայք
+Phone|Հեռախոս
+Phone Companion|Հեռախոսի ուղեկից
+Phones|Հեռախոսներ
+Photo|Լուսանկար
+Photo & video|Լուսանկարներ և տեսանյութ
+Photo & video production|Լուսանկարների և տեսանյութի ստեղծում
+photo album|լուսանկարների ալբոմ
+Photo Gallery|Լուսանկարների սրահ
+photo loop|լուսանկարների օղակ
+photo mix|լուսանկարների խառնուրդ
+photo sharing|լուսանկարի համօգտագործում
+Photo Viewer|Լուսանկարների դիտակ
+Photos|Լուսանկարներ
+Photos Preview|Լուսանկարների դիտում
+physical address extension|ֆիզիկական հասցեի ընդլայնում
+pica|պիկա
+Picks for you|Ընտրանի` ձեզ համար
+picture|նկար
+Picture Accent List|Նկարի շեշտման ցուցակ
+Picture Accent Process|Նկարի շեշտման ընթացք
+picture button|նկարով կոճակ
+Picture Caption List|Նկարի խորագրերի ցուցակ
+picture content|նկարի բովանդակություն
+picture element|պատկերի տարր
+picture frame|նկարի շրջանակ
+picture password|նկար-գաղտնաբառ
+picture placeholder|նկարի տեղապահ
+Picture Presentation|Պատկերային ներկայացում
+Picture Styles|Պատկերային ոճեր
+Pictures|Նկարներ
+pie chart|բլիթաձև գծապատկեր
+pie of pie chart|բլիթաձև գծապատկեր
+PII|ԱՏ
+piid|piid
+pile|կույտ
+PIN|PIN
+pin|ամրացնել
+PIN code|PIN կոդ
+PIN sign-in|PIN-ով մուտք գործում
+pin to Start|ամրացնել Մեկնարկին
+Pin to top|Ամրացնել վերին մասում
+pinch|պտղունց
+pinch|պտղունցել
+pipe|ցից
+pivot area|առանցքի տարածք
+PivotChart category field|PivotChart-ի անվանակարգի դաշտ
+PivotChart report|PivotChart–ի զեկույց
+PivotChart series field|PivotChart-ի շարքերի դաշտ
+PivotChart view|PivotChart–ի տեսք
+PivotDiagram|PivotDiagram
+PivotTable|PivotTable
+PivotTable data|PivotTable–ի տվյալներ
+PivotTable grand totals|PivotTable-ի հանրագումարներ
+PivotTable list|PivotTable-ի ցանկ
+PivotTable report|PivotTable-ի զեկույց
+PivotTable subtotal|PivotTable-ի ենթագումար
+PivotTable view|PivotTable-ի տեսք
+pixel|փիքսել
+Pixelate|Փիքսելավորում
+PixelSense|PixelSense
+placeholder|տեղապահ
+placeholder text|տեղապահի գրվածք
+Places|Վայրերի գործադիր
+Places Bar|Տեղի գոտի
+plain text|պարզ գրվածք
+plaintext|չկոդավորված գրվածք
+plan|ծրագիր
+Plan Your Day|Ծրագրեք ձեր օրը
+planar projection|հարթ պրոեկցիա
+Planner|Planner
+platformer|հարթակիչ
+play|նվագարկել
+Play To|Նվագարկել առ
+playback|նվագարկում
+player|նվագարկիչ
+playhead|նվագարկիչի գլխիկ
+playlist|նվագացուցակ
+plot area|գծագրի տարածք
+plug-in|ներդիր
+plus or minus sign|«գումարած կամ հանած» նշան
+plus sign|գումարման նշան
+PNG|PNG
+PO number|PO համար
+point|կետ
+pointer|նշորդ
+pointing device|ցուցիչ սարք
+point-of-sale activation|ակտիվացում վաճառակետում
+Point-to-Point Protocol|Կետ-առ-Կետ հաղորդակարգ
+Point-to-Point Protocol over Ethernet|Կետ-առ-Կետ հաղորդակարգ Ethernet-ով
+policy|կանոններ
+policy tip|կանոնների հուշակ
+Policy Tips|Կանոնների հուշակներ
+polynomial trendline|բազմանդամ միտման գիծ
+Popular|Հայտնիները
+Popular|Հանրաճանաչ
+Popular artists|Հանրաճանաչ կատարողներ
+Popular movies|Հանրաճանաչ շարժանկարներ
+Popular music|Հանրաճանաչ երաժշտություն
+Popular on Xbox|Հանրաճանաչ Xbox-ում
+Popular shows|Հանրաճանաչ հանդեսներ
+Popular stations|Հանրաճանաչ ռադիոկայաններ
+pop-up menu|ելնող ցանկ
+pop-up window|ելնող պատուհան
+port|միացք
+port|տեղափոխ
+portable computer|դյուրակիր համակարգիչ
+portfolio|թղթապանակ
+portrait|ուղղաձիգ
+portrait orientation|դիմանկարի ուղղվածություն
+POSA|POSA
+positioning|տեղորոշում
+post|փոստ
+post|հրապարակում
+Post Bill and AR adjustments|հաշիվը ներկայացնելուց հետո և դեբիտորական պարտավորություններում կատարված ճշտումներ
+post grades|հայտարարել գնահատականները
+postal code|փոստային դասիչ
+poster frame|տեսանյութի նախատեսք
+Posterize|Պաստառացում
+postmaster|փոստվարպետ
+postmaster@mail.hotmail.com|postmaster@mail.hotmail.com
+postmaster@windowslivemail.com|postmaster@windowslivemail.com
+pound key|վանդականիշ
+power|հզորություն
+Power|Հոսանք
+Power Options|Սնուցման ընտրանքներ
+power plan|հոսանքի ծրագիր
+power scheme|հոսանքի համակարգ
+power trendline|աստիճանային միտման գիծ
+Power View|Power View
+PowerApps|PowerApps
+powered by|օժանդակող՝ / կողմից ապահովվող
+powered by Windows Live|օժանդակող՝ Windows Live
+PowerPoint|PowerPoint
+PowerPoint add-in|PowerPoint-ի հավելվածք
+PowerPoint Designer|PowerPoint-ի ձևավորող
+PowerPoint Mobile Viewer|PowerPoint Mobile Viewer
+PowerPoint Previewer|PowerPoint նախադիտակ
+PowerPoint render|PowerPoint-ի նյութավորում
+PowerPoint static|PowerPoint-ի հաստատուն
+PowerShell Core|PowerShell Core
+PPP|PPP
+PPPoE|PPPoE
+Praise|Երախտիք
+pre-boot|նախաբեռնող
+precedent|նախադեպ
+precision touchpad|ճշգրիտ հպահարթակ
+precomposed character|բաղադրյալ գրանշան
+predefined bookmark|նախասահմանված էջանիշ
+preload|նախաբեռնել
+Premium|Premium
+Premium account|Premium հաշիվ
+pre-order|նախապատվիրել
+Pre-orders|Նախապատվերներ
+prepaid card|կանխավճարային քարտ
+Prepare|Պատրաստել
+prepopulation|կենտրոնացված բաշխում
+Present Online|Ներկայացնել առցանց
+presentation|ներկայացում
+presentation broadcast|ներկայացման հեռարձակում
+presentation package|ներկայացման փաթեթ
+presentation section|ներկայացման խումբ
+presentation-level guide|ներկայացման մակարդակի ուղեցույց
+Presenter View|Զեկուցողի տեսք
+preservation hold library|արխիվային գրադարան
+press and hold|սեղմել և պահել
+preview|նախատեսք
+preview|նախադիտել
+preview|նախադիտում
+preview bar|նախատեսքի գոտի
+preview pane|նախատեսքի փեղկ
+previewer|նախադիտակ
+PRF|PRF
+price list|գնացուցակ
+price tier|գնաշարք
+primary calendar|առաջնային օրացույց
+primary key|առաջնային բանալի
+primary mouse button|մկնիկի առաջնային կոճակ
+primary table|առաջնային աղյուսակ
+primary window|առաջնային պատուհան
+primordial pool|Սկզբնական փունջ
+print area|տպման տարածք
+print device|տպասարք
+print preview|տպման նախատեսք
+PRINT SCREEN key|PRINT SCREEN ստեղն
+print style|տպման ոճ
+print titles|տպանվանումներ
+Print to OneNote|Տպել OneNote-ում
+printer|տպիչ
+printer driver|տպիչի սարքավար
+Printing and Imaging Devices|Տպման եւ պատկերման սարքեր
+privacy|գաղտնիություն
+Privacy & cookies|Գաղտնիություն և թխուկներ
+Privacy Policy|Գաղտնիության դրույթներ
+privacy settings|գաղտնիության կարգավորումներ
+privacy statement|գաղտնիության դրույթ
+private|մասնավոր
+Private Communication Technology|Մասնավոր հաղորդակցման եղանակ
+private store|մասնավոր խանութ
+privilege attribute certificate|արտոնության հատկանիշի վկայագիր
+Proactive Scanner|Կանխիչ սահազննում
+procedure|ընթացակարգ
+Process|Ընթացք
+Process Arrows|Ընթացի սլաքներ
+Process List|Ընթացքների ցուցակ
+processing instructions|մշակման հրահանգներ
+processor|պրոցեսոր
+product|արտադրանք
+Product Catalog|Արտադրանքի գրացուցակ
+product key|արտադրահամար
+Productivity|Արդյունավետություն
+profile|հատկագիր
+profile card|հատկագրի քարտ
+profile path|հատկագրի ուղի
+ProgID|ProgID
+program|ծրագիր
+Program Compatibility troubleshooter|ծրագրերի համատեղելիության շտկիչ
+programmatic identifier|ծրագրավորելի նույնացուցիչ
+programming language|ծրագրավորման լեզու
+progress indicator|առաջընթացի ցուցիչ
+Progress UI|Օգտվողի առաջընթացի միջերես
+project|արձակել
+project file|նախագծի նիշք
+Project management|Նախագծերի կառավարում
+Project Server permission model|Project Server թույլտվության ձևարկ
+Project Site|Նախագծի կայք
+Project Site Sync|Նախագծի կայքի համաժամում
+project team|նախագծի թիմ
+Project Web App|Project Web App
+Project Web App Site Sync|Project Web App կայքի համաժամում
+promote|առաջ տանել
+promotional image|աջակցող պատկեր
+prompt|հուշանիշ
+prompt tone|հուշման տոն
+proofing tools|ստուգիչ գործիքներ
+Properties|Հատկություններ
+property|հատկություն
+Property Editor|Հատկությունների խմբագրիչ
+property fields|հատկությունների դաշտեր
+property page|հատկությունների էջ
+property promotion|հատկությունների տարածում
+property sheet|հատկությունների թերթ
+protect|պաշտպանել
+Protected View|Պաշտպանված տեսք
+protection level|պաշտպանության մակարդակ
+protection point|պաշտպանման կետ
+protocol|հաղորդակարգ
+provider|մատակարար
+provider|տրամադրող / մատուցող
+provision|տրամադրել
+provisioning package|մատակարարման փաթեթ
+proximity|մոտիկություն
+proximity sensor|մոտիկության սենսոր
+proxy|պրոքսի
+proxy server|պրոքսի սպասարկիչ
+pseudo-random function|կեղծ-պատահական գործառույթ
+PST import|ԱՊՆ ներմուծում
+public chat|հանրային զրույց
+public folder|հանրային պանակ
+public group|հանրային խումբ
+public IM|հանրային IM
+publication|հրապարակում
+public-facing URL|հանրային URL
+publish|հրապարակել
+Publish to Docs.com|հրապարակել Docs.com-ում
+publisher|հրապարակող
+publishing|հրապարակում
+pull quote|ազդեցիկ մեջբերում
+Punctuation Conventions|Կետադրական պայմանականություններ
+Purble Pairs|Purble Pairs
+purchase after trial|գնել փորձաշրջանից հետո
+purchase at download|Գնել ներբեռնելիս
+purchaseid|purchaseid
+purchaser|գնորդ
+Pure|Մաքուր
+push button|սեղմակոճակ
+push-button reset|վերակայման սեղմակոճակ
+Puzzle & trivia|Գլուխկոտրուկներ
+Pyramid|Բուրգ
+pyramid chart|բուրգաձև գծապատկեր
+pyramid diagram|բրգաձև գծապատկեր
+Pyramid List|Բուրգի ցուցակ
+QST|QST
+quad|քառյակ
+quadratic formula|քառ. հավ. արմ. բանաձև
+qualifying product|որակյալ արտադրանք
+quality|որակ
+quality update|որակի արդիացում
+quality-of-service indicator|ծառայության որակի ցուցիչ
+query|հարցում
+query design|հարցման ձևավորում
+query field|հարցման դաշտ
+query rule|հարցման կանոն
+Query window|Հարցման պատուհան
+queryable managed property|հարցումները կառավարող հատկություն
+quest|փնտրում
+question mark|հարցական նշան
+question-mark pointer|հարցական նշանի ցուցիչ
+queue|հերթ
+Quick access|Արագ մատչում
+Quick Access Toolbar|Արագ մատչման գործիքագոտի
+Quick add|Արագ ավելացում
+Quick Analysis|Արագ վերլուծություն
+Quick Assist|Արագ օգնություն
+Quick Click category|Արագ կտտացման կարգ
+Quick Click flag|Արագ կտտոցի դրոշ
+Quick Commands Toolbar|Արագ հրամանների գործիքագոտի
+Quick Contacts|Արագ կապորդներ
+Quick Edit|Արագ խմբագրում
+Quick Explore|Արագ դիտարկում
+Quick Filter|Արագ զտիչ
+Quick Filters|Արագ զտիչներ
+Quick Filters for message list|Արագ զտիչներ ուղերձների ցուցակի համար
+Quick Notes|Արագ նշումներ
+Quick Parts|Նմուշաձևեր
+Quick Parts gallery|Նմուշաձևերի սրահ
+quick play|արագ նվագարկում
+Quick Preview|Արագ նախասեսք
+Quick Rules|Արագ կանոններ
+Quick Search|Արագ որոնում
+Quick start|Արագ մեկնարկ
+Quick Steps|Արագ քայլեր
+Quick Style set|Արագ ոճերի կազմ
+Quick Styles|Արագ ոճեր
+Quick suggestions|Արագ առաջարկներ
+Quick Tabs|Արագ ներդիրներ
+Quick Tag Tree|Արագ սյունատման ծառ
+QuickStarter|Արագ մեկնարկիչ
+QuickTime|QuickTime
+Racing & flying|Մրցարշավներ և թռիչքներ
+radar chart|շառավղաձեւ գծույթ
+Radial Cycle|Շառավղային շրջան
+radial diagram|շառավղային գծապատկեր
+Radial List|Շառավղի ցուցակ
+radial menu|շառավղային ցանկ
+Radial Venn|Շառավղային վրածածք
+Radio|Ռադիո
+radio button|կետակոճակ
+radio frequency identification sensor|ռադիոհաճախության նույնականացման սենսոր
+RAM|RAM
+random access memory|դիպվածամատչելի հիշողություն
+range name|ընդգրկույթի անուն
+ranking model|դասակարգման ձևարկ
+rating|գնահատում
+Ratings and reviews|Վարկանիշներ եւ դիտարկումներ
+raw notification|հում ծանուցում
+RDF Site Summary|RDF կայքի ամփոփում
+RDMA|RDMA
+RDP|RDP
+read aloud|բարձրաձայն ընթերցել
+Read mode|Ընթերցման կերպ
+read/write|կարդալ/գրել
+Readability Statistics|ընթեռնելիության վիճակագրություն
+reader|ընթերցող
+reading indicator|ընթերցման ցուցիչ
+reading layout view|ընթերցման դասավորության տեսք
+reading list|ընթերցացուցակ
+reading pane|ընթերցման փեղկ
+reading position indicator|ընթերցման դիքի ցուցիչ
+reading view|ընթերցման տեսք
+README|ԿԱՐԴԱ ԻՆՁ
+readme file|«կարդա ինձ» նիշք
+read-only|միայն կարդալու
+read-only memory|միայն կարդալու հիշողություն
+Really Simple Syndication|Իրապես պարզ միավորում
+rebalance|վերաբաշխում
+recalculation animation|վերահաշվարկման շարժունացում
+Receivable Management Services|Receivable Management Services
+receive file|ստանալ նիշքը
+recent|վերջերս
+Recent plays|Վերջերս նվագարկվածները
+Recently-found songs|Վերջին գտնված երգեր
+recipient|ստացող
+recipient list|ստացողների ցուցակ
+recommendations|խորհուրդներ
+Recommended|Հանձնարարելի
+Recommended artists|Հանձնարարելի կատարողներ
+Recommended Charts|Հանձնարարելի գծապատկերներ
+Recommended for you|Հանձնարարելի՝ ձեզ համար
+Recommended movies|Հանձնարարելի շարժանկարներ
+Recommended music|Հանձնարարելի երաժշտություն
+Recommended PivotTables|Հանձնարարելի PivotTable-ներ
+Recommended TV|Հանձնարարելի ՀՏ
+record|գրառում
+Record Slide Show|Պատկերահանդեսի գրանցում
+Recorded TV Library|Հեռուստատեսության գրանցված գրադարան
+recordset|գրանցակազմ
+recover|վերականգնել
+recovery image|վերականգնող պատկեր
+Recurrence|կրկնություն
+recurring|պարբերական
+recurring task|կրկնվող խնդիր
+Recycle Bin|Աղբաման
+red-green-blue|կարմիր-կանաչ-կապույտ
+redo|վերարկել
+Reference|Տեղեկատուներ
+Reference & training|Տեղեկատուներ և ուսուցում
+Reference Builder|Հղման կառուցիչ
+refinable managed property|կատարելագործումները կառավարող հատկություն
+refine|զտել
+reflect|արտացոլել
+reflow|վերաձևաչափում
+reflow|վերաձևաչափել
+refresh|թարմացնել
+Refresh button|«Թարմացնել» կոճակ
+refresh Windows|թարմացնել Windows-ը
+refresh your PC|թարմացնել ԱՀ-ը
+REGEX.EXTRACT|REGEX.ԱՐՏԱՀԱՆԵԼ
+REGEX.FIND|REGEX.ԳՏՆԵԼ
+REGEX.MATCH|REGEX.ՀԱՄԱՊԱՏԱՍԽԱՆԵՑՆԵԼ
+REGEX.OPTIONS|REGEX.ԸՆՏՐԱՆՔՆԵՐ
+REGEX.SUBSTITUTE|REGEX.ՓՈԽԱՐԻՆԵԼ
+REGEX.TEST|REGEX.ՓՈՐՁԱՐԿԵԼ
+region selection|տարածքի ընտրություն
+registered trademark symbol|գրանցված ապրանքանշան
+registered user|գրանցված օգտվող
+registration|գրանցում
+registry|գրանցամատյան
+regression analysis|հետադարձի վերլուծություն
+re-image|վերակերպարել
+reinstallation|վերատեղադրում
+Related Items|Կապված միավորներ
+relationship|հարաբերություն
+relationship node|փոխհարաբերության հանգույց
+Relationships|Հարաբերություններ
+relative cell reference|հարակցվող վանդակի հղում
+relative link|հարակցվող կապ
+relative positioning|հարաբերվող դիրքավորում
+relative reference|հարակցվող հղում
+Relaxed|Ազատ
+release|թողարկում
+release notes|թողարկման նշումներ
+Release to Manufacturing|Թողարկում առ արտադրություն
+reliability|հուսալիություն
+reminder|հիշեցում
+remote|հեռակա
+remote access|հեռադիր մատչում
+remote business data removal|գործարարական տվյալների հեռակա հեռացում
+remote control|հեռակա կառավարում
+remote control software|հեռակա կառավարման ծրագիր
+Remote Desktop|Հեռակա սեղան
+Remote Desktop Connection|Կապակցում հեռակա Սեղանին
+Remote Desktop Protocol|հեռակայված սեղանի հաղորդակարգ
+Remote Direct Memory Access|հեռադիր հիշողության ուղղակի մատչում
+remote media connection|կապակցում հեռակա տեսաձայնանյութին
+remote reference|հեռակա հղում
+remote viewer|հեռակա դիտակ
+RemoteApp|RemoteApp
+remove|հեռացնել
+Remove Background|Հեռացնել ետին պլանը
+rendering|նյութավորում
+renewal only mode|միայն նորացման կերպ
+repeat delay|կրկնման հապաղում
+Repeating Bending Process|Կրկնվող ծռման ընթացք
+repeating group|կրկնվող խումբ
+repeating section content control|կրկնվող հատվածի բովանդակության կառավար
+repeating table|կրկնվող աղյուսակ
+replace|փոխարինել
+replica|կրկնօրինակ
+replica set topology|վերօրինակումների կազմի տեղաբանություն
+replication|կրկնապատճենում
+Replication ID|կրկնօրինակման ID
+replication topology|վերօրինակման տեղաբանություն
+reply|պատասխանել
+Reply All|Պատասխանել բոլորին
+Reply to All|Պատասխանել բոլորին
+Reply with Meeting|Պատասխան՝ հանդիպման հրավերով
+report|զեկույց
+Report a violation|Հայտնել խախտման մասին
+Report Abuse|Հաղորդում չարաշահման մասին
+report snapshot|զեկուցման ճեպապատկեր
+report template|զեկույցի ձևանմուշ
+report type|զեկույցի տեսակ
+requery|վերահարցում
+Request Management|Հայցի կառավարում
+request throttling|հայցի կանոնավորում
+Researcher|Հետազոտող
+reserved domain|վերապահված տիրույթ
+reset|վերակայել
+Reset Graphic|Վերակայել գծապատկերը
+reset Windows|վերակայել Windows-ը
+reset your PC|վերակայել ԱՀ-ը
+resize|չափափոխել
+resize handle|չափափոխման բռնակ
+resolution|տարլուծում
+resource|միջոց
+resource|պաշար
+resource budget|պաշարների բյուջե
+Resource Engagements|Պաշարների ներգրավում
+resource view|միջոցների տեսք
+resource-intensive task|պաշարային տարողության խնդիր
+Resources|Միջոցներ
+respond|պատասխանել
+responder|պատասխանիչ
+restart|վերագործարկել
+restore|վերականգնել
+Restore this version|Վերականգնել այս տարբերակը
+result set|արդյունքներ
+result source|արդյունքների աղբյուր
+results|արդյունքներ
+resume|կենսագրություն (գոյական)
+Resume Reading|Ընթերցման շարունակում
+retention policy|պահման պայմաններ
+retinal scanner|ցանցաթաղանթի սահազննիչ
+retrievable managed property|առբերման կառավարող հատկություն
+return address|հետադարձ հասցե
+retweet|հղել բլբլոց
+reverse charge|հետադարձ պահում
+review|կարծիք
+revision mark|վերանայման ստուգանիշ
+revoked certificate|ետ կանչված վկայագիր
+Rewards|Rewards
+rewind|հետանցում
+RFID sensor|ռադիոհաճախության սենսոր
+RGB|RGB
+RIB|RIB
+ribbon|ժապավեն
+ribbon tab|ժապավենի ներդիր
+Rich Site Summary|Կայքի հարստացված ամփոփոում
+rich text field|հարստագիր գրվածքի դաշտ
+rich text XML mapping|հարստագրի XML արտապատկերում
+rich-text box|գրվածքի հարուստ շրջանակ
+right align|հավասարեցնել աջ
+right angle bracket|աջ անկյունաձեւ փակագիծ
+right arrow|աջ սլաք
+right brace|աջ ձեւավոր փակագիծ
+right bracket|աջ ուղղանկյուն փակագիծ
+right mouse button|մկնիկի աջ կոճակ
+right-aligned|աջ հավասարեցված
+rights|իրավունքներ
+rights-managed|իրավունքներով պաշտպանված
+right-to-left|աջից ձախ
+ringtone|զանգերանգ
+Ringtones & sounds|Զանգերանգներ և ձայներ
+RIP|պատճենում
+risk|ռիսկ
+RMB|RMB
+roaming|արտասպասարկում
+role playing|դերային
+Role Sync|Դերի համաժամում
+roll back|Հետ դարձնել
+rollback|դարձ
+rolling shutter|պտտվող փական
+ROM|ROM
+root CA|արմատային CA
+root certificate|արմատային վկայագիր
+root directory|արմատային գրացուցակ
+root element|արմատական տարր
+root folder|արմատային պանակ
+rotate|պտտել
+rotate|պտտում
+Rotate 180|Պտտել 180
+Rotate 270|Պտտել 270
+Rotate 90|Պտտել 90
+rotate gesture|պտտման շարժմունք
+rotate mode|պտտման կերպ
+rotation|շրջում
+rotation lock|պտտման կողպում
+rotation lock button|պտտման կողպման կոճակ
+router|երթուղիչ
+row|տող
+row area|տողերի տարածք
+row field|տողի դաշտ
+row heading|տողի վերնագիր
+RPC|RPC
+R-squared value|R-ի քառակուսու արժեք
+RSS|RSS
+RSS feed|RSS սնում
+RSS Subscriptions|RSS-ի բաժանորդագրում
+RSVP|Խնդրում ենք պատասխանել
+RTGS|RTGS
+RTL|RTL
+RTM|RTM
+RUB|RUB
+rubles|ռուբլի
+rule|կանոն
+rule line|տողանջատ գիծ
+ruler|քանոն
+ruler guide marker|քանոնի ուղղորդի նշիչ
+Rules Manager|Կանոնների կառավարիչ
+run|աշխատեցնել
+run|աշխատեցում
+running foot|էջատակ
+running head|էջագլուխ
+S corporation|S միավորում
+S/MIME receipt|S/MIME ծանուցում
+SA|SA
+safe mode parser|ապահով կերպի վերլուծիչ
+Safe Recipients List|Ցանկալի ստացողների ցուցակ
+Safe Senders List|Ցանկալի ուղարկողների ցուցակ
+SafeControl list|SafeControl ցուցակ
+SafeSearch|Անվտանգ որոնում
+safety|ապահովություն
+Sales & marketing|Վաճառքներ և շուկայավարություն
+sandboxed solution|մեկուսացված որոշում
+sans serif|անփակոց
+save|պահել
+Saved networks|Պահված ցանցեր
+SayAs|SayAs
+scale|սանդղել
+scale mode|սանդղելու կերպ
+scan|սկանավորել
+scan|սկան
+scan head|սկաների գլխիկ
+scanner|սահազննիչ
+scatter chart|ցրված գծապատկեր
+schedule|հերթացուցակ
+Schedule|Հերթագրում
+schedule|հերթագրել
+schedule performance index|ժամկետների պահպանման դասիչ
+Schedule View|Հերթագրական տեսք
+schema|ուրվապատկեր
+schema validation|ուրվակազմի վավերացում
+scheme color|ուրվակազմի գույն
+scope|շրջանակներ
+screen|էկրան
+screen clipping|էկրանի դրվագում
+screen reader|էկրանի ընթերցող
+Screen Recording|Էկրանի գրառում
+screen review utility|էկրանի դիտարկման օժանդակ ծրագիր
+screen sharing|էկրանի համօգտագործում
+screen shot|էկրանի պատկեր
+screen sketch|էկրանի պատկեր
+ScreenTip|էկրանային հուշում
+script|սկրիպտ
+script anchor|գաղտնագրի խարիսխ
+scroll|ոլորել
+scroll arrow|ոլորման սլաք
+scroll arrow button|ոլորման սլաքով կոճակ
+scroll bar|ոլորագոտի
+scroll box|ոլորատուփ
+SCROLL LOCK key|SCROLL LOCK ստեղն
+Scroll Preview|Ոլորման նախատեսք
+scrollable button group|ոլորվող կոճակների խումբ
+SD|SD
+SDI|SDI
+seal|կնիք
+search|որոնել
+search administration database|որոնման վարչական շտեմարան
+Search button|Որոնման կոճակ
+Search by|Որոնման տեխնոլոգիան՝
+Search charm|Որոնել հրաշք կոճակ
+search connector|որոնման կապակցիչ
+search engine|որոնիչ
+search engine optimization|որոնիչի լավարկում
+search filter|որոնման զտիչ
+search folder|որոնման պանակ
+Search Folders|Որոնման պանակներ
+Search on Web|Որոնում վեբում
+Search refiner|Որոնման զտիչ
+search schema|սխեմայի որոնում
+search scope|որոնման շրջանակ
+Search service application|Որոնման ծառայության գործադիր
+search settings database|որոնման կարգավորումների շտեմարան
+search tag|որոնման պիտակ
+searchable managed property|որոնման կառավարող հատկություն
+Search-Driven Navigation|Որոնումը խթանող նավիգացիա
+season|եթերաշրջան
+season pass|եթերաշրջանի տոմս
+Second screen|Երկրորդ էկրան
+secondary action button|երկրորդական գործողության կոճակ
+secondary action menu|երկրորդական գործողության ցանկ
+secondary calendar|երկրորդական օրացույց
+second-stage Recycle Bin|երկրորդ փուլի Աղբաման
+secret answer|Գաղտնապատասխան
+secret key|գաղտնի բանալի
+section|հատված
+section|խումբ
+section break|հատվածի ընդհատում
+section layout|հատվածի դասավորություն
+section mark|պարբերության նշան
+Section Zoom|Հատվածի դիտափոխում
+secure note|անվտանգ նշում
+security|անվտանգություն
+security administrator|անվտանգության վարիչ
+Security and Maintenance|Անվտանգություն և սպասարկում
+security association|Անվտանգության միավորում
+security file|անվտանգության նիշք
+security ID|անվտանգության ID
+security identifier|անվտանգության նույնացուցիչ
+security label|անվտանգության պիտակ
+Security tab|«Անվտանգություն» ներդիր
+security update|անվտանգության արդիացում
+seed|նախնական իմաստ
+seeding|լրացում
+seek|փնտրել
+segment|հատված
+Segment Eraser|Հատվածի ջնջիչ
+Segmented Cycle|Մասնատված շրջան
+Segmented Process|Մասնատված ընթացք
+Segmented Pyramid|Մասնատված բուրգ
+SEK|SEK
+select|ընտրել
+select query|ընտրման հարցում
+selection|ընտրվածք
+selection handle|ընտրության բռնակ
+selection rectangle|ընտրման ուղղանկյուն
+selector|ընտրիչ
+self-extracting file|ինքնա-արտահանվող նիշք
+self-join|ինքնամիակցում
+send|ուղարկել
+Send a praise|Երախտիքի ուղարկում
+send contact|ուղարկել կապորդին
+send file|ուղարկել նիշք
+Send Later|Ուղարկել ավելի ուշ
+send SMS|ուղարկել SMS
+send text|ուղարկել գրվածք
+send text message|ուղարկել գրվածքային ուղերձ
+Send/Receive group|Ուղարկման/ստացման խումբ
+sender|ուղարկող
+sensitivity|զգայունություն
+sensitivity level|զգայունության մակարդակ
+sensor|սենսոր
+separator|բաժանիչ
+separator character|զատող գրանշան
+Sepia|Դարչնագույն
+Sepia Tone|Դարչներանգ
+serial number|հերթական համար
+serial port|հաջորդական միացք
+series axis|շարքերի առանցք
+series field|շարքերի դաշտ
+series line|շարքերի գիծ
+series point|շարքերի կետ
+serif|փակոցներով
+server|սպասարկիչ
+server administrator|սպասարկիչի վարիչ
+server copy|սպասարկչային պատճեն
+server name|սպասարկիչի անուն
+server software|սերվերային ծրագրաշար
+Servers|Սպասարկիչներ
+service|ծառայություն
+service agreement|ծառայության համաձայնագիր
+service pack|սպասարկման փաթեթ
+service provider|ծառայություն մատուցող
+service quality metrics|ծառայության որակի չափանիշ
+Service Set Identifier|Ծառայությունների կազմի նույնացուցիչ
+session|աշխատաշրջան
+set|կազմ
+set aside|մի կողմ դնել
+Set up School PCs|Դպրոցական ԱՀ-ների տեղակայում
+Sets|Կազմեր
+Sets Studio|Կազմերի տաղավար
+setting|կարգավորում
+Settings|Կարգավորումներ
+Settings charm|Կարգավորումներ հրաշք կոճակ
+settings modifier|կարգավորումների կերպափոխիչ
+severity|Խստություն
+SHA|SHA
+shade|ստվերերանգ
+shader|ստվերիչ
+shadow|ստվեր
+shadow copy|ստվերային պատճեն
+shadowing|հետեւում
+shape|պատկեր
+Shape Client|Ձեւի սպասառու
+shape data|պատկերի տվյալներ
+shape-level validation|պատկերների մակարդակի ստուգում
+ShapeSheet|Պատկերի տվյալներ
+share|համօգտագործում
+Share charm|Համօգտագործում հրաշք կոճակ
+Shared Address Information|Համօգտագործվող IP հասցե
+shared computer activation|համօգտագործվող համակարգչի ակտիվացում
+shared folder|համօգտագործվող պանակ
+Shared photos|Համօգտագործված լուսանկարներ
+shared workbook|համօգտագործվող աշխատագիրք
+SharePoint add-in|SharePoint-ի հավելվածք
+SharePoint Add-ins|SharePoint-ի հավելվածքներ
+SharePoint list|SharePoint–ի ցանկ
+sharing invitation|համօգտագործման հրավեր
+Sharpen and Soften|Հստակ և մեղմ
+sheet|թերթ
+sheet tab|թերթի ներդիր
+shell|խեցի
+shell extension|խեցու ընդլայնում
+SHIFT key|SHIFT ստեղն
+shipping address|առաքման հասցե
+shipping label|առաքման պիտակ
+shooter|կրակիչ
+Shopping|Առեւտուր
+Short lines|Կարճ գծեր
+shortcut|դյուրանցում
+shortcut group|կարճատների խումբ
+shortcut key|դյուրանցման ստեղն
+Shortcuts pane|Կարճատների փեղկ
+show|ցուցադրել
+Show a picture|Ցուցադրել նկար
+shrink|կծկել
+shuffle|խառնել
+shut down|անջատել
+shutdown|անջատում
+SID|SID
+Side to Side|Կողք կողքի
+sidebar|լուսանցքի նշում
+sideload|կողաբեռնել
+SideShow|SideShow
+sign in|մուտք գործել / մտնել
+Sign in with your work or school account|Մուտք գործեք ձեր աշխատանքային կամ դպրոցական հաշվով
+sign out|դուրս գրվել
+sign up|գրանցվել
+signature|ստորագրություն
+signature line|ստորագրության տող
+Signature Setup|Ստորագրության կայում
+Signed - unverified|Ստորագրված-չստուգված
+Signed - verified|Ստորագրված-ստուգված
+significant other|այլ կարեւոր անձ
+sign-in info|մուտք գործելու տեղեկություն
+sign-in information|մուտք գործելու տեղեկություն
+Signing Services for Office|Ստորագրման ծառայություններ Office-ի համար
+silent process exit|լուռ ելք ընթացքից
+simple|պարզ
+Simple Markup view|Պարզ նշարկման տեսք
+simplified sharing|պարզեցված համօգտագործում
+Simulation|Նմանակում
+Single|Մեկ սյունակ
+single click|մեկ կտտոց
+Single data type|Եզակի տվյալների տեսակ
+Single Payment Classification Code|վճարման նպատակի միասնական դասակարգիչ
+single session-only disc|միանգամյա գրանցման սկավառակ
+SINGLE()|SINGLE()
+single-document interface|առանձին փաստաթղթի միջերես
+single-mapped cell|կետային պատկերման վանդակ
+single-threaded apartment|միաշղթա բնակարան
+single-use code|միանգամյա կոդ
+site mailbox|կայքի փոստարկղ
+site provisioning provider|կայքերի նախապատրաստման տրամադրող
+Site Reports|Կայքազեկույց
+Sites app|Կայքերի գործադիր
+size|չափափոխել
+sizing handle|չափափոխման բռնակ
+sketchpad|փորձատախտակ
+skewed fraction|շեղ կոտորակ
+Skype account|Skype-ի հաշիվ
+Skype call|Skype-ի կանչ
+Skype Click to Call|Skype-ի կանչ մեկ կտտոցով
+Skype Connect|Skype Connect
+Skype Credit|Skype-ի վարկ
+Skype for modern Windows|Skype-ը մոդեռն Windows-ի համար
+Skype Home|Skype-ի սկիզբ
+Skype Manager|Skype Manager
+Skype messages|Skype-ի ուղերձներ
+Skype Name|Skype-ի անուն
+Skype Number|Skype-ի համար
+Skype partner|Skype-ի գործընկեր
+Skype Premium|Skype Premium
+Skype To Go number|Skype To Go համար
+Skype voucher|Skype-ի հավաստագիր
+Skype WiFi|Skype WiFi
+SkypeKit|SkypeKit
+Skype-to-Skype call|Skype-ից Skype կանչ
+skyscraper|երկնաքեր
+skyscraper ad|երկնաքեր գովազդ
+skyscraper banner|երկնաքեր գովազդ
+slab|սալ
+slab consolidation|սալերի համաձուլում
+slate|սալակարգիչ
+SLCC|SLCC
+sleep|քուն
+sleep mode|քնելակերպ
+slicer|շերտազտիչ
+Slicers|Մասնատիչներ
+slide|լուսապատկեր
+slide|սահեցնել
+slide|սահոց
+slide gesture|սահոցի շարժմունք
+Slide Library|Պատկերադարան
+slide master|լուսապատկերների ձևանմուշ
+Slide Show|Պատկերահանդես
+Slide Show view|Պատկերահանդեսի տեսք
+slide two fingers|սահեցնել երկու մատը
+Slide Zoom|Լուսապատկերի դիտափոխում
+slider|սահիչ
+slideshow|սլայդերի ցուցադրում
+slot|փորակ
+small caps|փոքր գլխատառեր
+smart card|խելացի քարտ
+Smart Due Dates|Խելամիտ կատարման ժամկետներ
+smart file|խելացի նիշք
+smart list|խելացի ցուցակ
+Smart Lookup|Խելացի որոնում
+SmartArt|SmartArt
+SmartArt graphic|SmartArt գծապատկեր
+SmartArt Picture Layout|SmartArt նկարի դասավորություն
+SmartScreen Application Reputation|Գործադրի վարկանիշը ըստ SmartScreen-ի
+SMBIOS|SMBIOS
+SMS|SMS
+SMS message|SMS ուղերձ
+Smudge Stick|Լղոզիչ
+snap|չխկացնել
+Snap|Չխկոց
+snapped app|չխկացված գործադիր
+snapshot|ճեպապատկեր
+Snapshot Viewer|Ճեպապատկերների դիտակ
+snip|կորզվածք
+Snippet Gallery|Հատվածների սրահ
+Snipping Tool|Եզրատման գործիք
+social|ընկերային
+social data|հասարակական տվյալներ
+social network|ընկերային ցանց
+social networking site|հասարակական ցանցի կայք
+social site|հասարակական կայք
+social tag|հասարակական տրոհ
+social update|սոցիալական արդիացում
+soft fail|թեթև խափանում
+soft fault|հիշողության սխալ
+soft hyphen|փափուկ տողադարձիչ
+soft page fault|հիշողության էջի սխալ
+soft restart|մեղմ վերամեկնարկ
+software|ծրագրաշար
+software bundler|ծրագրաշարի կապիչ
+Software Licensing Commerce Client|Ծրագրաշարի լիցենզավորման առեւտրային սպասառու
+software upgrade|ծրագրաշարի նորացում
+Solution Explorer|Լուծումների հետախույզ
+Solutions to Problems|Խնդիրների լուծումներ
+solve order|լուծման կարգ
+Someone|Ինչ-որ մեկը
+Someone on Windows Live|Ինչ-որ մեկը Windows Live-ում
+someone@example.com|someone@example.com
+song|երգ
+sort|տեսակավորել
+sort code|տեսակավորման կոդ
+sort order|տեսակավորման կարգ
+sortable managed property|տեսակավորման կառավարող հատկություն
+sorting|տեսակավորում
+sound board|ձայնային քարտ
+sound card|ձայնային քարտ
+source|աղբյուր
+source area|աղբյուրի տարածք
+source data|սկզբնական տվյալներ
+source file|սկզբնական նիշք
+Source Manager|Աղբյուրի կառավարիչ
+source subscription|սկզբնական բաժանորդագրում
+South African National Clearing Code|Հարավաֆրիկյան պետական հաշվանցման կոդ
+SP|SP
+space|տեղ
+space character|տարածության գրանշան
+SPACEBAR|ԲԱՑԱՏ
+Spaces|Տարածքներ
+spacing character|լայնքավոր գրանշան
+spam|լցոն
+spammer|լցոնող
+sparkline|կայծգիծ
+sparse array|նոսր զանգված
+spatial sound|տարածական ձայն
+Speak|Խոսել
+Speaker Calibration wizard|Բարձրախոսների չափաբերման մոգ
+speaker fill|ձայնահագեցում
+special character|հատուկ գրանշան
+Special interest|Հատուկ հետաքրքրություններ
+speech recognition|խոսքի ճանաչում
+speech-to-text|խոսքից գրվածք
+speed bump|արագության մեղմիչ
+Spelling|Ուղղագրություն
+Spelling pane|Ուղղագրության փեղկ
+spherical projection|գնդոլորտային պրոեկցիա
+SPI|ԺՊԴ
+Spike|Մեխ
+Spill|Վանդակահատում
+spin box|պտտատուփ
+split|տրոհում
+split bar|տրոհման գոտի
+split box|տրոհման տուփ
+split button|տրոհման կոճակ
+split time|տրոհման ժամանակ
+sponsored site|հովանավորվող կայք
+sponsorship|հովանավորություն
+spoof|խաբել
+Sports|Սպորտ
+Sports|Մարզական
+Sports & activities|Սպորտ և ակտիվ հանգիստ
+Sports & recreation|Սպորտ և հանգիստ
+Sports Scoreboard|Մարզական ցուցատախտակ
+Spot Corruption Handling|Վնասվածքի տեղային շտկում
+Spot Fixer|Տեղային շտկիչ
+Spot Verifier|Տեղային ստուգիչ
+spotlight|լուսարձակ
+Spotlight|Ուշադրության կենտրոնում
+SPP Notification Service|SPP ծանուցման ծառայություն
+spread|վերածածկ
+spreadsheet|աղյուսակաթերթ
+Spreadsheet Component|Տարածաթերթի բաղադրիչ
+Spreadsheet Management|Աղյուսակաթերթի կառավարում
+spreadsheet program|աղյուսակաթերթային ծրագիր
+SpyNet|SpyNet
+SpyNet Community Rating|SpyNet համայնքի արժենիշ
+SQL|SQL
+SQL view|SQL տեսք
+SSD|SSD
+SSID|SSID
+SSIS|SSIS
+SSO|minimum installation
+SSO|SSO
+STA|STA
+stabilization|կայունացում
+stack|շեղջել
+stacked|դարսած
+stacked|շեղջված
+stacked bar chart|Շեղջաձեւ գոտի
+stacked column chart|Շեղջաձեւ սյունակ
+stacked fraction|ուղղաձիգ կոտորակ
+Stacked List|Շեղջված ցուցակ
+Stacked Venn|Շեղջված վրածածք
+Staff picks|Անձնակազմի ընտրանի
+stage|փուլ
+stage view|փուլի տեսք
+Staggered Process|Աստիճանայաին ընթացք
+standard account|ստանդարտ հաշիվ
+standard deviation|ստանդարտ շեղում
+standard font|ստանդարտ տառատեսակ
+standard keyboard|ստանդարտ ստեղնաշար
+Standard toolbar|հիմնօրինակ գործիքագոտի
+standby|նիրհ
+star|աստղ
+star rating|աստղերով վարկանշում
+starred|աստղանշված
+start|մեկնարկել
+Start|Մեկնարկ
+Start button|Մեկնարկ կոճակ
+Start charm|Մեկնարկ հրաշք կոճակ
+start date|մեկնարկի ամսաթիվ
+Start menu|«Մեկնարկ» ցանկ
+Start screen|Մեկնարկային էկրան
+Start screen|«Մեկնարկ» էկրան
+start tag|բացող պիտակ
+Starter Diagram|Մեկնարկման գծապատկեր
+startup|մեկնարկում
+state|վիճակ
+State/Region|Երկիր/Մարզ
+statement|դրույթ
+static|հաստատուն
+status|վիճակ
+status area|վիճակի տարածք
+status bar|վիճակագոտի
+status date|վիճակի ամսաթիվ
+status report|վիճակի զեկույց
+STEM|ճշգրիտ գիտություններ
+stencil|ձևանմուշ
+step-by-step directions|քայլ առ քայլ ցուցումներ
+Stickers|Կպչուկներ
+sticky note|կպչուն թուղթ
+Sticky Notes|Կպչուն թղթեր
+stock chart|տվյալների տատանման գծապատկեր
+stop|կանգ
+stop responding|չի պատասխանում
+Storage|Պահեստ
+storage allocation|Հիշողության հատկացում
+storage layout|պահեստի դասավորություն
+storage limit|պահեստի սահմանաչափ
+storage plan|պահեստի փաթեթ
+storage pool|պահեստների փունջ
+storage provider|պահեստի տրամադրող
+storage space|պահեստի տարածք
+storage tier|պահեստի մակարդակ
+store|պահեստավորել
+stored procedure|պահեստավորված ընթացակարգ
+story|շարադրանք
+story|պատմություն
+storyboard|կտրագոտի
+storyline|սյուժե
+straight connector|ուղիղ կապակցիչ
+straight quotation mark|ուղիղ չակերտ
+Strategy|Ռազմավարություն
+Strategy & simulation|Ռազմավարություն և նմանակում
+stream|հոսարկել
+stream|հոսք
+stream-based conversion|ուղղորդված փոխարկում
+streamline|պարզեցնել
+Streetside|Streetside
+Stretch|Ձգում
+stretch|տարածում
+stretch|տարածել
+stretch gesture|տարածման շարժմունք
+strikethrough|վրագծում
+string|տող
+strong character|շեշտված գրանշան
+structural editing|կառուցվածքային խմբագրում
+Structure|Կառուցվածք
+Structured Query Language|Կանոնարկված հարցումների լեզու
+structured reference|կառուցվածքային հղում
+Structured References|Ստորակարգված հղումներ
+student|ուսանող
+Study aids|Պարապմունքների օգնություն
+style|ոճ
+Style & fashion|Ոճ և նորաձեւություն
+style area|ոճի տարածք
+Style gallery|Ոճերի սրահ
+style inspector|ոճի տեսուչ
+style sheet|ոճաթերթ
+Styles|Ոճեր
+stylistic set|ոճային կազմ
+stylus|սրբագրություն
+subdatasheet|ենթաաղյուսակ
+subentry|ենթագրառում
+subform|ենթաձեւ
+subheading|ենթագլուխ
+subject line|նյութի տող
+submenu|ենթացանկ
+submit|հաստատել
+subnotebook|ծալովի փոքր համակարգիչ
+subordinate shape|ստորադաս պատկեր
+sub-pixel positioning|ենթափիքսելային դիրքավորում
+subreport|ենթազեկուցում
+subscribe|բաժանորդագրվել
+subscript|վարգիր
+subscription|բաժանորդագրում
+subscription file|բաժանորդագրման նիշք
+subsite|ենթակայք
+subtask|ենթախնդիր
+subtitle|ենթագիր
+subtract|հանել
+Suggested|Առաջարկված
+Suggested color|Առաջարկված գույն
+Suggested Contacts|Առաջարկված կապորդներ
+suggestion card|առաջարկի քարտ
+Suite B|Suite B
+Suite B algorithm|Suite B ալգորիթմ
+summary|ամփոփագիր
+summary data|ամփոփման տվյալներ
+summary function|ամփոփման գործառույթ
+summary task|բաղադրյալ առաջադրանք
+Summary Zoom|Ամփոփապատկերի դիտափոխում
+sunburst chart|արևի շողերի տեսքով գծապատկեր
+Super Video CD|Super Video CD
+superior shape|վերադասի պատկեր
+superscript|վերգիր
+Supervisory Review|Վերահսկիչ վերանայում
+supplicant|հայցող
+support|աջակցում
+Support and Recovery Assistant|Աջակցման և վերականգնման օգնական
+Support and Recovery Assistant for Office 365|Աջակցման և վերականգնման օգնական Office 365-ի համար
+support ticket|հարցում աջակցման ծառայություն
+Surface Book|Surface Book
+surface chart|մակերեսային գծապատկեր
+Surface Dial|Surface Dial
+Surface Hub|Surface Hub
+Surface Pen|Surface Գրիչ
+Surface Pro 4|Surface Pro 4
+Surface Studio|Surface Studio
+suspend|կասեցնել
+SV|ՀՏ
+SVCD|SVCD
+SVG|SVG
+Swap Displays|Փոխանակման ցուցադրիչ
+swap file|էջանիշք / փոխանակման նիշք
+Sway|Sway
+sway|վեբ պաստառ
+sway|ստեղծել sway
+SWIFT code|SWIFT կոդ
+swimlane|բաշխման գոտի
+swipe|սահահարվածել
+swipe|սահահարված
+swipe gesture|սահահարվածի շարժմունք
+switch|փոխարկել
+Switch Series/Category|Փոխարկել Շարքեր/Անվանակարգ
+Switch User|փոխել օգտվողին
+syllables|վանկեր
+syllabus|ուսումնական ծրագիր
+sync|համաժամել
+sync|համաժամեցում
+Sync Center|Համաժամեցման կենտրոն
+sync error|համաժամեցման սխալ
+Sync Manager|Համաժամեցման կառավարիչ
+synced folder|համաժամված պանակ
+synchronization|համաժամեցում
+Synchronization Manager|համաժամեցման կառավարիչ
+synchronize|համաժամել
+synchronous conversion|համաժամված փոխարկում
+syndicated content|համահավաք բովանադակություն
+synonym|հոմանիշ
+Synonyms|Հոմանիշներ
+syntax|շարահյուսություն
+syntax error|շարահյուսական սխալ
+sysadmin|համավարիչ
+system|համակարգ
+system administrator|համակարգի վարիչ
+system caret|նշորդ
+system clock|համակարգային ժամացույց
+system color|համակարգի գույն
+system control area|համակարգի հսկման տարածք
+system event|համակարգային իրադարձություն
+system health agent|Համակարգի առողջության գործակալ
+system info|համակարգի տեղեկություն
+System Information|Համակարգի տեղեկություն
+System Protection|Համակարգի պաշտպանություն
+system rating|համակարգի գնահատական
+System Recovery|Համակարգի վերականգնում
+system time|համակարգային ժամանակը
+TA|TA
+tab|ներդիր
+Tab|Սյունատ
+tab character|սյունատի գրանշան
+tab control|ներդիր կառավար
+tab delimited|սյունատված
+tab group|Ներդիրների խումբ
+TAB key|TAB ստեղն
+Tab Peek|Ներդիրների թռուցքադիտում
+tab preview|ներդիրների նախատեսք
+Tab Selector|Ներդիրի ընտրիչ
+tab set|ներդիրների կազմ
+tab stop|սյունատի կանգ
+tabbed browsing|ներդիրավոր զննում
+tabbed conversations|ներդիրավոր հաղորդակցում
+tab-delimited|սյունատված
+table|աղյուսակ
+Table Hierarchy|Աղյուսակի ստորակարգ
+Table List|Աղյուսակային ցուցակ
+table name|աղյուսակի անուն
+table of authorities|ատյանների աղյուսակ
+table of contents|բովանդակություն
+table of figures|պատկերների աղյուսակ
+table pane|աղյուսակի փեղկ
+table style|աղյուսակի ոճ
+tablet|գրասալիկ
+tablet mode|գրասալիկի կերպ
+tablet PC|սալիկ ԱՀ
+tag|պիտակ
+tag|պիտակել
+tag tree|սյունատի ծառ
+tagged note|պիտակավորված նշում
+Tags|Պիտակներ
+tail|պոչ
+tail-log backup|մատյանի վերջնամասի պահուստ
+Take a Test|Փորձարկրվիր
+take advantage|օգտվել առավելություններից
+tap|հպել
+tap|տոփել
+tap|տոփում
+Tap|Թեմատիկ որոնում
+Tap and Do|Տոփիր՝ արա
+Tap and Hold|Տոփիր՝ պահիր
+Tap and Send|Տոփել եւ ուղարկել
+tap gesture|տոփման շարժմունք
+tap two fingers|տոփել երկու մատով
+target|թիրախ
+target diagram|նպատակային գծապատկեր
+Target List|Նպատակակետի ցուցակ
+task|խնդիր
+task input panel|խնդրի ներածման վահանակ
+task list|խնդրացուցակ
+task pane|խնդրափեղկ
+task pane app|խնդրափեղկի գործադիր
+task pane app for Office|խնդրափեղկի գործադիր Office-ի համար
+task path|խնդիրների ուղի
+task request|խնդրի հայցում
+Task Scheduler|Խնդիրների հերթագրիչ
+Task Well|խնդիրների ամփոփագիր
+taskbar|խնդրագոտի
+taskbar button|խնդրագոտու կոճակ
+TaskPad|Խնդրաթերթ
+Tasks peek|Խնդիրների թռուցքադիտում
+TB|ՏԲ
+TCP|TCP
+TCP/IP|TCP/IP
+TDD|TDD
+Teaching callout|Ուղղորդող դրսագիր
+Team Planner|Թիմի ծրագրող
+Team Work Center|Թիմային աշխատանքի կենտրոն
+telephone device for the deaf|խուլերի հեռախոսասարք
+television|հեռուստատեսություն
+Tell Me|Պատմիր ինձ
+template|ձեւանմուշ
+tenant administrator|սպասառուի վարիչ
+tenant-level external data log|սպասառուի արտաքին տվյալների մատյան
+tentative|նախնական
+terabyte|տերաբայթ
+Terms|Պայմաններ
+Terms of use|Օգտագործման պայմաններ
+test file|փորձարկման նիշք
+TETRAGRAM FOR DEFECTIVENESS OR DISTORTION|TETRAGRAM FOR DEFECTIVENESS OR DISTORTION
+text|գրվածք
+text area|գրվածքի տարածք
+text attributes|գրվածքի հատկանիշներ
+text bounding box|գրվածքի կապող տուփ
+text box|գրվածքի տուփ
+Text Cycle|Գրվածքի շրջան
+text effect|գրվածքի էֆեկտ
+text flow|գրվածքի հոսք
+text formatting|գրվածքի ձևաչափում
+text frame|գրելատեղ
+text message|գրվածքային ուղերձ
+text placeholder|գրվածքի տեղապահ
+text prediction|գրվածքի գուշակում
+text size|տառաչափ
+text slot|գրվածքի փորակ
+Text Spacing|Գրվածքների տարածություն
+text spacing|նոսրացում
+text suggestion|գրվածքի առաջարկ
+text telephone|գրվածքային հեռախոս
+Text to SmartArt|Գրվածքից SmartArt
+text wrap|գրվածքի տեղավորում
+text wrapping|գրվածքի տեղավորում
+TEXTAFTER|TEXTAFTER
+Text-Based Designer|Գրվածքային ձևավորող
+TEXTBEFORE|TEXTBEFORE
+TEXTBETWEEN|TEXTBETWEEN
+text-to-speech|գրվածքից խոսք
+texture|հյուսվածք
+theme|ոճ
+theme family|ոճերի հավաքածու
+theme font|ոճի տառատեսակ
+theme pack|ոճափաթեթ
+theme variant|ոճի տարբերակ
+Themes|Ոճեր
+thesaurus|հոմանիշարան
+Thesaurus pane|Հոմանիշարան փեղկ
+thread|ենթաշղթա
+thread|շղթա
+threaded discussion|ենթաշղթայական քննարկում
+three-dimensional|եռաչափ
+Threshold|Շեմ
+throttle|խեղդում
+thumb keyboard|երկկողմ ստեղնաշար
+thumbnail|մանրապատկեր
+thumbnail image|մանրապատկեր
+thumbnail pane|մանրապատկերի փեղկ
+thumbprint|մատնատիպ
+tick mark|մանրանիշ
+tick mark label|մանրանիշային պիտակ
+Ticker Tape|Հեռագրաժապավեն
+ticket|հարցում
+tick-mark label|մանրանիշային պիտակ
+TID|TID
+tiered storage|բազմամակարդակ պահեստ
+tiering engine|մակարդակների ենթահամակարգ
+tiering policy engine|մակարդակների ենթահամակարգի կանոններ
+tilde|ալիք
+tile|դրվագ
+tile|սալիկ
+Time & expenses|Ժամանակ և ծախսեր
+time allowance|թույլատրելի ժամանակ
+Time Broker|Ժամանակի միջնորդ
+Time Event Broker|Իրադարձությունների ժամանակի միջնորդ
+Time Reporter|Time Reporter
+time stamp|ժամադրոշմ
+time zone|ժամային գոտի
+timeline|ժամանակագիծ
+Timeline|Ժամագիծ
+timescale|ժամանակի սանդղակ
+Timesheet|Timesheet
+tint|երանգ
+tip|հուշակ
+Title area|անվանագոտի
+title bar|անվանագոտի
+title case|անվանման տառաշար
+title master|անվանման հիմնօրինակ
+Titled Matrix|Անվանված մատրիցա
+To box|Ում տուփ
+TOA|ԱԱ
+TOC|բովանդակություն
+Today|Այսօր
+Today page|Այսօրվա էջ
+to-do|անելիք
+To-Do|To-Do
+To-Do Bar|Գործերի գոտի
+to-do item|անելիք
+toggle button|փոխարկման կոճակ
+toggle key|փոխարկման ստեղն
+token|հետքանշիչ
+token|կանխավճարային քարտի կոդ
+token subscription|բաժանորդագրում կանխավճարային քարտով
+token-based activation|հետքանշիչային ակտիվացում
+tool|գործիք
+toolbar|գործիքագոտի
+toolbar button|գործիքագոտու կոճակ
+Tools|Գործիքներ
+tooltip|գործիքահուշ
+Top albums|Լավագույն ալբոմները
+Top apps|Լավագույն գործադիրներ
+Top artists|Լավագույն կատարողները
+Top charts|Լավագույն վարկացուցակներ
+Top free|Լավագույն անվճարները
+Top free apps|Լավագույն անվճար գործադիրները
+Top free games|Լավագույն անվճար խաղերը
+Top games|Լավագույն խաղեր
+Top grossing apps|Լավագույն շահութաբեր գործադիրները
+Top grossing games|Լավագույն շահութաբեր խաղերը
+Top movie rentals|Լավագույն վարձույթային շարժանկարները
+Top music|Լավագույն երաժշտությունը
+Top paid|Լավագույն վճարովիները
+Top paid apps|Լավագույն վճարովի գործադիրները
+Top paid games|Լավագույն վճարովի խաղերը
+Top rated|Լավագույն գնահատվածները
+Top rentals|Լավագույն վարձույթայինները
+Top rented|Լավագույն վարձույթայինները
+top result|ամենահարմար արդյունքը
+top results|ամենաէական արդյունքները
+Top selling|Լավագույն վաճառվողները
+Top songs|Լավագույն երգերը
+Top TV|Լավագույն ՀՏ
+topic|նյութ
+topic pane|նյութի փեղկ
+top-level folder|վերին մակարդակի պանակ
+top-level property grid|վերին մակարդակի հատկությունների ցանց
+topology|տեղաբանություն
+Top-rated movies|Լավագույն գնահատված շարժանկարները
+Top-rated TV shows|Լավագույն ՀՏ հանդեսները
+Top-selling movies|Լավագույն վաճառված շարժանկարները
+Top-selling songs|Լավագույն վաճառվող երգերը
+total row|միագումարի տող
+touch|հպում
+touch and hold|հպել ու պահել
+touch keyboard|հպաստեղնաշար
+touch pointer|Հպման ցուցիչ
+touch selection handle|հպումային ընտրության բռնակ
+touch training|հպման վարժեցում
+touch writing|հպումային գրում
+touchpad|հպահարթակ
+tracer arrow|հետագծիչի սլաք
+track|հետագծել
+track|հետագիծ
+trackback|հետագիծ
+tracked change|հետագծված փոփոխություն
+tracking|հետևում
+Tracking Protection|Պաշտպանություն հետեւումից
+trademark symbol|ապրանքանիշի նշան
+transaction|գործարք
+transfer|փոխանցում
+transfer|փոխանցել
+transfer call|փոխանցել կանչը
+transition|տարանցում
+transition effect|անցման էֆեկտ
+transition style|անցման ոճ
+Translate|Թարգմանել
+Translation ScreenTip|Թարգմանության վահանի հուշակ
+Translator|Թարգմանիչ
+Translator for Outlook|Թարգմանիչ Outlook-ի համար
+transmission|փոխանցում
+Transmission Control Protocol|Փոխանցման կառավարման հաղորդակարգ
+Transmission Control Protocol/Internet Protocol|Փոխանցման կառավարման հաղորդակարգ/համացանցի հաղորդակարգ
+transport adapter|փոխադրման հարմարիչ
+Trapezoid List|Սեղանի ցուցակ
+trapping|ծորում
+Travel|Ճանապարհորդություն
+tree|ծառ
+treemap chart|հիերարխիկ քարտեզ-գծապատկեր
+trend chart|միտման գծապատկեր
+Trending|Միտումներ
+trendline|միտման գիծ
+trendline label|միտման գծի պիտակ
+trim points|սարման կետեր
+Triple Data Encryption Standard|Եռակի տվյալների գաղտնագրման ստանդարտ
+Triple DES|Եռակի DES
+trojan downloader|տրոյանների ներբեռնիչ
+trojan dropper|տրոյանների գցիչ
+trojan mass mailer|տրոյանների զանգվածային առաքիչ / էլ-փոստային լցոնիչ
+trojan notifier|տրոյանների ծանուցիչ
+trojan proxy server|տրոյական փոխանորդ սպասարկիչ
+troubleshooter|անսարքությունների շտկիչ
+Troubleshooting|Անսարքությունների կարգավորում
+true sound|իրական ձայն
+trust|վստահություն
+Trust Bar|Անվտանգության գոտի
+Trust Center|Վստահության կենտրոն
+Trusted Boot|Վստահելի սկզբնաբեռնում
+Trusted Documents|Փաստաթղթերի վստահագրում
+trusted location|վստահելի տեղադրություն
+trusted publisher|վստահված հրապարակիչ
+trusted publisher store|վստահված հրապարակիչների պահեստ
+trusted root CA|վստահված արմատային CA
+trusted root certification authority|վստահված արմատային վկայագրման լիազորող
+trusted source|վստահելի աղբյուր
+TRY|TRY
+TS session|TS աշխատաշրջան
+TTS|TTS
+tunneling|վարընթաց երթուղում
+turbulence force|մրրիկային ուժ
+turbulence speed|մրրիկային արագություն
+TV|ՀՏ
+TV cam|ՀՏ խցիկ
+TV genres|ՀՏ ոճեր
+TV movies|ՀՏ շարժանկարներ
+TV networks|ՀՏ ցանցեր
+Tweet|բլբլոց
+twip|twip
+two-dimensional|երկչափ
+two-sided test|երկկողմանի փորձարկում
+two-step verification|երկքայլ ստուգում
+two-tailed test|երկկողմանի փորձարկում
+type|մուտքագրել
+type library|տիպերի դարան
+typed text|մուտք արած գրվածք
+Typewriter|Գրամեքենա
+UAC|UAC
+UCE|UCE
+UDF|UDF
+ULS|ULS
+unavailable|անմատչելի
+unbound object|չկապված առարկա
+unbound object frame|չկապված առարկայի շրջանակ
+underscore|ընդգծիկ
+undo|հետարկել
+Unfiled Notes|Սկզբնադիր նշումներ
+unflag|հեռացնել դրոշը
+Unicode|Յունիկոդ
+Unified Logging Service|Արձանագրումների միավորված ծառայություն
+Uniform Resource Name|Միանման պաշարների անվանում
+uninstall|ապատեղադրել
+union query|UNION հարցում
+unique identifier|եզակի նույնացուցիչ
+unit|միավորներ
+Universal Disk Format|Սկավառակի համընդհանուր ձեւաչափ
+universal serial bus|համընդհանուր հաջորդական դող
+universally unique identifier|համընդհանուր եզակի նույնացուցիչ
+Unlimited|Անսահմանափակ
+unlimited calls|անսահմանափակ կանչեր
+unlink|ապակապել
+UNN|UNN
+unpair|ապազուգավորել
+unpark|ապակայանել
+unpin|ապամրացնել
+unpin from Start|ապամրացնել Մեկնարկից
+Unrated|Չգնահատվածները
+Unread Changes|Չընթերցված փոփոխություններ
+unseen|չդիտված
+unshare|ապահամօգտագործել
+un-sign|ապաստորագրել
+unsolicited commercial e-mail|անցանկալի առևտրային էլ. փոստ
+unstack|ապաշեղջել
+unsubscribe|ապաբաժանորդագրվել
+unwanted software|անցանկալի ծրագրաշար
+up and running|գործող
+update|արդիացնել
+update|արդիացում
+update group|արդիացման խումբ
+update history|արդիացումների պատմություն
+update list|արդիացման ցուցակ
+update query|արդիացման հարցում
+update ring|թարմացման շրջանակ
+update rollup|կուտակային արդիացում
+updated|արդիացված
+up-down bars|վեր/վար գոտիներ
+upgrade|նորացնել
+upload|վերբեռնել
+Upload Videos|Վերբեռնել տեսանյութեր
+upper bound|վերին գնահատական
+uppercase|մեծատառ
+uppercase letter|մեծատառ
+Upward Arrow|Վեր սլացող սլաք
+URL|URL
+URN|URN
+usage|օգտագործում
+usage event|օգտագործման իրադարձություն
+USB|USB
+USB drive|USB հիշասարք
+USB flash drive|USB ֆլեշ հիշասարք
+USD|USD
+Use of Plain Verb Form|Պարզ բայաձևի գործածում
+user|օգտվող
+User Account Control|օգտվողների հաշիվների կառավարում
+user locale|օգտվողի տեղույթ
+user name|օգտվողի անուն
+user profile|օգտվողի հատկագիր
+user rights|օգտվողի իրավունքներ
+user-friendly|օգտվողին հարմար
+Utilities|Օժանդակ ծրագրեր
+Utilities & tools|Օժանդակ ծրագրեր և գործիքներ
+UUID|UUID
+Vague Adjectives|Անորոշ ածականներ
+validate|վավերացնել
+validation|վավերացում
+validation formula|վավերացման բանաձև
+value|արժեք
+value axis|արժեքի առանցք
+variable refresh rate|փոփոխական թարմացման հաճախություն
+variance|տարբերություն
+VAT|ԱԱՀ
+VAT ID|ՀՎՀՀ
+vault|վկայակազմ
+VBA Converter|VBA փոխարկիչ
+vCard|vCard
+Venn diagram|նպատակային գծապատկեր
+venue map|տարածքի քարտեզ
+verification|ստուգում
+verification code|ստուգման կոդ
+verify|հաստատել
+version|տարբերակ
+version history|տարբերակների պատմություն
+Vertical|Ուղղահայաց
+vertical alignment|ուղղաձիգ հավասարեցում
+Vertical Arrow List|Ուղղաձիգ սլաքի ցուցակ
+vertical axis|ուղղաձիգ առանցք
+vertical bar|ցցանիշ
+Vertical Bending Process|Ուղղաձիգ ծռման ընթացք
+Vertical Block List|Ուղղաձիգ կապանի ցուցակ
+Vertical Box List|Ուղղաձիգ ցուցակատուփ
+Vertical Bullet List|Ուղղաձիգ պարբերակների ցուցակ
+Vertical Chevron List|Ուղղաձիգ ծպեղների ցուցակ
+Vertical Equation|Ուղղաձիգ հավասարում
+Vertical Picture Accent List|Ուղղաձիգ նկարի շեշտման ցուցակ
+Vertical Picture List|Ուղղաձիգ նկարի ցուցակ
+Vertical Process|Ուղղաձիգ ընթացք
+vertical ruler|ուղղաձիգ քանոն
+vertical scroll bar|ուղղաձիգ ոլորագոտի
+vertical scrollbar|ուղղաձիգ ոլորագոտի
+Vertipaq|Vertipaq
+VHLOOKUP|ՈՒՀ ՓՆՏՐՈՒՄ OR Ուղղահայաց-հորիզոնական փնտրում
+Video|Տեսացույց
+video call|տեսականչ
+video capture device|տեսակորզիչ սարք
+video card|տեսաքարտ
+video chat|տեսազրույց
+Video Left|Տեսանյութը՝ ձախ
+video library|տեսադարան
+video mail|տեսանամակ
+video message|տեսաուղերձ
+video messages|տեսաուղերձներ
+video snapshot|տեսաճեպապատկեր
+video storage|տեսապահեստ
+Video Styles|Տեսաոճեր
+Video Top|Տեսանյութը՝ վեր
+view|տեսք
+view|դիտել
+view type|տեսքի տեսակ
+view-only|միայն դիտում
+vignette|եզրաստվերում
+virtual|վիրտուալ
+virtual address|վերիրական հասցե
+virtual desktop|վիրտուալ սեղան
+virtual disk|կարծական սկավառակ
+virtual private network|վիրտուալ մասնավոր ցանց
+virtual ruler|վիրտուալ քանոն
+Virtual Smart Card|Կարծական խելաքարտ
+virtual surround sound|կարծական ընդգրկուն ձայն
+Virtualization Mode|Կարծականացման կերպ
+virus|վիրուս
+Virus & threat protection|Պաշտպանություն վիրուսներից և սպառնալիքներից
+virus protection|պաշտպանություն վիրուսներից
+virus scanner|վիրուսի սահազննիչ
+virus signature|վիրուսի նկարագրություն
+visibility|տեսանելիություն
+visibility mode|տեսանելիության կերպ
+Visio|Visio
+Visual Basic|gridline
+Visual Basic|Visual Basic
+visual challenge|տեսողական իսկորոշում
+Visual Designer|Տեսողական ձևավորող
+visual interface|տեսողական միջերես
+Visual Studio Tools for Applications|Visual Studio գործիքներ գործադիրների համար
+Vocabulary Choice|Բառապաշարի ընտրություն
+voice call|ձայնային կանչ
+voice comment|ձայնային մեկնաբանություն
+voice message|ձայնային ուղերձ
+voice messaging|ձայնային ուղերձում
+voice recognition|ձայնի ճանաչում
+Voice Recorder|Խոսագրիչ
+VoiceOver|Ձայնային ուղղորդում
+volume|ուժգնություն
+volume|հատոր
+volume application|բազմակի լիցենզավորված գործադիր
+volume control button|ուժգնության կառավարի կոճակ
+volume license|բազմակի լիցենզիա
+volume license key|բազմակի լիցենզիայի բանալի
+volume license product key|բազմակի լիցենզիայի բանալի
+volume snapshot device|հատորի ճեպապատկերման սարք
+VPN|VPN
+VRR|VRR
+VSTA|VSTA
+W3|W3
+W9|W9
+wallpaper|պաստառ
+Wallpaper & lock screens|Պաստառներ և արգելափակման էկրաններ
+warm boot|տաք սկզբնաբեռնում
+warm start|տաք մեկնարկ
+warning|զգուշացում
+watch|հետևել
+Watercolor|Ջրաներկ
+waterfall chart|կասկադային գծապատկեր
+watermark|ջրանշան
+WAU|WAU
+Weather|Եղանակ
+Weather Bar|Եղանակի գոտի
+Web|Վեբ
+Web|Ոստայն
+web address|կայքի հասցե
+web app|վեբ գործադիր
+web application|վեբ գործադիր
+Web archive|Վեբ պահոց
+Web beacon|Վեբ փարոս
+Web browser|վեբ զննիչ
+Web browsing|Վեբ զննում
+Web Clipper|Web Clipper
+web connection|վեբ կապակցում
+Web discussion|Վեբ քննարկում
+Web Distributed Authoring and Versioning|WebDAV
+web feed|վեբ սնուցիչ
+Web Folders|վեբ պանակներ
+Web hosting|Վեբ խնամք
+web layout view|կայքի դասավորության տեսք
+web log|վեբ մատյան
+Web Note|Վեբ նշում
+web package|վեբի փաթեթ
+web page|կայքէջ / Վեբ կայքի էջ
+Web Page Preview|Վեբ կայքի նախատեսք
+Web Part|վեբ կայքի մաս
+web part|վեբ մաս
+Web Part zone|Վեբի մասի գոտի
+web presence provider|վեբ ներկայության տրամադրող
+Web query|վեբ հարցում
+Web restrictions|վեբ սահմանափակում
+Web server|վեբ սպասարկիչ
+Web service|վեբ ծառայություն
+webcam|վեբխցիկ
+WebDAV|WebDAV
+weblog|վեբ մատյան
+week number|շաբաթվա համարը
+weight|կշիռ
+Welcome Center|Մուտքակենտրոն
+WEP|WEP
+wet ink|թարմ թանաք
+what-if analysis|ինչ-եթե վերլուծություն
+what's new|ինչ նորություն կա
+whiteboard|գրատախտակ
+WID|WID
+widget|վիջեթ
+widow|այրի
+WiFi|WiFi
+Wi-Fi hotspot|Wi-Fi մատչելիության տարածք
+Wi-Fi Protected Access|պաշտպանված Wi-Fi մատչում
+Wi-Fi Protected Access 2|Պաշտպանված Wi-Fi մատչում 2
+wildcard|դերանշան
+wildcard character|դերանշան
+window|պատուհան
+Window Gallery|Պատուհանների սրահ
+window glass|պատուհանի ապակի
+Windows 10|Windows 10
+Windows 10 Anniversary Update|Արդիացում Windows 10-ի տարեդարձի առթիվ
+Windows 10 Business|Windows 10 Business
+Windows 10 Creators Update|Windows 10 Creators»-ի արդիացում
+Windows 10 Education|Windows 10 Education
+Windows 10 Enterprise|Windows 10 Enterprise
+Windows 10 Enterprise 2015 LTSB|Windows 10 Enterprise 2015 LTSB
+Windows 10 Enterprise 2015 LTSB Evaluation|Windows 10 Enterprise 2015 LTSB Evaluation
+Windows 10 Enterprise 2016 LTSB|Windows 10 Enterprise 2016 LTSB
+Windows 10 Enterprise Evaluation|Windows 10 Enterprise Evaluation
+Windows 10 Enterprise Insider Preview|Windows 10 Enterprise Insider Preview
+Windows 10 Holographic|Windows 10 Holographic
+Windows 10 Home|Windows 10 Home
+Windows 10 Home Insider Preview|Windows 10 Home Insider Preview
+Windows 10 Home Single Language|Windows 10 Home Single Language
+Windows 10 IoT Core|Windows 10 IoT Core
+Windows 10 Mobile Insider Preview|Windows 10 Mobile Insider Preview
+Windows 10 Pro|Windows 10 Pro
+Windows 10 Pro Insider Preview|Windows 10 Pro Insider Preview
+Windows 7 hardware logo|Windows 7 սարքաշարի պատկերանշան
+Windows 7 logo|Windows 7 պատկերանշան
+Windows 7 Logo Program|Windows 7 Համատեղելիության ծրագիր
+Windows 7 software logo|Windows 7 ծրագրաշարի պատկերանշան
+Windows 8|Windows 8
+Windows 8 Consumer Preview|Windows 8 Consumer Preview
+Windows 8 Enterprise|Windows 8 Enterprise
+Windows 8 Media Center Pack|Windows 8 Media Center Փաթեթ / Windows 8 Media Center Pack
+Windows 8 Pro|Windows 8 Pro
+Windows 8 Pro Pack|Windows 8 Pro Pack
+Windows 8 Pro with Media Center|Windows 8 Pro՝ Media Center-ով
+Windows 8 Release Preview|Windows 8 Release Preview
+Windows 8 Single Language|Windows 8 Single Language
+Windows 8 Upgrade Assistant|Windows 8 նորացման օգնական
+Windows 8.1 Enterprise|Windows 8.1 Enterprise
+Windows 8.1 Enterprise Update|Windows 8.1 Enterprise Update
+Windows 8.1 Pro|Windows 8.1 Pro
+Windows 8.1 Pro for Education|Windows 8.1 Pro for Education
+Windows 8.1 Pro Update|Windows 8.1 Pro Update
+Windows 8.1 Pro with Media Center|Windows 8.1 Pro Media Center-ով
+Windows 8.1 Pro with Media Center Update|Windows 8.1 Pro Media Center Update-ով
+Windows 8.1 Single Language|Windows 8.1 Single Language
+Windows 8.1 Single Language Update|Windows 8.1 Single Language Update
+Windows 8.1 Update|Windows 8.1 Update
+Windows 8.1 with Bing|Windows 8.1 Bing-ով
+Windows AC|Windows AC
+Windows activation|Windows գործունացում
+Windows Activation Client|Windows-ի ակտիվացման սպասառու
+Windows Alarms & Clock|Windows Ազդանշաններ & Ժամացույց
+Windows Anytime Upgrade|Windows-ի նորացում ցանկացած պահին
+Windows Assessment Console|Windows Assessment Console
+Windows Assistance Online|Windows-ի առցանց օգնություն
+Windows Backup|Windows պահուստավուրում
+Windows Basics|Windows՛ի հիմունքներ
+Windows button|Windows կոճակ
+Windows Calculator|Windows հաշվիչ
+Windows Calendar|Windows օրացույց
+Windows Call|Windows Կանչ
+Windows Camera|Windows Խցիկ
+Windows Certification Program|Windows Վկայագրման ծրագիր
+Windows Communications Apps|Windows Հաղորդակցումների գործադիրներ
+Windows Community|Windows համայնք
+Windows Connect Now|Windows Connect Now
+Windows Contacts|Windows-ի կապորդներ
+Windows Defender|Windows Պաշտպանիչ
+Windows Defender Advanced Security Center|Windows Պաշտպանիչի բարելավված անվտանգության կենտրոն
+Windows Defender Advanced Threat Protection|Windows Պաշտպանիչի բարելավված պաշտպանություն սպառնալիքներից
+Windows Defender Antivirus|Windows Պաշտպանիչի հակավիրուս
+Windows Defender Application Guard|Windows Պաշտպանիչի գործադիրների պաշտպան
+Windows Defender ATP|Windows Պաշտպանիչի ATP
+Windows Defender Credential Guard|Windows Պաշտպանիչի Credential Guard
+Windows Defender Device Control|Windows Պաշտպանիչի սարքերի հսկիչ
+Windows Defender Device Guard|Windows Պաշտպանիչի Device Guard
+Windows Defender Exploit Guard|Windows Պաշտպանիչի շահագործման պաշտպան
+Windows Defender Firewall|Windows Պաշտպանիչի հրապատ
+Windows Defender Hub|Windows Defender Hub
+Windows Defender Offline|Windows Պաշտպանիչ անցանց
+Windows Defender Security Center|Windows Պաշտպանիչի անվտանգության կենտրոն
+Windows Defender SmartScreen|Windows Պաշտպանիչի SmartScreen
+Windows Desktop Apps Certification Kit|Windows Գործադիրների վկայագրման սեղանի լրակազմ
+Windows Developer Preview|Windows Մշակողի նախատեսք
+Windows device|Windows սարք
+Windows Diagnostics|Windows-ի ախտորոշում
+Windows DVD Player|Windows DVD Նվագարկիչ
+Windows Easy Transfer|Windows-ի պարզ փոխանցում
+Windows Error Reporting|Windows-ի սխալների զեկուցում
+Windows Essentials|Windows Հիմունքներ
+Windows Essentials 2012|Windows Հիմունքներ 2012
+Windows Explorer|Windows Հետախույզ
+Windows Feedback|Windows Արձագանք
+Windows Feedback Hub|Windows Արձագանքի կենտրոն
+Windows Hardware Certification Kit|Windows Սարքաշարի վկայագրման լրակազմ
+Windows HCK|Windows HCK
+Windows Hello|Windows Hello
+Windows Hello face|Windows Hello դեմք
+Windows Hello fingerprint|Windows Hello մատնահետք
+Windows Hello for Business|Windows Hello գործարարների համար
+Windows Hello iris|Windows Hello ծիածան
+Windows Holographic for Business|Windows Holographic for Business
+Windows image|Windows-ի պատկեր
+Windows Information Protection|Windows Information Protection / Windows տվյալների պաշտպանություն
+Windows Ink|Windows Ink
+Windows Ink toolbar|Windows Ink գործիքագոտի
+Windows Ink Workspace|Windows Ink աշխատատարածք
+Windows Insider Community Forum|Windows Ներսորդների համայնքի ֆորում
+Windows Insider Preview|Windows Insider Preview
+Windows Installation Compatibility Advisor|Windows Տեղադրման համատեղելիության խորհրդատու
+Windows Installer|Windows-ի տեղադրիչ
+Windows Internal Database|Windows Ներքին շտեմարան
+Windows Live Alerts|Windows Live Զգուշացումներ
+Windows Live Calendar|Windows Live օրացույց
+Windows Live Call|Windows Live Կանչ
+Windows Live Contacts|Windows Live կապորդներ
+Windows Live Devices|Windows Live Սարքեր
+Windows Live Essentials|Windows Live Հիմունքներ
+Windows Live Events|Windows Live Դեպքեր
+Windows Live Family Safety|Windows Live Ընտանեկան ապահովություն
+Windows Live FrameIt|Windows Live Շրջանակիր
+Windows Live Groups|Windows Live Խմբեր
+Windows Live Home|Windows Live Սկիզբ
+Windows Live Hotmail|Windows Live Hotmail
+Windows Live Mail|Windows Live Փոստ
+Windows Live Messenger|Windows Live Messenger
+Windows Live Movie Maker|Windows Live Կինոարտադրող
+Windows Live Photo Gallery|Windows Live Լուսանկարների սրահ
+Windows Live Profile|Windows Live հատկագիր
+Windows Live Sign-in Assistant|Windows Live Մուտքի օգնական
+Windows Live Spaces|Windows Live տարածքներ
+Windows Live Toolbar|Windows Live Գործիքագոտի
+Windows Live Writer|Windows Live Գրող
+Windows Location Provider|Windows Տեղորոշում տրամադրող
+Windows Mail|Windows Փոստ
+Windows Maps|Windows Քարտեզներ
+Windows Messaging|Windows Ուղերձում
+Windows Metafile Format|Windows անդրնիշքի ձևաչափ
+Windows Mixed Reality|Windows Mixed Reality
+Windows Mobility Center|Windows շարժունության կենտրոն
+Windows MultiPoint Server Repair Service|Windows MultiPoint Server Նորոգման ծառայություն
+Windows PC|Windows ԱՀ
+Windows People|Windows Մարդիկ
+Windows Phone|Windows Phone
+Windows phone|Windows հեռախոս
+Windows Photo Gallery|Windows Լուսանկարների սրահ
+Windows Photo Gallery|Windows Լուսանկարների սրահ
+Windows Photos|Windows Լուսանկարներ
+Windows Problem Reporting|Windows-ի խնդիրների զեկուցում
+Windows Push Notification Service|Windows Push ծանուցման ծառայություն
+Windows RE|Windows RE
+Windows Reader|Windows Ընթերցիչ
+Windows Reading List|Windows ընթերցացուցակ
+Windows Recovery Environment|Windows-ի վերականգնման միջավայր
+Windows Remote Assistance|Windows Հեռակա օգնություն
+Windows RT|Windows RT
+Windows RT 8.1 Update|Windows RT 8.1 Update
+Windows Scan|Windows սկան
+Windows Search|Windows Search
+Windows service|Windows ծառայություն
+Windows Setup|Windows-ի տեղակայում
+Windows Sidebar|Windows-ի կողագոտի
+Windows SideShow|Windows SideShow
+Windows SmartScreen|Windows SmartScreen
+Windows Sonic for Headphones|Windows Sonic ականջակալների համար
+Windows Speech Recognition|Windows Խոսքի ճանաչում
+Windows spotlight|Windows Վարագույր
+Windows Store app|Windows խանութի գործադիր
+Windows Store dashboard|Windows Խանութի կառավահան
+Windows Store device app|Windows խանութի սարքի գործադիր
+Windows Store for Business|Windows Խանութ գործարարության համար
+Windows System Image Backup|Windows համակարգի պատկերի պահուստ
+Windows tablet|Windows գրասալիկ
+Windows To Go|Windows To Go
+Windows Update|Windows Update
+Windows Update Delivery Optimization|Windows Update Առաքման լավարկում
+Windows Update website|Windows Update-ի վեբկայք
+Windows Voice Recorder|Windows Խոսագրիչ
+Windows-ի ախտորոշում|Diagnostics
+wink|ակնթարթ
+WinSock direct|WinSock direct
+wired|լարային
+Wired Equivalent Privacy|Լարայինին համարժեք գաղտնիություն
+wireframe contour chart|կմախքի ուրվագծային գծապատկեր
+wireless|անլար
+wireless display|անլար ցուցադրիչ
+wireless LAN|անլար LAN
+with one click|մեկ կտտոցով
+wizard|մոգ
+WLAN|WLAN
+WLL|WLL
+WNS|WNS
+WOA|WOA
+wobble correction|տատանազերծում
+Word|Բառ
+Word Add-in Library|Word հավելվածքային դարան
+word breaker|բառի ընդհատում
+Word Count|բառահաշվարկ
+word extraction dictionary|բառերի արտահանման բառացանկ
+Word Mobile Viewer|Word Mobile Viewer
+word part extraction dictionary|բառի մասերի արտահանման բառացանկ
+Word Prediction|Բառի գուշակում
+word processing|բառամշակում
+word processor|բառամշակիչ
+Word publication|Word հրապարակում
+word wrap|բառերի ծալում
+Word XML Format|Word XML ձևաչափ
+Word հրապարակում|activation
+WordArt|WordArt
+WordArt text|WordArt գրվածք
+wordwrap|բառածալում
+work account|աշխատանքային հաշիվ
+Work Folders|Աշխատանքային պանակներ
+Work Management Service|Աշխատանքի կառավարման ծառայություն
+Work Management Task Sync|Աշխատանքի կառավարման խնդիրների համաժամում
+work or school account|աշխատանքային կամ դպրոցական հաշիվ
+workbook|աշխատագիրք
+workbook window|աշխատագրքի պատուհան
+workflow|աշխատահոսք
+workflow stage|աշխատահոսքի փուլ
+workgroup|աշխատախումբ
+working hours|աշխատաժամեր
+workpane|աշխատափեղկ
+worksheet|աշխատաթերթ
+workspace|աշխատատարածք
+workspace file|աշխատատարածքի նիշք
+World Wide Web|Համացանց
+World Wide Web Distributed Authoring and Versioning|WebDAV
+worm|որդ
+WPA|WPA
+WPA2|WPA2
+write|գրել
+write access|խմբագրելու իրավունք
+write-protect|գրապաշտպանել
+write-protected|գրապաշտպանված
+Writer|Գրող
+Writing Assistant|Գրավոր խոսքի օգնական
+WSD|WSD
+Wunderlist Helper|Wunderlist-ի օժանդակ
+WWW|WWW
+x-axis|x-առանցք
+Xbox Live|Xbox Live
+Xbox Play Anywhere|Xbox Play Anywhere
+Xbox Video|Xbox տեսարկիչ
+XBT|XBT
+x-coordinate|x-կոորդինատ
+XLL|XLL
+XML|XML
+XML attribute|XML հատկանիշ
+XML element|XML տարր
+XML expansion pack|XML ընդարձակման փաթեթ
+XML feed|XML սնում
+XML Path Language|XML Path լեզու
+XML schema|XML սխեմա
+XPath|XPath
+XrML|XrML
+XSL|XSL
+xy chart|xy գծապատկեր
+Yammer Now|Yammer Now
+yomi|յոմի
+Your Groove|Ձեր Groove-ը
+Your movies|Ձեր շարժանկարները
+Your movies & TV|Ձեր շարժանկարները և ՀՏ / Ձեր ֆիլմերը և ՀՏ
+ZAR|ZAR
+zip|միասեղմել
+ZIP code|փոստային դասիչ
+zoom|խոշորացնել
+zoom|խոշորացում
+Zoom|Դիտափոխում
+Zoom Border|Դիտափոխման եզրագիծ
+Zoom Effects|Դիտափոխման էֆեկտներ
+zoom in|խոշորացնել
+Zoom Options|Դիտափոխման ընտրանքներ
+zoom out|փոքրացնել
+Zoom Playback|Դիտափոխման նվագարկում
+Zoom Styles|Դիտափոխման ոճեր
+Zoom Tools|Դիտափոխման գործիքներ
+Zune|Zune
+

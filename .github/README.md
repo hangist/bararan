@@ -1,1 +1,1 @@
-../Microsoft_term_dict_en-hy.md
+../Microsoft_term_dict_en-hy.txt
